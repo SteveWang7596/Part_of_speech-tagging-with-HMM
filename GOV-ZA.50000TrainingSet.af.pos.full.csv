@@ -1,4 +1,4 @@
-Token,POS
+ï»¿Token,POS
 Die,LB
 doel,NSE
 van,SVS
@@ -48,7 +48,7 @@ die,LB
 eerste,TRAB
 en,KN
 tweede,TRAB
-ekonomie‰,NSM
+ekonomieÃ«,NSM
 ",",ZM
 bestaan,VTHOO
 .,ZE
@@ -208,7 +208,7 @@ drie,THAB
 tipes,NSM
 dienste,NSM
 in,SVS
-kategorie‰,NSM
+kategorieÃ«,NSM
 ingedeel,VVHOG
 :,ZM
 ,
@@ -268,7 +268,7 @@ het,VTHOG
 Elk,PO
 van,UPD
 hierdie,PA
-kategorie‰,NSM
+kategorieÃ«,NSM
 is,VVUOP
 verder,BV
 op,SVS
@@ -304,7 +304,7 @@ lewensgebeure,NA
 is,VVUOP
 verder,BV
 in,SVS
-kategorie‰,NSM
+kategorieÃ«,NSM
 volgens,SVS
 lewensfases,NSM
 ingedeel,VVHOG
@@ -565,7 +565,7 @@ webtuiste,NSE
 ,
 Dit,PDOENP
 word,VTUOP
-hi‰rargies,BS
+hiÃ«rargies,BS
 aangebied,VVHOG
 ",",ZM
 en,KN
@@ -596,7 +596,7 @@ van,SVS
 die,LB
 webtuiste,NSE
 te,UPI
-ori‰nteer,VTHOG
+oriÃ«nteer,VTHOG
 .,ZE
 ,
 Die,LB
@@ -842,7 +842,7 @@ die,LB
 oorkoepelende,ASA
 bestuur,NA
 en,KN
-ko”rdinering,NA
+koÃ¶rdinering,NA
 van,SVS
 die,LB
 webtuiste,NSE
@@ -902,12 +902,12 @@ Acrobat,NEE
 Reader,NEE
 4,RS
 of,KN
-ho‰r,AVP
+hoÃ«r,AVP
 op,SVS
 jou,PTEB
 rekenaar,NSE
-ge‹nstalleer,VVHOG
-hˆ,VTHOG
+geÃ¯nstalleer,VVHOG
+hÃª,VTHOG
 .,ZE
 ,
 Dit,PDOENP
@@ -1036,7 +1036,7 @@ knoppie,NSED
 .,ZE
 ,
 Die,LB
-lˆer,NSE
+lÃªer,NSE
 sal,VTUOM
 afgelaai,VVHOG
 word,VTUOP
@@ -1131,7 +1131,7 @@ knoppie,NSED
 .,ZE
 ,
 Die,LB
-lˆer,NSE
+lÃªer,NSE
 sal,VTUOM
 afgelaai,VVHOG
 word,VTUOP
@@ -1736,7 +1736,7 @@ een,THAB
 van,UPD
 die,LB
 onderstaande,ASA
-kategorie‰,NSM
+kategorieÃ«,NSM
 val,VTHOO
 :,ZM
 ,
@@ -1766,7 +1766,7 @@ van,SVS
 oprigting,NSE
 as,KO
 stigtingsdokument,NSE
-hˆ,VTHOG
+hÃª,VTHOG
 en,KN
 by,SVS
 die,LB
@@ -1820,7 +1820,7 @@ sake,NSM
 ooreenkomstig,SVS
 'n,LO
 grondwet,NSE
-gere‰l,VVHOG
+gereÃ«l,VVHOG
 word,VTUOP
 .,ZE
 ,
@@ -1925,7 +1925,7 @@ persone,NSM
 wat,PB
 in,SVS
 'n,LO
-fidusiˆre,ASA
+fidusiÃªre,ASA
 hoedanigheid,NSE
 optree,VTHSO
 ",",VTHOG
@@ -1977,7 +1977,7 @@ oprigting,NSE
 aan,UPW
 (,ZPL
 insluitende,SVS
-kopie‰,NSM
+kopieÃ«,NSM
 van,SVS
 al,THAO
 die,LB
@@ -2077,7 +2077,7 @@ privaat,ASA
 ),ZPR
 skole,NSM
 ",",VTHOG
-ho‰ronderwysinstellings,NSM
+hoÃ«ronderwysinstellings,NSM
 ",",VTHOG
 instellings,NSM
 vir,SVS
@@ -2154,7 +2154,7 @@ wat,PB
 nodig,ASP
 is,VTHOK
 om,SVS
-di‚,PA
+diÃ©,PA
 persoon,NSE
 van,SVS
 hierdie,PA
@@ -2337,14 +2337,14 @@ familielid,NSE
 van,SVS
 wie,PB
 onderhoud,NM
-ge‰is,VVHOG
+geÃ«is,VVHOG
 word,VTUOP
 ",",VTHOG
 kan,VTUOM
 die,LB
 onderhoud,NM
 wat,PB
-ge‰is,VVHOG
+geÃ«is,VVHOG
 word,VTUOP
 ",",VTHOG
 bekostig,VTHOG
@@ -2353,7 +2353,7 @@ bekostig,VTHOG
 Watter,PV
 uitgawes,NSM
 mag,VTUOM
-ge‰is,VVHOG
+geÃ«is,VVHOG
 word,VTUOP
 ?,ZE
 ,
@@ -2637,7 +2637,7 @@ partye,NSM
 nog,BS
 kinders,NSM
 sou,VVUOM
-hˆ,VTHOG
+hÃª,VTHOG
 ",",VTHOG
 sal,VTUOM
 dit,PDOENP
@@ -2703,7 +2703,7 @@ sal,VTUOM
 vir,SVS
 jou,PTEDP
 kan,VTUOM
-sˆ,VTHOO
+sÃª,VTHOO
 by,SVS
 watter,PB
 hof,NSE
@@ -2892,7 +2892,7 @@ van,SVS
 die,LB
 onderhoud,NM
 wat,PB
-ge‰is,VVHOG
+geÃ«is,VVHOG
 word,VTUOP
 ",",VTHOG
 of,KN
@@ -2996,7 +2996,7 @@ van,SVS
 albei,THAB
 die,LB
 partye,NSM
-‚n,KN
+Ã©n,KN
 hulle,PDMB
 onderskeie,ASA
 getuies,NSM
@@ -3196,7 +3196,7 @@ In,SVS
 die,LB
 afdeling,NSE
 Soort,NSE
-kli‰nt,NSE
+kliÃ«nt,NSE
 :,ZM
 ,
 merk,VTHOG
@@ -3248,7 +3248,7 @@ voorstad,NSE
 waarin,PB
 die,LB
 onderneming,NSE
-gele‰,ASP
+geleÃ«,ASP
 is,VTHOK
 ,
 die,LB
@@ -3258,7 +3258,7 @@ dorp,NSE
 waarin,PB
 die,LB
 onderneming,NSE
-gele‰,ASP
+geleÃ«,ASP
 is,VTHOK
 ,
 die,LB
@@ -3269,7 +3269,7 @@ voorstad,NSE
 waarin,PB
 die,LB
 onderneming,NSE
-gele‰,ASP
+geleÃ«,ASP
 is,VTHOK
 ,
 wie,PB
@@ -3297,7 +3297,7 @@ dokumente,NSM
 sal,VTUOM
 opstel,VTHSG
 en,KN
-voorlˆ,VTHSG
+voorlÃª,VTHSG
 ",",VTHOG
 en,KN
 of,KO
@@ -3483,7 +3483,7 @@ Heg,VTHOG
 oorspronklike,ASA
 of,KN
 gewaarmerkte,ASA
-kopie‰,NSM
+kopieÃ«,NSM
 van,SVS
 die,LB
 volgende,ASA
@@ -3577,7 +3577,7 @@ besturende,ASA
 direkteur,NSE
 en,KN
 die,LB
-finansi‰le,ASA
+finansiÃ«le,ASA
 direkteur,NSE
 .,ZE
 ,
@@ -3619,7 +3619,7 @@ Korting-blokkie,NSED
 in,SVS
 die,LB
 deel,NSE
-Kli‰nttipes,NSM
+KliÃ«nttipes,NSM
 (,ZPL
 A,RS
 ),ZPR
@@ -3636,7 +3636,7 @@ in,SVS
 die,LB
 Handelsbesonderhede-gedeelte,NSE
 (,ZPL
-Kli‰nttipe,NSE
+KliÃ«nttipe,NSE
 II,RS
 ),ZPR
 :,ZM
@@ -3675,7 +3675,7 @@ voorstad,NSE
 waarin,PB
 die,LB
 besigheid,NSE
-gele‰,ASP
+geleÃ«,ASP
 is,VTHOK
 ,
 die,LB
@@ -3685,7 +3685,7 @@ dorp,NSE
 waarin,PB
 die,LB
 besigheid,NSE
-gele‰,ASP
+geleÃ«,ASP
 is,VTHOK
 ,
 die,LB
@@ -3696,7 +3696,7 @@ voorstad,NSE
 waarin,PB
 die,LB
 besigheid,NSE
-gele‰,ASP
+geleÃ«,ASP
 is,VTHOK
 .,ZE
 ,
@@ -3872,7 +3872,7 @@ die,LB
 persoon,NSE
 wat,PB
 om,SVS
-lisensi‰ring,NA
+lisensiÃ«ring,NA
 aansoek,NSE
 doen,VTHOG
 ,
@@ -3934,7 +3934,7 @@ Heg,VTHOG
 oorspronklike,ASA
 of,KN
 gewaarmerkte,ASA
-kopie‰,NSM
+kopieÃ«,NSM
 van,SVS
 die,LB
 volgende,ASA
@@ -4060,7 +4060,7 @@ die,LB
 besturende,ASA
 direkteur,NSE
 en,KN
-finansi‰le,ASA
+finansiÃ«le,ASA
 direkteur,NSE
 .,ZE
 ,
@@ -4157,7 +4157,7 @@ misstowwe,NSM
 Groep,NSE
 1-misstowwe,NSM
 is,VTHOK
-di‚,PA
+diÃ©,PA
 wat,PB
 stikstof,NM
 ",",VTHOG
@@ -4287,7 +4287,7 @@ van,SVS
 die,LB
 registrasiehouer,NSE
 of,KN
-di‚,PA
+diÃ©,PA
 se,UPS
 aangewese,ASA
 verteenwoordiger,NSE
@@ -4453,7 +4453,7 @@ moet,VTUOM
 'n,LO
 oorspronklike,ASA
 handtekening,NSE
-hˆ,VTHOG
+hÃª,VTHOG
 .,ZE
 ,
 Die,LB
@@ -4592,7 +4592,7 @@ moet,VTUOM
 nie,BS
 waarskuwings,NSM
 en,KN
-voorsorgmaatre‰ls,NSM
+voorsorgmaatreÃ«ls,NSM
 nommer,VTHOG
 nie,UPO
 ,
@@ -4605,7 +4605,7 @@ moet,VTUOM
 presies,BS
 ooreenstem,VTHSO
 met,SVS
-di‚,PA
+diÃ©,PA
 op,SVS
 die,LB
 aansoekvorm,NSE
@@ -4703,11 +4703,11 @@ misstowwe,NSM
 Groep,NSE
 2-misstowwe,NSM
 is,VTHOK
-di‚,PA
+diÃ©,PA
 wat,PB
 makro-,RWD
 of,KN
-mikro”rganismes,NSM
+mikroÃ¶rganismes,NSM
 as,KO
 hoofbestanddeel,NSE
 bevat,VTHOG
@@ -4831,7 +4831,7 @@ van,SVS
 die,LB
 registrasiehouer,NSE
 of,KN
-di‚,PA
+diÃ©,PA
 se,UPS
 aangewese,ASA
 verteenwoordiger,NSE
@@ -4997,7 +4997,7 @@ moet,VTUOM
 'n,LO
 oorspronklike,ASA
 handtekening,NSE
-hˆ,VTHOG
+hÃª,VTHOG
 .,ZE
 ,
 Die,LB
@@ -5135,7 +5135,7 @@ wees,VTHOK
 moenie,BS
 waarskuwings,NSM
 en,KN
-voorsorgmaatre‰ls,NSM
+voorsorgmaatreÃ«ls,NSM
 nommer,VTHOG
 nie,UPO
 ,
@@ -5148,7 +5148,7 @@ moet,VTUOM
 presies,BS
 ooreenstem,VTHSO
 met,SVS
-di‚,PA
+diÃ©,PA
 op,SVS
 die,LB
 aansoekvorm,NSE
@@ -5159,9 +5159,9 @@ word,VTUOP
 slegs,BS
 toegestaan,VVHOG
 vir,SVS
-vari‰teite,NSM
+variÃ«teite,NSM
 van,SVS
-di‚,PA
+diÃ©,PA
 soorte,NSM
 plante,NSM
 wat,PB
@@ -5204,7 +5204,7 @@ Registrateur,NSE
 Planttelersregte,NSM
 kan,VTUOM
 'n,LO
-vari‰teit,NSE
+variÃ«teit,NSE
 as,KO
 nuut,BS
 beskou,VTHOG
@@ -5218,7 +5218,7 @@ indien,KO
 Voortplantingsmateriaal,NM
 van,SVS
 daardie,PA
-vari‰teit,NSE
+variÃ«teit,NSE
 nog,BS
 nie,BS
 vir,SVS
@@ -5236,7 +5236,7 @@ nie,UPO
 Voortplantingsmateriaal,NM
 vir,SVS
 'n,LO
-vari‰teit,NSE
+variÃ«teit,NSE
 van,SVS
 'n,LO
 boom,NSE
@@ -5301,7 +5301,7 @@ duidelik,BS
 van,SVS
 enige,PO
 ander,ASA
-vari‰teit,NSE
+variÃ«teit,NSE
 van,SVS
 dieselfde,ASA
 spesie,NSE
@@ -5313,7 +5313,7 @@ eenvormig,ASP
 ",",VTHOG
 dit,PDOENP
 wil,VTUOM
-sˆ,VTHOO
+sÃª,VTHOO
 al,THAO
 die,LB
 plante,NSM
@@ -5333,16 +5333,16 @@ stabiel,ASP
 ",",VTHOG
 dit,PDOENP
 wil,VTUOM
-sˆ,VTHOG
+sÃª,VTHOG
 al,THAO
 die,LB
 plante,NSM
 van,SVS
 die,LB
 bepaalde,ASA
-vari‰teit,NSE
+variÃ«teit,NSE
 lyk,VTHOK
-n ,SVS
+nÃ¡,SVS
 herhaalde,ASA
 kweking,NSE
 nog,BS
@@ -5379,7 +5379,7 @@ soort,NSE
 plant,NSE
 van,SVS
 die,LB
-vari‰teit,NSE
+variÃ«teit,NSE
 waarvoor,PB
 beskerming,NSE
 aangevra,VVHOG
@@ -5466,7 +5466,7 @@ as,KO
 jy,PTENP
 nie,BS
 die,LB
-vari‰teit,NSE
+variÃ«teit,NSE
 nie,BS
 self,PDOEW
 gekweek,VVHOG
@@ -5488,10 +5488,10 @@ aan,UPW
 met,SVS
 watter,PB
 bekende,ASA
-vari‰teite,NSM
+variÃ«teite,NSM
 die,LB
 nuwe,ASA
-vari‰teit,NSE
+variÃ«teit,NSE
 vergelyk,VTHOG
 moet,VTUOM
 word,VTUOP
@@ -5511,7 +5511,7 @@ voorlopige,ASA
 beskerming,NSE
 van,SVS
 'n,LO
-vari‰teit,NSE
+variÃ«teit,NSE
 aansoek,NSE
 doen,VTHOG
 .,ZE
@@ -5520,7 +5520,7 @@ Dit,PDOENP
 beteken,VTHOO
 dat,KO
 die,LB
-vari‰teit,NSE
+variÃ«teit,NSE
 vir,SVS
 die,LB
 duur,NA
@@ -5541,7 +5541,7 @@ voortplantingsmateriaal,NM
 van,SVS
 die,LB
 betrokke,ASA
-vari‰teit,NSE
+variÃ«teit,NSE
 te,UPI
 verkoop,VTHOG
 (,ZPL
@@ -5634,7 +5634,7 @@ As,KO
 daar,UXD
 reeds,BS
 'n,LO
-vari‰teitslys,NSE
+variÃ«teitslys,NSE
 bestaan,VTHOG
 vir,SVS
 die,LB
@@ -5813,7 +5813,7 @@ van,SVS
 die,LB
 registrasiehouer,NSE
 of,KN
-di‚,PA
+diÃ©,PA
 se,UPS
 aangewese,ASA
 verteenwoordiger,NSE
@@ -5987,7 +5987,7 @@ moet,VTUOM
 'n,LO
 oorspronklike,ASA
 handtekening,NSE
-hˆ,VTHOG
+hÃª,VTHOG
 .,ZE
 ,
 Die,LB
@@ -6461,7 +6461,7 @@ aansoeker,NSE
 ,
 Fakse,NSM
 ",",ZM
-kopie‰,NSM
+kopieÃ«,NSM
 en,KN
 e-posboodskappe,NSM
 sal,VTUOM
@@ -6527,7 +6527,7 @@ Sorg,VTHOG
 egter,BS
 dat,KO
 jy,PTENP
-¢f,KN
+Ã³f,KN
 'n,LO
 rekreasiepermit,NSE
 vir,SVS
@@ -6540,7 +6540,7 @@ mag,VTUOM
 vervoer,VTHOG
 word,VTUOP
 ),ZPR
-¢f,KN
+Ã³f,KN
 'n,LO
 kontantstrokie,NSE
 vir,SVS
@@ -6563,7 +6563,7 @@ gestuur,VVHOG
 word,VTUOP
 .,ZE
 ,
-Kommersi‰le,ASA
+KommersiÃ«le,ASA
 visvangs,NSE
 behels,VTHOG
 dat,KO
@@ -6781,7 +6781,7 @@ besending,NSE
 perlemoen,NM
 'n,LO
 CITES-sertifikaat,NSE
-hˆ,VTHOG
+hÃª,VTHOG
 .,ZE
 ,
 Vir,SVS
@@ -6813,7 +6813,7 @@ ook,BS
 die,LB
 betrokke,ASA
 vangsstatistiek-dokument,NSE
-hˆ,VTHOG
+hÃª,VTHOG
 .,ZE
 ,
 Vangsstatistiek-dokumente,NSM
@@ -6956,8 +6956,8 @@ tussen,SVS
 die,LB
 twee,THAB
 partye,NSM
-‚n,KN
-kopie‰,NSM
+Ã©n,KN
+kopieÃ«,NSM
 van,SVS
 die,LB
 ondertekenaars,NSM
@@ -6966,7 +6966,7 @@ identiteitsdokumente,NSM
 aangeheg,VVHOG
 word,VTUOP
 ,
-kopie‰,NSM
+kopieÃ«,NSM
 van,SVS
 vangsstatistiek-dokumente,NSM
 moet,VTUOM
@@ -7066,7 +7066,7 @@ word,VTUOP
 ,
 Dien,VTHOG
 gewaarmerkte,ASA
-kopie‰,NSM
+kopieÃ«,NSM
 van,SVS
 die,LB
 volgende,ASA
@@ -7236,7 +7236,7 @@ nie,UPO
 Om,SVS
 vis,NM
 op,SVS
-kommersi‰le,ASA
+kommersiÃ«le,ASA
 grondslag,NSE
 in,UPW
 te,UPI
@@ -7642,7 +7642,7 @@ se,UPS
 registrasiedokumente,NSM
 ,
 gewaarmerkte,ASA
-kopie‰,NSM
+kopieÃ«,NSM
 van,SVS
 geldige,ASA
 invoerpermitte,NSM
@@ -7657,7 +7657,7 @@ of,KN
 permitbekendstellings,NSM
 ,
 gewaarmerkte,ASA
-kopie‰,NSM
+kopieÃ«,NSM
 van,SVS
 die,LB
 oorspronklike,ASA
@@ -8197,7 +8197,7 @@ op,SVS
 die,LB
 aansoekvorm,NSE
 volledig,BS
-s¢,UPV
+sÃ³,UPV
 aanvaar,VTHOG
 of,KN
 dit,PDOENP
@@ -8230,7 +8230,7 @@ op,SVS
 die,LB
 aansoekvorm,NSE
 volledig,BS
-s¢,UPV
+sÃ³,UPV
 aanvaar,VTHOG
 of,KN
 dit,PDOENP
@@ -8285,7 +8285,7 @@ vorm,NSE
 CM5,RS
 voor,UPW
 te,UPI
-lˆ,VTHOG
+lÃª,VTHOG
 -,ZM
 Aansoek,NSE
 om,SVS
@@ -8607,7 +8607,7 @@ is,VVUOP
 en,KN
 stipuleer,VTHOG
 die,LB
-re‰ls,NSM
+reÃ«ls,NSM
 vir,SVS
 mense,NSM
 wat,PB
@@ -8874,7 +8874,7 @@ moet,VTUOM
 hulle,PDMP
 by,SVS
 die,LB
-Ho‰rhof,NSE
+HoÃ«rhof,NSE
 aansoek,NSE
 doen,VTHOG
 .,ZE
@@ -9227,7 +9227,7 @@ vrou,NSE
 Brief,NSE
 of,KN
 'n,LO
-be‰digde,ASA
+beÃ«digde,ASA
 verklaring,NSE
 van,SVS
 die,LB
@@ -9384,7 +9384,7 @@ burger,NSE
 ",",ZM
 dit,PDOENP
 wil,VTUOM
-sˆ,VTHOG
+sÃª,VTHOG
 'n,LO
 buitelander,NSE
 ",",ZM
@@ -9711,7 +9711,7 @@ C,RS
 VMS,RL
 aan,SVS
 boord,NSE
-hˆ,VTHOG
+hÃª,VTHOG
 ",",ZM
 wat,PB
 aan,SVS
@@ -9994,7 +9994,7 @@ swart,ASA
 ",",ZM
 kleurling-,RWD
 en,KN
-Indi‰rgemeenskap,NSE
+IndiÃ«rgemeenskap,NSE
 te,UPI
 help,VTHOG
 om,SVS
@@ -10028,7 +10028,7 @@ swart,ASA
 ",",ZM
 kleurling,NSE
 of,KN
-Indi‰r,NSE
+IndiÃ«r,NSE
 ),ZPR
 val,VTHOO
 ,
@@ -10105,7 +10105,7 @@ en,KN
 ,
 'n,LO
 bankrekening,NSE
-hˆ,VTHOG
+hÃª,VTHOG
 .,ZE
 ,
 Suksesvolle,ASA
@@ -10346,7 +10346,7 @@ fundamentele,ASA
 menseregte,NSM
 .,ZE
 ,
-Lˆ,VTHOG
+LÃª,VTHOG
 die,LB
 grondslag,NSE
 vir,SVS
@@ -10481,7 +10481,7 @@ om,SVS
 tot,SVS
 hul,PDMB
 maksimum,ASA
-vermo‰,NSE
+vermoÃ«,NSE
 te,UPI
 presteer,VTHOO
 .,ZE
@@ -10546,7 +10546,7 @@ wat,PB
 deur,SVS
 die,LB
 Grondwet,NSE
-ge‹nspireer,VVHOG
+geÃ¯nspireer,VVHOG
 is,VVUOP
 en,KN
 in,SVS
@@ -10674,7 +10674,7 @@ toon,VTHOG
 Begryp,VTHOG
 dat,KO
 die,LB
-wˆreld,NSE
+wÃªreld,NSE
 'n,LO
 stel,NSE
 verwante,ASA
@@ -10716,7 +10716,7 @@ en,KN
 ondersoek,VTHOG
 'n,LO
 verskeidenheid,NSE
-strategie‰,NSM
+strategieÃ«,NSM
 om,SVS
 doeltreffender,BV
 te,UPI
@@ -10736,7 +10736,7 @@ plaaslike,ASA
 ",",ZM
 nasionale,ASA
 en,KN
-wˆreldgemeenskap,NSE
+wÃªreldgemeenskap,NSE
 deel,UPW
 .,ZE
 ,
@@ -10780,7 +10780,7 @@ soos,UPV
 MIV,RL
 /,RS
 VIGS,RK
-be‹nvloed,VTHOG
+beÃ¯nvloed,VTHOG
 die,LB
 graad,NSE
 waartoe,PB
@@ -10914,7 +10914,7 @@ Kuns,NA
 en,KN
 Kultuur,NA
 ,
-Lewensori‰ntering,NA
+LewensoriÃ«ntering,NA
 ,
 Ekonomiese,ASA
 en,KN
@@ -11010,7 +11010,7 @@ as,KO
 oor,SVS
 grade,NSM
 heen,BS
-ge‹ntegreer,VVHOG
+geÃ¯ntegreer,VVHOG
 word,VTUOP
 .,ZE
 ,
@@ -11194,7 +11194,7 @@ in,SVS
 enige,PO
 gegewe,ASA
 tydperk,NSE
-ge‹mplementeer,VVHOG
+geÃ¯mplementeer,VVHOG
 kan,VTUOM
 word,VTUOP
 .,ZE
@@ -11216,7 +11216,7 @@ Lewensvaardighede,NSM
 ,
 In,SVS
 die,LB
-Intermediˆre,ASA
+IntermediÃªre,ASA
 Fase,NSE
 is,VTHOK
 Tale,NSM
@@ -11263,7 +11263,7 @@ ander,ASA
 leerprogramme,NSM
 in,SVS
 die,LB
-Intermediˆre,ASA
+IntermediÃªre,ASA
 Fase,NSE
 besluit,VTHOG
 ",",ZM
@@ -11610,10 +11610,10 @@ wat,PB
 verskillend,ASP
 is,VTHOK
 van,SVS
-di‚,PA
+diÃ©,PA
 wat,PB
 apartheidsonderwys,NA
-onderlˆ,VTHOG
+onderlÃª,VTHOG
 het,VUOT
 .,ZE
 ,
@@ -11693,7 +11693,7 @@ omgewing,NSE
 en,KN
 met,SVS
 die,LB
-vermo‰,NSE
+vermoÃ«,NSE
 om,SVS
 as,KO
 'n,LO
@@ -11817,7 +11817,7 @@ belangrik,ASP
 dat,KO
 leerders,NSM
 'n,LO
-ho‰,ASA
+hoÃ«,ASA
 taalbevoegdheidsvlak,NSE
 in,SVS
 minstens,BS
@@ -12081,7 +12081,7 @@ begin,VTHOO
 deur,SVS
 leerders,NSM
 se,UPS
-vermo‰,NSE
+vermoÃ«,NSE
 om,SVS
 die,LB
 taal,NSE
@@ -12459,7 +12459,7 @@ kommunikeer,VTHOG
 en,KN
 verstaan,VTHOG
 ons,PEMB
-wˆreld,NSE
+wÃªreld,NSE
 deur,SVS
 taal,NSE
 .,ZE
@@ -12484,7 +12484,7 @@ wat,PB
 in,SVS
 die,LB
 Tale-leerareaverklaring,NSE
-weerspie‰l,VTHOG
+weerspieÃ«l,VTHOG
 word,VTUOP
 .,ZE
 ,
@@ -13207,7 +13207,7 @@ tydens,SVS
 onderrig,NA
 en,KN
 assessering,NA
-ge‹ntegreer,VVHOG
+geÃ¯ntegreer,VVHOG
 te,UPI
 word,VTUOP
 .,ZE
@@ -13331,7 +13331,7 @@ tekste,NSM
 asook,KN
 taalvaardighede,NSM
 en,KN
--strategie‰,RWD
+-strategieÃ«,RWD
 .,ZE
 ,
 Tekste,NSM
@@ -13619,7 +13619,7 @@ kan,VTUOM
 ook,BS
 deur,SVS
 temas,NSM
-ge‹ntegreer,VVHOG
+geÃ¯ntegreer,VVHOG
 word,VTUOP
 .,ZE
 ,
@@ -13829,7 +13829,7 @@ instrumente,NSM
 het,VTHOG
 om,SVS
 hul,PDMB
-wˆreld,NSE
+wÃªreld,NSE
 en,KN
 die,LB
 mondelinge,ASA
@@ -14113,7 +14113,7 @@ en,KN
 'n,LO
 verskeidenheid,NSE
 gepaste,ASA
-strategie‰,NSM
+strategieÃ«,NSM
 om,SVS
 onderwysers,NSM
 in,SVS
@@ -14283,7 +14283,7 @@ die,LB
 volgende,ASA
 kenmerke,NSM
 te,UPI
-hˆ,VTHOG
+hÃª,VTHOG
 :,ZM
 ,
 deursigtig,ASP
@@ -14294,7 +14294,7 @@ duidelik,BS
 gefokus,ASP
 ;,ZM
 ,
-ge‹ntegreer,VVHOG
+geÃ¯ntegreer,VVHOG
 met,SVS
 onderrig,NA
 en,KN
@@ -14388,7 +14388,7 @@ in,UPW
 ,
 grondlynassessering,NA
 van,SVS
-vroe‰re,AVA
+vroeÃ«re,AVA
 leer,NA
 ,
 Grondlynassessering,NA
@@ -14455,7 +14455,7 @@ word,VTUOP
 opgevolg,VVHOG
 deur,SVS
 gepaste,ASA
-strategie‰,NSM
+strategieÃ«,NSM
 vir,SVS
 ondersteuning,NA
 of,KN
@@ -14785,7 +14785,7 @@ leerders,NSM
 maak,VTHOG
 voorsiening,NA
 vir,SVS
-ge‹ntegreerde,ASA
+geÃ¯ntegreerde,ASA
 assessering,NA
 :,ZM
 Dit,PDOENP
@@ -14834,7 +14834,7 @@ geleenthede,NSM
 waartydens,PB
 leerders,NSM
 hul,PDMB
-vermo‰,NSE
+vermoÃ«,NSE
 kan,VTUOM
 toon,VTHOG
 ",",ZM
@@ -14845,7 +14845,7 @@ word,VTUOP
 .,ZE
 ,
 gebruik,VTHOG
-strategie‰,NSM
+strategieÃ«,NSM
 wat,PB
 voorsiening,NA
 vir,SVS
@@ -14965,7 +14965,7 @@ ten,SVS
 einde,NSE
 'n,LO
 verskeidenheid,NSE
-assessering-strategie‰,NSM
+assessering-strategieÃ«,NSM
 in,UPW
 te,UPI
 sluit,VTHOG
@@ -14998,13 +14998,13 @@ geleer,VVHOG
 het,VUOT
 .,ZE
 ,
-Assesseringstrategie‰,NSM
+AssesseringstrategieÃ«,NSM
 ,
 Die,LB
 keuse,NSE
 van,SVS
 watter,PB
-assesseringstrategie‰,NSM
+assesseringstrategieÃ«,NSM
 om,SVS
 te,UPI
 gebruik,VTHOG
@@ -15040,7 +15040,7 @@ van,SVS
 ruimte,NSE
 en,KN
 hulpmiddels,NSM
-be‹nvloed,VTHOG
+beÃ¯nvloed,VTHOG
 hierdie,PA
 besluit,NSE
 ",",ZM
@@ -15299,7 +15299,7 @@ skoolassesseringsplan,NSE
 en,KN
 'n,LO
 span,NSE
-hˆ,VTHOG
+hÃª,VTHOG
 om,SVS
 die,LB
 implementering,NA
@@ -15321,7 +15321,7 @@ en,KN
 leerarea,NSE
 daarin,PB
 te,UPI
-hˆ,VTHOG
+hÃª,VTHOG
 .,ZE
 ,
 Om,SVS
@@ -15351,7 +15351,7 @@ deurlopende,ASA
 assessering,NA
 beplan,VTHOG
 en,KN
-ge‹mplementeer,VVHOG
+geÃ¯mplementeer,VVHOG
 word,VTUOP
 ;,ZM
 ,
@@ -15509,7 +15509,7 @@ assessering,NA
 'n,LO
 Verslagboek,NSE
 of,KN
--lˆer,RWD
+-lÃªer,RWD
 moet,VTUOM
 deur,SVS
 elke,PO
@@ -15724,7 +15724,7 @@ word,VTUOP
 ;,ZM
 ,
 hoe,PB
-ge‹ndividualiseer,VVHOG
+geÃ¯ndividualiseer,VVHOG
 die,LB
 terugvoering,NA
 is,VVUOP
@@ -16252,7 +16252,7 @@ leerder,NSE
 dieselfde,ASA
 punt,NSE
 as,KO
-vroe‰r,BV
+vroeÃ«r,BV
 behaal,VTHOG
 (,ZPL
 mits,KO
@@ -16817,7 +16817,7 @@ werk,NA
 word,VTUOP
 in,SVS
 'n,LO
-lˆer,NSE
+lÃªer,NSE
 of,KN
 houer,NSE
 geplaas,VVHOG
@@ -17673,7 +17673,7 @@ akkommodasie,NA
 by,SVS
 die,LB
 kwarantynstasie,NSE
-re‰l,VTHOG
+reÃ«l,VTHOG
 en,KN
 die,LB
 toepaslike,ASA
@@ -17708,7 +17708,7 @@ vir,SVS
 ingevoerde,ASA
 diere,NSM
 of,KN
-vo‰ls,NSM
+voÃ«ls,NSM
 wat,PB
 onder,SVS
 kwarantyn,NA
@@ -17743,7 +17743,7 @@ ingevulde,ASA
 aansoekvorm,NSE
 sal,VTUOM
 'n,LO
-veterinˆre,ASA
+veterinÃªre,ASA
 invoerpermit,NSE
 en,KN
 'n,LO
@@ -17831,7 +17831,7 @@ aan,SVS
 die,LB
 Suid-Afrikaanse,ASA
 veeartseny-invoerbeampte,NSE
-voorgelˆ,VVHOG
+voorgelÃª,VVHOG
 word,VTUOP
 :,ZM
 ,
@@ -17861,12 +17861,12 @@ hondsdolheid,NM
 Wanneer,PB
 nat,ASA
 of,KN
-dro‰,ASA
+droÃ«,ASA
 huide,NSM
 en,KN
 velle,NSM
 en,KN
-trofe‰,NSM
+trofeÃ«,NSM
 ingevoer,VVHOG
 word,VTUOP
 ",",ZM
@@ -17885,7 +17885,7 @@ waar,PB
 die,LB
 goedgekeurde,ASA
 fasiliteit,NSE
-gele‰,ASP
+geleÃ«,ASP
 is,VTHOK
 .,ZE
 ,
@@ -17973,7 +17973,7 @@ binnekoms,NA
 aan,SVS
 die,LB
 veeartsenybeampte,NSE
-voorgelˆ,VVHOG
+voorgelÃª,VVHOG
 word,VTUOP
 ",",ZM
 saam,BS
@@ -18083,7 +18083,7 @@ moet,VTUOM
 jy,PTENP
 twee,THAB
 permitte,NSM
-hˆ,VTHOG
+hÃª,VTHOG
 .,ZE
 ,
 Een,THAB
@@ -18290,7 +18290,7 @@ daardie,PA
 toestemming,NA
 aan,SVS
 hulle,PDMP
-voorgelˆ,VVHOG
+voorgelÃª,VVHOG
 het,VUOT
 .,ZE
 ,
@@ -18461,7 +18461,7 @@ elders,BS
 (,ZPL
 dit,PDOENP
 wil,VTUOM
-sˆ,VTHOG
+sÃª,VTHOG
 waar,PB
 dit,PDOENP
 geregistreer,VVHOG
@@ -18926,11 +18926,11 @@ vir,SVS
 spesifieke,ASA
 produk,NSE
 wil,VTUOM
-hˆ,VTHOG
+hÃª,VTHOG
 ",",ZM
 kan,VTUOM
 jy,PTENP
-voorbeeldkopie‰,NSM
+voorbeeldkopieÃ«,NSM
 van,SVS
 die,LB
 veeartseny-invoerpermit,NSE
@@ -18958,7 +18958,7 @@ aan,SVS
 die,LB
 Suid-Afrikaanse,ASA
 veeartsenyinvoerbeampte,NSE
-voorlˆ,VTHSG
+voorlÃª,VTHSG
 :,ZM
 ,
 oorspronklike,ASA
@@ -18989,7 +18989,7 @@ van,UPD
 die,LB
 volgende,ASA
 inspeksiepunte,NSM
-ge‹nspekteer,VVHOG
+geÃ¯nspekteer,VVHOG
 word,VTUOP
 :,ZM
 Durban,NEE
@@ -19973,7 +19973,7 @@ onderteken,VTHOG
 en,KN
 van,SVS
 'n,LO
-se‰l,NSE
+seÃ«l,NSE
 voorsien,VTHOG
 word,VTUOP
 ",",ZM
@@ -19987,7 +19987,7 @@ daarby,PB
 aangeheg,VVHOG
 word,VTUOP
 :,ZM
-¢f,KN
+Ã³f,KN
 'n,LO
 apostilsertifikaat,NSE
 (,ZPL
@@ -20006,7 +20006,7 @@ Oktober,NEE
 is,VTHOK
 ),ZPR
 ",",ZM
-¢f,KN
+Ã³f,KN
 'n,LO
 egtheidsertifikaat,NSE
 (,ZPL
@@ -20065,7 +20065,7 @@ dokumente,NSM
 te,UPI
 bekom,VTHOG
 aan,SVS
-kli‰nte,NSM
+kliÃ«nte,NSM
 ,
 verstrek,VTHOG
 inligting,NM
@@ -20076,7 +20076,7 @@ pos,NM
 of,KN
 e-pos,NSE
 aan,SVS
-kli‰nte,NSM
+kliÃ«nte,NSM
 .,ZE
 ,
 Suid-Afrikaanse,ASA
@@ -20148,7 +20148,7 @@ uitreik,VTHSG
 indien,KO
 die,LB
 volgende,ASA
-re‰ls,NSM
+reÃ«ls,NSM
 nagekom,VVHOG
 is,VVUOP
 :,ZM
@@ -20167,7 +20167,7 @@ moet,VTUOM
 aan,SVS
 die,LB
 attesteringsafdeling,NSE
-sˆ,VTHOG
+sÃª,VTHOG
 in,SVS
 watter,PB
 land,NSE
@@ -20224,7 +20224,7 @@ of,KN
 assistent-griffier,NSE
 van,SVS
 die,LB
-ho‰r,AVA
+hoÃ«r,AVA
 hof,NSE
 van,SVS
 Suid-Afrika,NEE
@@ -20392,7 +20392,7 @@ in,SVS
 die,LB
 buiteland,NM
 (,ZPL
-ho‰kommissariaat,NSE
+hoÃ«kommissariaat,NSE
 ",",ZM
 ambassade,NSE
 of,KN
@@ -20415,7 +20415,7 @@ of,KN
 rekenaardrukstukke,NSM
 ,
 gewaarmerkte,ASA
-kopie‰,NSM
+kopieÃ«,NSM
 van,SVS
 huwelik-,RWD
 ",",ZM
@@ -20426,7 +20426,7 @@ en,KN
 klaringsbewyse,NSM
 ,
 gewaarmerkte,ASA
-kopie‰,NSM
+kopieÃ«,NSM
 van,SVS
 huwelikstaatsertifikate,NSM
 (,ZPL
@@ -20439,7 +20439,7 @@ van,SVS
 burgerskap,NA
 ,
 gewaarmerkte,ASA
-kopie‰,NSM
+kopieÃ«,NSM
 van,SVS
 reisdokumente,NSM
 of,KN
@@ -20453,7 +20453,7 @@ van,SVS
 ede,NSM
 as,KO
 ware,ASA
-kopie‰,NSM
+kopieÃ«,NSM
 van,SVS
 die,LB
 oorspronklike,ASA
@@ -20808,7 +20808,7 @@ die,LB
 Republiek,NSE
 van,SVS
 Suid-Afrika,NEE
-ge‹nkorporeer,VVHOG
+geÃ¯nkorporeer,VVHOG
 of,KN
 opgerig,VVHOG
 is,VVUOP
@@ -21083,7 +21083,7 @@ aansoek,NSE
 om,SVS
 'n,LO
 vaartuiglisensie,NSE
-voorgelˆ,VVHOG
+voorgelÃª,VVHOG
 of,KN
 ingesluit,VVHOG
 word,VTUOP
@@ -21709,7 +21709,7 @@ indien,VTHSG
 Persoonlike,ASA
 klagtes,NSM
 of,KN
-di‚,PA
+diÃ©,PA
 per,SVS
 telefoon,NSE
 moet,VTUOM
@@ -22077,7 +22077,7 @@ betalingsadvies,NA
 ",",ZM
 op,SVS
 of,KN
-v¢¢r,SVS
+vÃ³Ã³r,SVS
 voorgeskrewe,ASA
 die,LB
 betaaldatums,NSM
@@ -22229,7 +22229,7 @@ geld,VTHOO
 ook,BS
 vir,SVS
 alle,THAO
-kli‰nte,NSM
+kliÃ«nte,NSM
 van,SVS
 Absa,RK
 ",",ZM
@@ -22260,7 +22260,7 @@ is,VTHOK
 :,ZM
 ,
 die,LB
-kli‰nt,NSE
+kliÃ«nt,NSE
 se,UPS
 19-syfer,NSE
 lange,ASA
@@ -22468,7 +22468,7 @@ die,LB
 betrokke,ASA
 SAID-takkantoor,NSE
 ruim,BS
-v¢¢r,SVS
+vÃ³Ã³r,SVS
 die,LB
 betaaldatum,NSE
 bereik,VTHOG
@@ -22749,7 +22749,7 @@ goedgekeurde,ASA
 einddatum,NSE
 van,SVS
 die,LB
-finansi‰le,ASA
+finansiÃ«le,ASA
 jaar,NSE
 .,ZE
 ,
@@ -22769,7 +22769,7 @@ trusts,NSM
 As,KO
 Februarie,NEE
 as,KO
-finansi‰le,ASA
+finansiÃ«le,ASA
 einddatum,NSE
 swaarkry,NA
 sal,VTUOM
@@ -22784,7 +22784,7 @@ verkry,VTHOG
 het,VUOT
 om,SVS
 jou,PTEB
-finansi‰le,ASA
+finansiÃ«le,ASA
 state,NSM
 op,SVS
 'n,LO
@@ -22792,7 +22792,7 @@ ander,ASA
 datum,NSE
 voor,UPW
 te,UPI
-lˆ,VTHOG
+lÃª,VTHOG
 ",",ZM
 kan,VTUOM
 jy,PTENP
@@ -22808,14 +22808,14 @@ in,UPW
 te,UPI
 dien,VTHOG
 op,SVS
-di‚,PA
+diÃ©,PA
 datum,NSE
 wat,PB
 as,KO
 einddatum,NSE
 van,SVS
 die,LB
-finansi‰le,ASA
+finansiÃ«le,ASA
 jaar,NSE
 goedgekeur,VVHOG
 is,VVUOP
@@ -23063,7 +23063,7 @@ geld,VTHOO
 ook,BS
 vir,SVS
 alle,THAO
-kli‰nte,NSM
+kliÃ«nte,NSM
 van,SVS
 Absa,RK
 ",",ZM
@@ -23094,7 +23094,7 @@ is,VTHOK
 :,ZM
 ,
 die,LB
-kli‰nt,NSE
+kliÃ«nt,NSE
 se,UPS
 19-syfer,NSE
 lange,ASA
@@ -23298,7 +23298,7 @@ die,LB
 betrokke,ASA
 SAID-takkantoor,NSE
 ruim,BS
-v¢¢r,SVS
+vÃ³Ã³r,SVS
 die,LB
 betaaldatum,NSE
 bereik,VTHOG
@@ -23384,7 +23384,7 @@ vrywilliglik,BS
 en,KN
 sonder,SVS
 betaling,NSE
-polisi‰ringsfunksies,NSM
+polisiÃ«ringsfunksies,NSM
 of,KN
 -aktiwiteite,RWD
 vir,SVS
@@ -23407,7 +23407,7 @@ een,THAB
 van,UPD
 die,LB
 onderstaande,ASA
-kategorie‰,NSM
+kategorieÃ«,NSM
 dien,VTHOO
 :,ZM
 ,
@@ -23415,7 +23415,7 @@ Kategorie,NSE
 A-reservis,NSE
 :,ZM
 Funksionele,ASA
-polisi‰ring,NA
+polisiÃ«ring,NA
 ,
 verrig,VTHOG
 funksies,NSM
@@ -23424,7 +23424,7 @@ alle,THAO
 operasionele,ASA
 fasette,NSM
 van,SVS
-polisi‰ring,NA
+polisiÃ«ring,NA
 ",",ZM
 hetsy,KO
 by,SVS
@@ -23460,7 +23460,7 @@ toepaslike,ASA
 aspekte,NSM
 van,SVS
 funksionele,ASA
-polisi‰ring,NA
+polisiÃ«ring,NA
 opgelei,VVHOG
 .,ZE
 ,
@@ -23486,7 +23486,7 @@ maar,KN
 mag,VTUOM
 nie,BS
 funksionele,ASA
-polisi‰ringsdienste,NSM
+polisiÃ«ringsdienste,NSM
 verrig,VTHOG
 nie,UPO
 ,
@@ -23527,7 +23527,7 @@ C-reservis,NSE
 :,ZM
 Gespesialiseerde,ASA
 funksionele,ASA
-polisi‰ring,NA
+polisiÃ«ring,NA
 ,
 moet,VTUOM
 oor,SVS
@@ -23546,7 +23546,7 @@ kan,VTUOM
 word,VTUOP
 ",",ZM
 bv.,RA
-vlie‰niers,NSM
+vlieÃ«niers,NSM
 ",",ZM
 dokters,NSM
 ",",ZM
@@ -23606,10 +23606,10 @@ D-reservis,NSE
 :,ZM
 Plattelandsesektor-,RWD
 en,KN
-stedelikesektor-polisi‰ring,NA
+stedelikesektor-polisiÃ«ring,NA
 ,
 verrig,VTHOG
-polisi‰ringsfunksies,NSM
+polisiÃ«ringsfunksies,NSM
 van,SVS
 operasionele,ASA
 aard,NA
@@ -23617,7 +23617,7 @@ wat,PB
 betrekking,NA
 het,VTHOG
 op,SVS
-sektorpolisi‰ring,NA
+sektorpolisiÃ«ring,NA
 in,SVS
 stedelike,ASA
 en,KN
@@ -23669,15 +23669,15 @@ moet,VTUOM
 opgelei,VVHOG
 word,VTUOP
 in,SVS
-di‚,PA
+diÃ©,PA
 aspekte,NSM
 van,SVS
-sektorpolisi‰ring,NA
+sektorpolisiÃ«ring,NA
 en,KN
 /,RS
 of,KN
 funksionele,ASA
-polisi‰ring,NA
+polisiÃ«ring,NA
 wat,PB
 op,SVS
 sy,PDHEB
@@ -23693,7 +23693,7 @@ die,LB
 reservis,NSE
 by,SVS
 funksionele,ASA
-sektorpolisi‰ringsoperasies,NSM
+sektorpolisiÃ«ringsoperasies,NSM
 betrokke,ASP
 is,VTHOK
 ",",ZM
@@ -23804,7 +23804,7 @@ siekte,NSE
 of,KN
 swakheid,NA
 mag,VTUOM
-hˆ,VTHOG
+hÃª,VTHOG
 wat,PB
 jou,PTEDP
 in,SVS
@@ -23854,7 +23854,7 @@ bepaal,VTHOG
 ",",ZM
 suksesvol,BS
 moet,VTUOM
-aflˆ,VTHSG
+aflÃª,VTHSG
 ,
 ten,SVS
 minste,BO
@@ -23865,10 +23865,10 @@ of,KN
 gelykwaardige,ASA
 kwalifikasie,NSE
 moet,VTUOM
-hˆ,VTHOG
+hÃª,VTHOG
 ",",ZM
 en,KN
-dokumentˆre,ASA
+dokumentÃªre,ASA
 bewys,NSE
 daarvan,PB
 kan,VTUOM
@@ -23933,13 +23933,13 @@ die,LB
 ampseed,NSE
 af,UPW
 te,UPI
-lˆ,VTHOG
+lÃª,VTHOG
 ,
 geen,THBB
 sigbare,ASA
-tatoe‰ermerke,NSM
+tatoeÃ«ermerke,NSM
 mag,VTUOM
-hˆ,VTHOG
+hÃª,VTHOG
 nie,UPO
 ;,ZM
 en,KN
@@ -23948,7 +23948,7 @@ verkieslik,BS
 'n,LO
 rybewys,NSE
 moet,VTUOM
-hˆ,VTHOG
+hÃª,VTHOG
 ",",ZM
 ofskoon,KO
 dit,PDOENP
@@ -24351,7 +24351,7 @@ jou,PTEB
 naaste,AOA
 Landdroshof,NSE
 of,KN
-Ho‰rhof,NSE
+HoÃ«rhof,NSE
 in,UPW
 te,UPI
 vul,VTHOG
@@ -24371,7 +24371,7 @@ jou,PTEB
 naaste,AOA
 Landdroshof,NSE
 of,KN
-Ho‰rhof,NSE
+HoÃ«rhof,NSE
 .,ZE
 ,
 Die,LB
@@ -24381,7 +24381,7 @@ by,SVS
 wyse,NSE
 van,SVS
 'n,LO
-be‰digde,ASA
+beÃ«digde,ASA
 verklaring,NSE
 gedoen,VVHOG
 word,VTUOP
@@ -24439,7 +24439,7 @@ gebring,VVHOG
 word,VTUOP
 moet,VTUOM
 die,LB
-be‰digde,ASA
+beÃ«digde,ASA
 verklaring,NSE
 aandui,VTHSG
 :,ZM
@@ -24662,7 +24662,7 @@ in,SVS
 die,LB
 voordele,NSM
 wat,PB
-finansi‰le,ASA
+finansiÃ«le,ASA
 instellings,NSM
 bied,VTHOG
 .,ZE
@@ -24750,7 +24750,7 @@ een,THAB
 jaar,NSE
 ondervinding,NA
 ,
-Kategorie‰,NSM
+KategorieÃ«,NSM
 vir,SVS
 registrasie,NSE
 is,VTHOK
@@ -24898,7 +24898,7 @@ en,KN
 kan,VTUOM
 op,SVS
 produkte,NSM
-‚n,KN
+Ã©n,KN
 dienste,NSM
 van,SVS
 toepassing,NSE
@@ -25347,7 +25347,7 @@ van,SVS
 Handelsmerke,NSM
 'n,LO
 beregtigingsverhoor,NSE
-re‰l,VTHOG
+reÃ«l,VTHOG
 waarby,PB
 die,LB
 aansoeker,NSE
@@ -25380,7 +25380,7 @@ Handel,NA
 en,KN
 Nywerheid,NSE
 se,UPS
-Kli‰ntesorgsentrum,NSE
+KliÃ«ntesorgsentrum,NSE
 by,SVS
 0861843384,RS
 .,ZE
@@ -26260,7 +26260,7 @@ die,LB
 Meester,NSE
 van,SVS
 die,LB
-ho‰rhof,NSE
+hoÃ«rhof,NSE
 of,KN
 by,SVS
 enige,PO
@@ -26317,7 +26317,7 @@ Sterfkennisgewing,NSE
 Vorm,NSE
 J192,RS
 :,ZM
-Be‰digde,ASA
+BeÃ«digde,ASA
 verklaring,NSE
 :,ZM
 besonderhede,NSM
@@ -26569,7 +26569,7 @@ Sterfkennisgewing,NSE
 Vorm,NSE
 J192,RS
 :,ZM
-Be‰digde,ASA
+BeÃ«digde,ASA
 verklaring,NSE
 :,ZM
 besonderhede,NSM
@@ -27148,7 +27148,7 @@ later,BV
 ,
 vir,SVS
 goedgekeurde,ASA
-finansi‰le,ASA
+finansiÃ«le,ASA
 jaareindes,NSM
 wat,PB
 op,SVS
@@ -27835,7 +27835,7 @@ beleggings,NSM
 ",",ZM
 regte,NSM
 en,KN
-tantiŠmes,NSM
+tantiÃ¨mes,NSM
 (,ZPL
 IB3(b)-opgawe,NSE
 ),ZPR
@@ -27878,7 +27878,7 @@ fondse,NSM
 wat,PB
 by,SVS
 jou,PTEDP
-belˆ,VTHOG
+belÃª,VTHOG
 is,VVUOP
 ,
 rente,NM
@@ -27918,7 +27918,7 @@ eiendom,NSE
 betaal,VTHOG
 is,VVUOP
 ,
-tantiŠmes,NSM
+tantiÃ¨mes,NSM
 of,KN
 gelde,NM
 wat,PB
@@ -27962,7 +27962,7 @@ van,SVS
 effektetrust-,RWD
 of,KN
 ander,ASA
-finansi‰le,ASA
+finansiÃ«le,ASA
 instrumente,NSM
 (,ZPL
 IB3(c)-opgawe,NSE
@@ -27982,7 +27982,7 @@ die,LB
 verhandeling,NA
 van,SVS
 'n,LO
-finansi‰le,ASA
+finansiÃ«le,ASA
 instrument,NSE
 namens,SVS
 enige,PO
@@ -27994,7 +27994,7 @@ van,SVS
 die,LB
 onderaandeel,NSE
 of,KN
-finansi‰le,ASA
+finansiÃ«le,ASA
 instrument,NSE
 ,
 die,LB
@@ -28060,7 +28060,7 @@ wat,PB
 aan,SVS
 lede,NSM
 van,SVS
-ko”peratiewe,ASA
+koÃ¶peratiewe,ASA
 maatskappye,NSM
 en,KN
 verenigings,NSM
@@ -28164,7 +28164,7 @@ is,VVUOP
 aan,SVS
 lede,NSM
 van,SVS
-ko”peratiewe,ASA
+koÃ¶peratiewe,ASA
 maatskappye,NSM
 en,KN
 verenigings,NSM
@@ -28173,7 +28173,7 @@ verenigings,NSM
 Watter,PV
 dienste,NSM
 bied,VTHOG
-konsulˆre,ASA
+konsulÃªre,ASA
 beamptes,NSM
 aan,SVS
 Suid-Afrikaners,NSM
@@ -28253,7 +28253,7 @@ land,NSE
 wat,PB
 die,LB
 arres,NA
-opgelˆ,VVHOG
+opgelÃª,VVHOG
 het,VUOT
 .,ZE
 ,
@@ -28299,7 +28299,7 @@ verhoor,NSE
 ",",ZM
 borg-,RWD
 en,KN
-appŠlprosedures,NSM
+appÃ¨lprosedures,NSM
 -,ZM
 om,SVS
 hulle,PDMB
@@ -28337,7 +28337,7 @@ land,NSE
 wat,PB
 die,LB
 arres,NA
-opgelˆ,VVHOG
+opgelÃª,VVHOG
 het,VUOT
 .,ZE
 ,
@@ -28368,7 +28368,7 @@ staat,NSE
 wat,PB
 die,LB
 arres,NA
-opgelˆ,VVHOG
+opgelÃª,VVHOG
 het,VUOT
 ",",ZM
 asook,KN
@@ -28468,7 +28468,7 @@ staat,NSE
 wat,PB
 die,LB
 arres,NA
-opgelˆ,VVHOG
+opgelÃª,VVHOG
 het,VUOT
 .,ZE
 ,
@@ -28526,7 +28526,7 @@ Tree,VTHOO
 met,SVS
 die,LB
 Afdeling,NSE
-Konsulˆre,ASA
+KonsulÃªre,ASA
 Dienste,NSM
 in,SVS
 verbinding,NSE
@@ -28595,7 +28595,7 @@ van,SVS
 die,LB
 ambassade,NSE
 ",",ZM
-ho‰kommissariaat,NSE
+hoÃ«kommissariaat,NSE
 of,KN
 konsulaat,NSE
 kry,VTHOG
@@ -28614,7 +28614,7 @@ ook,BS
 rol,NSE
 .,ZE
 ,
-Konsulˆre,ASA
+KonsulÃªre,ASA
 beamptes,NSM
 kan,VTUOM
 nie,BS
@@ -28654,7 +28654,7 @@ tronk,NSE
 of,KN
 op,SVS
 borgtog,NA
-re‰l,VTHOG
+reÃ«l,VTHOG
 nie,UPO
 ,
 na,SVS
@@ -28689,7 +28689,7 @@ Verenigde,ASA
 Nasies,NSM
 se,UPS
 standaard-,RWD
-minimumre‰ls,NSM
+minimumreÃ«ls,NSM
 vir,SVS
 die,LB
 behandeling,NA
@@ -28703,7 +28703,7 @@ nie,UPO
 naasbestaandes,NSM
 of,KN
 vriende,NSM
-aansˆ,VTHSO
+aansÃª,VTHSO
 om,SVS
 geld,NM
 oor,UPW
@@ -28808,7 +28808,7 @@ om,SVS
 die,LB
 peil,NA
 van,SVS
-tersiˆre,ASA
+tersiÃªre,ASA
 onderrig,NA
 wat,PB
 die,LB
@@ -28912,7 +28912,7 @@ moet,VTUOM
 ,
 deur,SVS
 hulle,PDMB
-eweknie‰,NSM
+eweknieÃ«,NSM
 gerespekteer,VVHOG
 word,VTUOP
 vir,SVS
@@ -29060,7 +29060,7 @@ informele,ASA
 opleiding,NA
 :,ZM
 gewaarmerkte,ASA
-kopie‰,NSM
+kopieÃ«,NSM
 van,SVS
 graad-,RWD
 of,KN
@@ -29169,7 +29169,7 @@ wees,VTHOK
 .,ZE
 ,
 'n,LO
-Be‰digde,ASA
+BeÃ«digde,ASA
 verklaring,NSE
 wat,PB
 bevestig,VTHOG
@@ -29190,14 +29190,14 @@ duidelik,BS
 uiteensit,VTHSG
 .,ZE
 ,
-Be‰digde,ASA
+BeÃ«digde,ASA
 verklarings,NSM
 deur,SVS
 twee,THAB
 referente,NSM
 wat,PB
 jou,PTEB
-vermo‰ns,NSM
+vermoÃ«ns,NSM
 en,KN
 kundigheid,NA
 op,SVS
@@ -29287,7 +29287,7 @@ beskore,ASP
 nie,UPO
 .,ZE
 ,
-M“re,BS
+MÃ´re,BS
 sal,VTUOM
 ons,PEMP
 die,LB
@@ -29548,7 +29548,7 @@ ook,BS
 vir,SVS
 my,PEEDP
 'n,LO
-genoe‰,NSE
+genoeÃ«,NSE
 om,SVS
 die,LB
 aktiviste,NSM
@@ -29822,7 +29822,7 @@ mense,NSM
 ",",ZM
 in,SVS
 2004,RS
-gesˆ,VVHOO
+gesÃª,VVHOO
 het,VUOT
 in,SVS
 die,LB
@@ -29835,7 +29835,7 @@ die,LB
 res,NSE
 van,UPD
 die,LB
-wˆreld,NSE
+wÃªreld,NSE
 ",",ZM
 wat,PB
 byeengekom,VVHOO
@@ -29900,7 +29900,7 @@ het,VUOT
 ons,PEMP
 onder,SVS
 andere,NSM
-gesˆ,VVHOG
+gesÃª,VVHOG
 :,ZM
 ,
 """",ZPL
@@ -30036,7 +30036,7 @@ skoonheid,NA
 van,SVS
 'n,LO
 ander,ASA
-wˆreld,NSE
+wÃªreld,NSE
 vol,ASP
 netjiese,ASA
 strate,NSM
@@ -30053,7 +30053,7 @@ groen,ASA
 singende,ASA
 gras,NM
 en,KN
-vo‰ls,NSM
+voÃ«ls,NSM
 en,KN
 huise,NSM
 geskik,ASP
@@ -30157,7 +30157,7 @@ verkragting,NA
 en,KN
 brutale,ASA
 persoonlike,ASA
-oorlo‰,NSM
+oorloÃ«,NSM
 sonder,BS
 oorsaak,NSE
 of,KN
@@ -30199,17 +30199,17 @@ beskerm,VTHOG
 te,UPI
 wees,VTHOK
 deur,SVS
-ho‰,ASA
+hoÃ«,ASA
 mure,NSM
 ",",ZM
-ge‰lektrifiseerde,ASA
+geÃ«lektrifiseerde,ASA
 heinings,NSM
 ",",ZM
 waghonde,NSM
 ",",ZM
 polisiepatrollies,NSM
 en,KN
-militˆre,ASA
+militÃªre,ASA
 regimente,NSM
 wat,PB
 gereed,ASP
@@ -30234,7 +30234,7 @@ die,LB
 dood,NM
 sou,VVUOM
 laat,VTUOA
-neerre‰n,VTHSG
+neerreÃ«n,VTHSG
 op,SVS
 diegene,PO
 wat,PB
@@ -30276,7 +30276,7 @@ mense,NSM
 van,SVS
 oor,SVS
 die,LB
-wˆreld,NSE
+wÃªreld,NSE
 ",",ZM
 mense,NSM
 wat,PB
@@ -30297,7 +30297,7 @@ besluit,VTHOG
 het,VUOT
 om,SVS
 te,UPI
-sˆ,VTHOG
+sÃª,VTHOG
 :,ZM
 dit,PDOENP
 moet,VTUOM
@@ -30469,7 +30469,7 @@ die,LB
 res,NSE
 van,UPD
 die,LB
-wˆreld,NSE
+wÃªreld,NSE
 ",",ZM
 dat,KO
 ons,PEMP
@@ -30583,7 +30583,7 @@ die,LB
 patriotte,NSM
 van,SVS
 destyds,BS
-gesˆ,VVHOG
+gesÃª,VVHOG
 :,ZM
 """",ZPR
 Laat,VTUOA
@@ -30599,7 +30599,7 @@ Afrikaan,NSE
 en,KN
 Europeaan,NSE
 ",",ZM
-Indi‰r,NSE
+IndiÃ«r,NSE
 en,KN
 Gekleurde,NSE
 .,ZE
@@ -30702,7 +30702,7 @@ deur,SVS
 optrede,NSE
 ",",ZM
 te,UPI
-sˆ,VTHOG
+sÃª,VTHOG
 :,ZM
 ons,PEMP
 het,VUOT
@@ -31022,7 +31022,7 @@ te,UPI
 versterk,VTHOG
 ,
 bykomende,ASA
-maatre‰ls,NSM
+maatreÃ«ls,NSM
 wat,PB
 die,LB
 deure,NSM
@@ -31094,7 +31094,7 @@ groot,ASA
 vraagstukke,NSM
 wat,PB
 die,LB
-wˆreldbevolking,NSE
+wÃªreldbevolking,NSE
 in,SVS
 die,LB
 gesig,NSE
@@ -31343,7 +31343,7 @@ volgehoue,ASA
 toename,NSE
 in,SVS
 verbruikersaanvraag,NA
-weerspie‰l,VTHOG
+weerspieÃ«l,VTHOG
 'n,LO
 gesonde,ASA
 groei,NA
@@ -31353,7 +31353,7 @@ van,SVS
 voorspoed,NA
 oor,SVS
 die,LB
-bre‰,ASA
+breÃ«,ASA
 spektrum,NSE
 van,SVS
 die,LB
@@ -31553,7 +31553,7 @@ program,NSE
 in,SVS
 'n,LO
 beduidend,BS
-ho‰r,AVA
+hoÃ«r,AVA
 rat,NSE
 oorgeskakel,VVHOG
 kan,VTUOM
@@ -31711,7 +31711,7 @@ sal,VTUOM
 volhoubaarheid,NA
 verseker,VTHOG
 ",",ZM
-‚n,KN
+Ã©n,KN
 die,LB
 aanwending,NA
 van,SVS
@@ -31962,7 +31962,7 @@ wat,PB
 minder,BV
 aan,SVS
 sy,PDHEB
-militˆre,ASA
+militÃªre,ASA
 begroting,NSE
 as,KO
 aan,SVS
@@ -32232,7 +32232,7 @@ koers,NSE
 van,SVS
 deelname,NA
 aan,SVS
-tersiˆre,ASA
+tersiÃªre,ASA
 onderrig,NA
 .,ZE
 ,
@@ -32268,12 +32268,12 @@ matriekleerlinge,NSM
 wat,PB
 Wiskunde,NA
 op,SVS
-ho‰r,AVA
+hoÃ«r,AVA
 graad,NSE
 slaag,VTHOG
 net,BS
 effens,BS
-ho‰r,AVP
+hoÃ«r,AVP
 as,KO
 in,SVS
 1995,RS
@@ -32359,7 +32359,7 @@ inhiberende,ASA
 faktore,NSM
 deeglik,BS
 in,SVS
-o‰nskou,NA
+oÃ«nskou,NA
 neem,VTHOG
 sodat,KO
 ons,PEMP
@@ -32437,7 +32437,7 @@ het,VUOT
 aan,SVS
 lande,NSM
 soos,UPV
-Tunisi‰,NEE
+TunisiÃ«,NEE
 en,KN
 Chile,NEE
 ",",ZM
@@ -32562,7 +32562,7 @@ word,VTUOP
 alle,THAO
 armoedebekampingsprogramme,NSM
 moet,VTUOM
-ko”rdineer,VTHOG
+koÃ¶rdineer,VTHOG
 ten,SVS
 einde,NSE
 die,LB
@@ -32596,7 +32596,7 @@ dat,KO
 die,LB
 huishoudings,NSM
 wat,PB
-ge‹dentifiseer,VVHOG
+geÃ¯dentifiseer,VVHOG
 is,VVUOP
 behoorlik,BS
 ondersteun,VTHOG
@@ -32721,7 +32721,7 @@ van,SVS
 die,LB
 Afrika-,RWD
 en,KN
-Indi‰rgemeenskap,NSE
+IndiÃ«rgemeenskap,NSE
 (,ZPL
 AB,RL
 Xuma,NEE
@@ -32878,7 +32878,7 @@ ander,ASA
 woorde,NSM
 :,ZM
 die,LB
-maatre‰ls,NSM
+maatreÃ«ls,NSM
 wat,PB
 nodig,ASP
 is,VTHOK
@@ -32973,7 +32973,7 @@ van,SVS
 1994,RS
 het,VUOT
 ons,PEMP
-gesˆ,VVHOG
+gesÃª,VVHOG
 :,ZM
 ,
 """",ZPL
@@ -33139,7 +33139,7 @@ hulle,PDMP
 ingekerker,VVHOG
 is,VVUOP
 tussen,SVS
-ho‰,ASA
+hoÃ«,ASA
 mure,NSM
 en,KN
 doringdraad,NM
@@ -33252,7 +33252,7 @@ koers,NSE
 van,SVS
 afname,NSE
 in,SVS
-misdaadkategorie‰,NSM
+misdaadkategorieÃ«,NSM
 soos,UPV
 diefstal,NA
 ",",ZM
@@ -33287,7 +33287,7 @@ word,VTUOP
 teen,SVS
 'n,LO
 onaanvaarbaar,BS
-ho‰,ASA
+hoÃ«,ASA
 koers,NSE
 voortgesit,VVHOG
 .,ZE
@@ -33385,7 +33385,7 @@ van,SVS
 die,LB
 jaar,NSE
 in,SVS
-o‰nskou,NA
+oÃ«nskou,NA
 neem,VTHOG
 sodat,KO
 ons,PEMP
@@ -33633,7 +33633,7 @@ tot,SVS
 openbare,ASA
 diens,NSE
 en,KN
-finansi‰le,ASA
+finansiÃ«le,ASA
 bestuur,NA
 is,VVUOP
 betreklik,BS
@@ -33704,7 +33704,7 @@ pas,NSE
 voortgesit,VVHOG
 .,ZE
 ,
-N ,SVS
+NÃ¡,SVS
 die,LB
 plaaslike,ASA
 verkiesings,NSM
@@ -33892,7 +33892,7 @@ regeringsfere,NSM
 (,ZPL
 dit,PDOENP
 wil,VTUOM
-sˆ,VTHOG
+sÃª,VTHOG
 die,LB
 nasionale,ASA
 ruimtelikeontwikkelingsperspektief,NSE
@@ -33900,9 +33900,9 @@ ruimtelikeontwikkelingsperspektief,NSE
 provinsiale,ASA
 groei-,RWD
 en,KN
-ontwikkelingstrategie‰,NSM
+ontwikkelingstrategieÃ«,NSM
 en,KN
-ge‹ntegreerde,ASA
+geÃ¯ntegreerde,ASA
 ontwikkelingsprogramme,NSM
 ),ZPR
 .,ZE
@@ -33994,7 +33994,7 @@ Dit,PDOENP
 sal,VTUOM
 die,LB
 grondslag,NSE
-lˆ,VTHOG
+lÃª,VTHOG
 waarvolgens,PB
 alle,THAO
 maatskaplike,ASA
@@ -34069,7 +34069,7 @@ moes,VVUOM
 word,VTUOP
 om,SVS
 'n,LO
-ho‰r,AVA
+hoÃ«r,AVA
 koers,NSE
 van,SVS
 belegging,NSE
@@ -34097,7 +34097,7 @@ het,VUOT
 ,
 Ons,PEMP
 het,VTHOG
-ho‰,ASA
+hoÃ«,ASA
 waardering,NA
 vir,SVS
 die,LB
@@ -34231,7 +34231,7 @@ en,KN
 rentekoerse,NSM
 ",",ZM
 om,SVS
-maatre‰ls,NSM
+maatreÃ«ls,NSM
 in,UPW
 te,UPI
 stel,VTHOG
@@ -34291,7 +34291,7 @@ Die,LB
 inwerkingstelling,NA
 van,SVS
 pasgemaakte,ASA
-sektormaatre‰ls,NSM
+sektormaatreÃ«ls,NSM
 ter,SVS
 vergemakliking,NA
 van,SVS
@@ -34306,7 +34306,7 @@ toerisme,NA
 ",",ZM
 biobrandstowwe,NSM
 en,KN
-chemikalie‰,NSM
+chemikalieÃ«,NSM
 versnel,VTHOG
 ",",ZM
 en,KN
@@ -34379,7 +34379,7 @@ verhoging,NSE
 van,UPD
 ons,PEMB
 nasionale,ASA
-vermo‰,NSE
+vermoÃ«,NSE
 om,SVS
 kapitaalgoedere,NSM
 te,UPI
@@ -34553,7 +34553,7 @@ planne,NSM
 te,UPI
 finaliseer,VTHOG
 wat,PB
-oproepbe‰indigingskoste,NSE
+oproepbeÃ«indigingskoste,NSE
 vanjaar,BS
 tot,SVS
 voordeel,NSE
@@ -34697,7 +34697,7 @@ RIA-stelsel,NSE
 die,LB
 ontwikkeling,NA
 van,SVS
-bre‰bandkapasiteit,NSE
+breÃ«bandkapasiteit,NSE
 vir,SVS
 nasionale,ASA
 en,KN
@@ -34969,7 +34969,7 @@ ander,ASA
 planne,NSM
 word,VTUOP
 ons,PEMP
-ge‹nspireer,VVHOG
+geÃ¯nspireer,VVHOG
 deur,SVS
 ons,PEMB
 verbintenis,NSE
@@ -34978,7 +34978,7 @@ te,UPI
 sorg,VTHOG
 dat,KO
 die,LB
-FIFA-wˆreldsokkerbeker,NSE
+FIFA-wÃªreldsokkerbeker,NSE
 van,SVS
 2010,RS
 die,LB
@@ -34994,7 +34994,7 @@ verband,NSE
 wil,VTUOM
 ons,PEMP
 ons,PEMB
-re‰lingskomitee,NSE
+reÃ«lingskomitee,NSE
 (,ZPL
 OC,RL
 ),ZPR
@@ -35036,7 +35036,7 @@ gepaardgaan,VTHSO
 hierdie,PA
 en,KN
 ander,ASA
-maatre‰ls,NSM
+maatreÃ«ls,NSM
 vergesel,VTHOG
 moet,VTUOM
 word,VTUOP
@@ -35140,7 +35140,7 @@ deel,NSE
 van,SVS
 die,LB
 stel,NSE
-maatre‰ls,NSM
+maatreÃ«ls,NSM
 wat,PB
 klein,ASA
 ",",ZM
@@ -35241,7 +35241,7 @@ by,SVS
 wyse,NSE
 van,SVS
 'n,LO
-jeugko”rdineringsprogram,NSE
+jeugkoÃ¶rdineringsprogram,NSE
 by,SVS
 die,LB
 hoofstroom,NSE
@@ -35277,11 +35277,11 @@ talle,THAO
 maatskappye,NSM
 ",",ZM
 openbaar,ASP
-‚n,KN
+Ã©n,KN
 privaat,ASP
 ",",ZM
 groot,ASP
-‚n,KN
+Ã©n,KN
 klein,ASP
 ",",ZM
 wat,PB
@@ -35333,7 +35333,7 @@ implemente,NSM
 aan,SVS
 kleinboere,NSM
 en,KN
-ko”peratiewe,ASA
+koÃ¶peratiewe,ASA
 boere,NSM
 verleen,VTHOG
 .,ZE
@@ -35385,10 +35385,10 @@ nie,BS
 maar,KN
 net,BS
 'n,LO
-clich‚,NSE
+clichÃ©,NSE
 om,SVS
 te,UPI
-sˆ,VTHOG
+sÃª,VTHOG
 dat,KO
 die,LB
 sukses,NA
@@ -35449,7 +35449,7 @@ Met,SVS
 hierdie,PA
 doel,NSE
 voor,SVS
-o‰,NSM
+oÃ«,NSM
 wil,VTUOM
 ons,PEMP
 vanjaar,BS
@@ -35524,7 +35524,7 @@ maatskaplike,ASA
 sekerheid,NA
 in,SVS
 Suid-Afrika,NEE
-ge‹dentifiseer,VVHOG
+geÃ¯dentifiseer,VVHOG
 is,VVUOP
 .,ZE
 ,
@@ -35625,7 +35625,7 @@ wees,VTHOK
 terwyl,KO
 diegene,PO
 wat,PB
-ho‰r,AVA
+hoÃ«r,AVA
 salarisse,NSM
 verdien,VTHOG
 steeds,BS
@@ -35808,7 +35808,7 @@ begin,VTUOA
 ondersoek,NSE
 instel,VTHSG
 na,SVS
-maatre‰ls,NSM
+maatreÃ«ls,NSM
 waarmee,PB
 ons,PEMB
 kwesbare,ASA
@@ -35990,7 +35990,7 @@ uitbreiding,NSE
 van,SVS
 toegang,NA
 tot,SVS
-vroe‰,ASA
+vroeÃ«,ASA
 kinderontwikkeling,NA
 ",",ZM
 as,KO
@@ -36023,7 +36023,7 @@ verpleegsters,NSM
 en,KN
 maatskaplike,ASA
 werkers,NSM
-‚n,KN
+Ã©n,KN
 helpers,NSM
 ;,ZM
 uitbreiding,NSE
@@ -36035,7 +36035,7 @@ opleidingsinstansies,NSM
 met,SVS
 opleiding,NA
 van,SVS
-ho‰r,AVA
+hoÃ«r,AVA
 gehalte,NA
 ;,ZM
 en,KN
@@ -36078,7 +36078,7 @@ toe,UPW
 te,UPI
 sien,VTHOG
 dat,KO
-maatre‰ls,NSM
+maatreÃ«ls,NSM
 ter,SVS
 verlaging,NSE
 van,SVS
@@ -36266,7 +36266,7 @@ van,SVS
 die,LB
 omvattende,ASA
 en,KN
-ge‹ntegreerde,ASA
+geÃ¯ntegreerde,ASA
 armoedebekampingstrategie,NSE
 wat,PB
 ons,PEMP
@@ -36342,7 +36342,7 @@ geneem,VVHOG
 is,VVUOP
 ",",ZM
 doeltreffend,BS
-ge‹mplementeer,VVHOG
+geÃ¯mplementeer,VVHOG
 word,VTUOP
 .,ZE
 ,
@@ -36394,7 +36394,7 @@ verantwoordelik,ASP
 is,VTHOK
 ",",ZM
 en,KN
-ampsbekle‰rs,NSM
+ampsbekleÃ«rs,NSM
 in,SVS
 die,LB
 regstelsel,NSE
@@ -36699,7 +36699,7 @@ stuur,VTHOO
 en,KN
 die,LB
 interdepartementele,ASA
-ko”rdineringstrukture,NSM
+koÃ¶rdineringstrukture,NSM
 se,UPS
 werk,NA
 in,SVS
@@ -36773,7 +36773,7 @@ vervolgingsgesag,NA
 oor,SVS
 die,LB
 algemeen,NA
-s¢,UPV
+sÃ³,UPV
 verbeter,VTHOG
 dat,KO
 dit,PDOENP
@@ -36798,7 +36798,7 @@ oorblywende,ASA
 elemente,NSM
 in,SVS
 die,LB
-maatre‰ls,NSM
+maatreÃ«ls,NSM
 vir,SVS
 die,LB
 hervorming,NSE
@@ -36965,7 +36965,7 @@ sal,VTUOM
 hierdie,PA
 en,KN
 ander,ASA
-maatre‰ls,NSM
+maatreÃ«ls,NSM
 slegs,BS
 slaag,VTHOO
 indien,KO
@@ -37114,7 +37114,7 @@ van,SVS
 die,LB
 uiters,BS
 belangrike,ASA
-gemeenskapspolisi‰ringsforums,NSM
+gemeenskapspolisiÃ«ringsforums,NSM
 werk,VTHOO
 .,ZE
 ,
@@ -37165,7 +37165,7 @@ jaar,NSE
 die,LB
 moniterings-,RWD
 en,KN
-evalueringsvermo‰,NSE
+evalueringsvermoÃ«,NSE
 oor,SVS
 alle,THAO
 sfere,NSM
@@ -37302,7 +37302,7 @@ verhoogde,ASA
 doeltreffendheid,NA
 van,SVS
 ons,PEMB
-teenkorrupsiestrategie‰,NSM
+teenkorrupsiestrategieÃ«,NSM
 in,SVS
 alle,THAO
 regeringsfere,NSM
@@ -37367,14 +37367,14 @@ binne,SVS
 ons,PEMB
 nasie,NSE
 moet,VTUOM
-hˆ,VTHOG
+hÃª,VTHOG
 .,ZE
 ,
 Met,SVS
 hierdie,PA
 doel,NSE
 voor,SVS
-o‰,NSM
+oÃ«,NSM
 sal,VTUOM
 twee,THAB
 groot,ASA
@@ -37724,7 +37724,7 @@ ons,PEMB
 pogings,NSM
 tot,SVS
 die,LB
-bylˆ,NA
+bylÃª,NA
 van,SVS
 konflik,NSE
 in,SVS
@@ -37749,7 +37749,7 @@ Darfoer,NEE
 die,LB
 Ivoorkus,NEE
 en,KN
-Somali‰,NEE
+SomaliÃ«,NEE
 ",",ZM
 nie,BS
 geringskat,VTHSG
@@ -37789,7 +37789,7 @@ en,KN
 die,LB
 Regering,NSE
 van,SVS
-Somali‰,NEE
+SomaliÃ«,NEE
 reageer,VTHOO
 .,ZE
 ,
@@ -37813,7 +37813,7 @@ dat,KO
 die,LB
 hoofrolspelers,NSM
 in,SVS
-Somali‰,NEE
+SomaliÃ«,NEE
 met,SVS
 mekaar,PW
 in,SVS
@@ -37881,7 +37881,7 @@ die,LB
 gemeenskap,NSE
 in,SVS
 die,LB
-bre‰,NA
+breÃ«,NA
 te,UPI
 bedank,VTHOG
 vir,SVS
@@ -37913,7 +37913,7 @@ die,LB
 aksieprogram,NSE
 wat,PB
 uit,SVS
-di‚,PA
+diÃ©,PA
 proses,NSE
 van,SVS
 die,LB
@@ -37990,7 +37990,7 @@ ons,PEMP
 in,SVS
 hierdie,PA
 mees,BO
-hoogge‰erde,ASA
+hooggeÃ«erde,ASA
 multilaterale,ASA
 liggaam,NSE
 alles,PO
@@ -38065,9 +38065,9 @@ met,SVS
 ons,PEMB
 vennote,NSM
 in,SVS
-Indi‰,NEE
+IndiÃ«,NEE
 ",",ZM
-Brasili‰,NEE
+BrasiliÃ«,NEE
 en,KN
 die,LB
 Volksrepubliek,NSE
@@ -38111,7 +38111,7 @@ om,SVS
 onderhandelings,NSM
 oor,SVS
 die,LB
-Wˆreldhandelsorganisasie,NSE
+WÃªreldhandelsorganisasie,NSE
 se,UPS
 Doha-ontwikkelingsrondte,NSE
 so,BS
@@ -38384,7 +38384,7 @@ dat,KO
 die,LB
 bou,NA
 van,SVS
-di‚,PA
+diÃ©,PA
 Suid-Afrika,NEE
 waarna,PB
 ons,PEMP
@@ -38487,7 +38487,7 @@ bewerkstellig,VTHOG
 .,ZE
 ,
 Ek,PEENP
-sˆ,VTHOG
+sÃª,VTHOG
 dit,PDOENP
 want,KN
 ",",ZM
@@ -38531,7 +38531,7 @@ die,LB
 geskiedenis,NA
 ons,PEMP
 vandag,BS
-oplˆ,VTHSG
+oplÃª,VTHSG
 .,ZE
 ,
 Mevrou,NSE
@@ -38576,7 +38576,7 @@ woon,VTHOO
 .,ZE
 ,
 Sy,PDVENP
-sˆ,VTHOG
+sÃª,VTHOG
 dat,KO
 hierdie,PA
 menigte,NSE
@@ -38622,7 +38622,7 @@ ons,PEMP
 gemaak,VVHOG
 het,VUOT
 dat,KO
-m“re,NA
+mÃ´re,NA
 beter,AVP
 sal,VTUOM
 wees,VTHOK
@@ -38653,7 +38653,7 @@ waarheid,NSE
 as,KO
 'n,LO
 verjaarsdaggeskenk,NSE
-hˆ,VTHOG
+hÃª,VTHOG
 .,ZE
 ,
 Ek,PEENP
@@ -38762,7 +38762,7 @@ Turner,NEE
 by,SVS
 ons,PEMP
 te,UPI
-hˆ,VTHOG
+hÃª,VTHOG
 ",",ZM
 die,LB
 dogter,NSE
@@ -38868,7 +38868,7 @@ teenwoordigheid,NA
 dat,KO
 ons,PEMB
 taak,NSE
-di‚,PA
+diÃ©,PA
 is,VTHOK
 van,SVS
 'n,LO
@@ -38912,7 +38912,7 @@ aan,SVS
 ons,PEMP
 almal,PO
 om,SVS
-s¢,PB
+sÃ³,PB
 op,UPW
 te,UPI
 tree,VTHOO
@@ -38939,7 +38939,7 @@ van,SVS
 die,LB
 laaste,TRAO
 volledige,ASA
-finansi‰le,ASA
+finansiÃ«le,ASA
 jaar,NSE
 van,SVS
 die,LB
@@ -38998,7 +38998,7 @@ is,VTHOK
 verheug,ASP
 om,SVS
 te,UPI
-sˆ,VTHOG
+sÃª,VTHOG
 dat,KO
 ons,PEMP
 inderdaad,BS
@@ -39187,7 +39187,7 @@ tydperk,NSE
 wat,PB
 vir,SVS
 ons,PEMP
-voorlˆ,VTHSO
+voorlÃª,VTHSO
 sal,VTUOM
 benut,VTHOG
 om,SVS
@@ -39230,7 +39230,7 @@ in,SVS
 die,LB
 tydperk,NSE
 wat,PB
-voorlˆ,VTHSO
+voorlÃª,VTHSO
 ",",ZM
 hy,PDHENP
 sy,PDHEB
@@ -39298,7 +39298,7 @@ kan,VTUOM
 verander,VTHOO
 ",",ZM
 eerder,BS
-vroe‰r,BV
+vroeÃ«r,BV
 as,KO
 later,BV
 .,ZE
@@ -39333,7 +39333,7 @@ later,BV
 hierdie,PA
 maand,NSE
 sal,VTUOM
-voorlˆ,VTHSG
+voorlÃª,VTHSG
 ",",ZM
 die,LB
 nodige,ASA
@@ -39355,7 +39355,7 @@ implementeer,VTHOG
 .,ZE
 ,
 Die,LB
-hoofkategorie‰,NSM
+hoofkategorieÃ«,NSM
 van,SVS
 hierdie,PA
 prioriteite,NSM
@@ -39528,7 +39528,7 @@ take,NSM
 wat,PB
 ons,PEMP
 onsself,PEMW
-opgelˆ,VVHOG
+opgelÃª,VVHOG
 het,VUOT
 ",",ZM
 vereis,VTHOG
@@ -39785,7 +39785,7 @@ dat,KO
 die,LB
 grondslag,NSE
 wat,PB
-gelˆ,VVHOG
+gelÃª,VVHOG
 is,VVUOP
 vir,SVS
 ons,PEMB
@@ -39974,7 +39974,7 @@ ons,PEMB
 eie,ASA
 ekonomie,NSE
 mag,VTUOM
-hˆ,VTHOG
+hÃª,VTHOG
 .,ZE
 ,
 Hulle,PDMP
@@ -39982,7 +39982,7 @@ is,VTHOK
 bekommerd,ASP
 oor,SVS
 ons,PEMB
-vermo‰,NSE
+vermoÃ«,NSE
 om,SVS
 die,LB
 demokratiese,ASA
@@ -40198,7 +40198,7 @@ en,KN
 elders,BS
 in,SVS
 die,LB
-wˆreld,NSE
+wÃªreld,NSE
 wat,PB
 ons,PEMB
 land,NSE
@@ -40268,7 +40268,7 @@ ons,PEMP
 alles,PO
 in,SVS
 ons,PEMB
-vermo‰,NSE
+vermoÃ«,NSE
 moet,VTUOM
 doen,VTHOG
 om,SVS
@@ -40358,7 +40358,7 @@ hou,VTHOG
 .,ZE
 ,
 Dit,PDOENP
-sˆ,VTHOG
+sÃª,VTHOG
 aan,SVS
 ons,PEMP
 almal,PO
@@ -40439,7 +40439,7 @@ Mynberaad,NSE
 hier,BS
 in,SVS
 Kaapstad,NEE
-vroe‰r,BV
+vroeÃ«r,BV
 vandeesweek,BS
 -,ZM
 op,SVS
@@ -40504,7 +40504,7 @@ landsburgers,NSM
 bedank,VTHOG
 vir,SVS
 hul,PDMB
-deursettingsvermo‰,NSE
+deursettingsvermoÃ«,NSE
 en,KN
 geduld,NA
 in,SVS
@@ -40625,7 +40625,7 @@ beskikbaarheid,NA
 van,SVS
 energie,NM
 kan,VTUOM
-be‹nvloed,VTHOG
+beÃ¯nvloed,VTHOG
 .,ZE
 ,
 Die,LB
@@ -40824,7 +40824,7 @@ oorweeg,VTHOG
 om,SVS
 onmiddellik,BS
 hierdie,PA
-energiebesparingsmaatre‰ls,NSM
+energiebesparingsmaatreÃ«ls,NSM
 te,UPI
 implementeer,VTHOG
 .,ZE
@@ -40832,7 +40832,7 @@ implementeer,VTHOG
 Alle,THAO
 regeringsgeboue,NSM
 is,VVUOP
-aangesˆ,VVHOG
+aangesÃª,VVHOG
 om,SVS
 hulle,PDMB
 elektrisiteitsverbruik,NM
@@ -40972,7 +40972,7 @@ optredes,NSM
 ",",ZM
 tesame,BS
 met,SVS
-elektrisiteitsbesparingsmaatre‰ls,NSM
+elektrisiteitsbesparingsmaatreÃ«ls,NSM
 ",",ZM
 sal,VTUOM
 kragvoorsiening,NA
@@ -41204,7 +41204,7 @@ die,LB
 burgemeesters,NSM
 vergader,VTHOO
 om,SVS
-energiebesparingsmaatre‰ls,NSM
+energiebesparingsmaatreÃ«ls,NSM
 te,UPI
 beplan,VTHOG
 en,KN
@@ -41250,7 +41250,7 @@ Regering,NSE
 sal,VTUOM
 hierdie,PA
 aktiwiteite,NSM
-ko”rdineer,VTHOG
+koÃ¶rdineer,VTHOG
 en,KN
 sal,VTUOM
 bygestaan,VVHOG
@@ -41272,18 +41272,18 @@ Ek,PEENP
 sal,VTUOM
 'n,LO
 vergadering,NSE
-belˆ,VTHOG
+belÃª,VTHOG
 met,SVS
 die,LB
 Gesamentlike,ASA
-Presidensi‰le,ASA
+PresidensiÃ«le,ASA
 Werkgroepe,NSM
 om,SVS
 ons,PEMB
 oorkoepelende,ASA
 aksies,NSM
 te,UPI
-ko”rdineer,VTHOG
+koÃ¶rdineer,VTHOG
 ",",ZM
 en,KN
 ons,PEMP
@@ -41424,7 +41424,7 @@ ons,PEMB
 groot,ASA
 basis,NSE
 van,SVS
-ge‹nstalleerde,ASA
+geÃ¯nstalleerde,ASA
 opwekkingskapasiteit,NSE
 ",",ZM
 sal,VTUOM
@@ -41439,7 +41439,7 @@ een,THAB
 van,UPD
 die,LB
 min,THAO
-ekonomie‰,NSM
+ekonomieÃ«,NSM
 wees,VTHOK
 met,SVS
 bekostigbare,ASA
@@ -41526,7 +41526,7 @@ die,LB
 eerste,TRAB
 boublokke,NSM
 te,UPI
-lˆ,VTHOG
+lÃª,VTHOG
 van,SVS
 die,LB
 noodsaaklike,ASA
@@ -41560,7 +41560,7 @@ aan,UPW
 te,UPI
 spreek,VTHOG
 ",",ZM
-ge‹nspireer,ASP
+geÃ¯nspireer,ASP
 deur,SVS
 die,LB
 wete,NA
@@ -41606,7 +41606,7 @@ en,KN
 die,LB
 2010,RS
 FIFA,RK
-Wˆreldbeker-sokkertoernooi,NSE
+WÃªreldbeker-sokkertoernooi,NSE
 ",",ZM
 wat,PB
 854,RS
@@ -41645,7 +41645,7 @@ mense,NSM
 elders,BS
 in,SVS
 die,LB
-wˆreld,NSE
+wÃªreld,NSE
 weereens,BS
 wonder,VTHOG
 of,KO
@@ -41678,7 +41678,7 @@ aan,SVS
 FIFA,RK
 en,KN
 die,LB
-wˆreldgemeenskap,NSE
+wÃªreldgemeenskap,NSE
 van,SVS
 sokkerspelers,NSM
 en,KN
@@ -41695,7 +41695,7 @@ om,SVS
 die,LB
 beste,AOA
 FIFA,RK
-Wˆreldbeker-sokkertoernooi,NSE
+WÃªreldbeker-sokkertoernooi,NSE
 ooit,BS
 aan,UPW
 te,UPI
@@ -41857,7 +41857,7 @@ het,VUOT
 toe,PB
 hulle,PDMP
 die,LB
-Rugbywˆreldbeker,NSE
+RugbywÃªreldbeker,NSE
 verlede,ASA
 jaar,NSE
 gewen,VVHOG
@@ -41919,7 +41919,7 @@ bespoedig,VTHOG
 sal,VTUOM
 ons,PEMP
 die,LB
-Industri‰le,ASA
+IndustriÃ«le,ASA
 Beleidsaksieplan,NSE
 implementeer,VTHOG
 .,ZE
@@ -42101,7 +42101,7 @@ die,LB
 ontwikkeling,NA
 van,SVS
 'n,LO
-ge‹ntegreerde,ASA
+geÃ¯ntegreerde,ASA
 infrastruktuurplan,NSE
 finaliseer,VTHOG
 ",",ZM
@@ -42115,7 +42115,7 @@ energiedoeltreffendheid,NA
 Dit,PDOENP
 behels,VTHOG
 die,LB
-ko”rdinering,NA
+koÃ¶rdinering,NA
 van,SVS
 staatsondernemings,NSM
 se,UPS
@@ -42189,7 +42189,7 @@ sal,VTUOM
 dus,BS
 vanjaar,BS
 die,LB
-lisensi‰ring,NA
+lisensiÃ«ring,NA
 en,KN
 inwerkingstelling,NA
 van,SVS
@@ -42241,7 +42241,7 @@ die,LB
 see,NSE
 aan,UPW
 te,UPI
-lˆ,VTHOG
+lÃª,VTHOG
 ",",ZM
 afhandel,VTHSG
 .,ZE
@@ -42334,7 +42334,7 @@ positief,BS
 of,KN
 negatief,BS
 kan,VTUOM
-be‹nvloed,VTHOG
+beÃ¯nvloed,VTHOG
 -,ZM
 het,VUOT
 ons,PEMP
@@ -42432,7 +42432,7 @@ instellings,NSM
 ",",ZM
 en,KN
 wat,PB
-gere‰l,VVHOG
+gereÃ«l,VVHOG
 word,VTUOP
 deur,SVS
 die,LB
@@ -42869,7 +42869,7 @@ die,LB
 uitbreiding,NSE
 van,SVS
 'n,LO
-ge‹ntegreerde,ASA
+geÃ¯ntegreerde,ASA
 en,KN
 omvattende,ASA
 anti-armoedestrategie,NSE
@@ -42941,7 +42941,7 @@ groepe,NSM
 ",",ZM
 verbetering,NSE
 van,SVS
-werksoekvermo‰,NSE
+werksoekvermoÃ«,NSE
 ",",ZM
 verbetering,NSE
 van,SVS
@@ -43045,7 +43045,7 @@ nie,BS
 kan,VTUOM
 wag,VTHOO
 vir,SVS
-strategie‰,NSM
+strategieÃ«,NSM
 en,KN
 samesprekings,NSM
 en,KN
@@ -43081,7 +43081,7 @@ alhoewel,KO
 dit,PDOENP
 nie,BS
 genoegsaam,BS
-ge‹ntegreerd,ASP
+geÃ¯ntegreerd,ASP
 is,VTHOK
 nie,UPO
 .,ZE
@@ -43312,7 +43312,7 @@ plaasbewoners,NSM
 en,KN
 gebiede,NSM
 met,SVS
-ho‰,ASA
+hoÃ«,ASA
 uitsettingsyfers,NSM
 ",",ZM
 en,KN
@@ -43387,7 +43387,7 @@ het,VUOT
 om,SVS
 hulp,NA
 aan,SVS
-ko”peratiewe,ASA
+koÃ¶peratiewe,ASA
 en,KN
 kleinsake-ondernemings,NSM
 te,UPI
@@ -43436,7 +43436,7 @@ die,LB
 inname,NSE
 in,SVS
 die,LB
-Militˆre,ASA
+MilitÃªre,ASA
 Vaardigheidsontwikkelingsprogram,NSE
 van,SVS
 die,LB
@@ -43529,7 +43529,7 @@ is,VVUOP
 vir,SVS
 programme,NSM
 vir,SVS
-vroe‰,ASA
+vroeÃ«,ASA
 ontwikkeling,NA
 van,SVS
 kinders,NSM
@@ -43676,7 +43676,7 @@ teen,SVS
 ordentlike,ASA
 nedersettings,NSM
 sal,VTUOM
-hˆ,VTHOG
+hÃª,VTHOG
 en,KN
 dat,KO
 alle,THAO
@@ -43686,7 +43686,7 @@ tot,SVS
 hierdie,PA
 dienste,NSM
 sal,VTUOM
-hˆ,VTHOG
+hÃª,VTHOG
 .,ZE
 ,
 Die,LB
@@ -43763,7 +43763,7 @@ te,UPI
 maak,VTHOO
 dat,KO
 alle,THAO
-pasi‰nte,NSM
+pasiÃ«nte,NSM
 wat,PB
 bestand,ASP
 is,VTHOK
@@ -43863,7 +43863,7 @@ ontwikkel,VTHOG
 wat,PB
 deur,SVS
 leerders,NSM
-opgesˆ,VVHOG
+opgesÃª,VVHOG
 word,VTUOP
 tydens,SVS
 die,LB
@@ -43995,7 +43995,7 @@ kommer,NA
 uitgespreek,VVHOG
 oor,SVS
 die,LB
-ho‰,ASA
+hoÃ«,ASA
 misdaadsyfer,NSE
 en,KN
 ook,BS
@@ -44111,7 +44111,7 @@ behels,VTHOG
 dat,KO
 'n,LO
 nuwe,ASA
-ko”rdinerende,ASA
+koÃ¶rdinerende,ASA
 en,KN
 bestuurstruktuur,NSE
 op,SVS
@@ -44159,7 +44159,7 @@ die,LB
 bemagtiging,NA
 van,SVS
 die,LB
-gemeenskapspolisi‰ringsforums,NSM
+gemeenskapspolisiÃ«ringsforums,NSM
 .,ZE
 ,
 Soos,UPV
@@ -44188,7 +44188,7 @@ indien,KO
 dit,PDOENP
 op,SVS
 'n,LO
-ge‹ntegreerde,ASA
+geÃ¯ntegreerde,ASA
 en,KN
 aanvullende,ASA
 wyse,NSE
@@ -44299,7 +44299,7 @@ die,LB
 implementering,NA
 van,SVS
 bykomende,ASA
-maatre‰ls,NSM
+maatreÃ«ls,NSM
 wat,PB
 voortgespruit,VVHOO
 het,VUOT
@@ -44379,10 +44379,10 @@ aangaande,SVS
 wetgewing,NA
 en,KN
 ander,ASA
-besluitnemingsmaatre‰ls,NSM
+besluitnemingsmaatreÃ«ls,NSM
 om,SVS
 ons,PEMB
-vermo‰,NSE
+vermoÃ«,NSE
 om,SVS
 misdaad,NSE
 te,UPI
@@ -44418,7 +44418,7 @@ bestuur,NA
 ",",ZM
 doeltreffendheid,NA
 en,KN
-ko”rdinering,NA
+koÃ¶rdinering,NA
 van,SVS
 ons,PEMB
 wetstoepassingsagentskappe,NSM
@@ -44636,7 +44636,7 @@ die,LB
 aanvang,NA
 van,SVS
 die,LB
-finansi‰le,ASA
+finansiÃ«le,ASA
 jaar,NSE
 op,SVS
 plaaslike,ASA
@@ -44871,7 +44871,7 @@ is,VVUOP
 met,SVS
 besighede,NSM
 ",",ZM
-ge‹mplementeer,VVHOG
+geÃ¯mplementeer,VVHOG
 word,VTUOP
 .,ZE
 ,
@@ -44893,7 +44893,7 @@ die,LB
 ontwikkeling,NA
 van,SVS
 anti-korrupsie,NA
-strategie‰,NSM
+strategieÃ«,NSM
 .,ZE
 ,
 Ons,PEMP
@@ -44945,7 +44945,7 @@ kwartaallikse,ASA
 verslae,NSM
 voor,UPW
 te,UPI
-lˆ,VTHOG
+lÃª,VTHOG
 ten,SVS
 opsigte,NSM
 van,SVS
@@ -44995,7 +44995,7 @@ en,KN
 die,LB
 mees,BO
 gepaste,ASA
-re‰lings,NSM
+reÃ«lings,NSM
 bestudeer,VTHOG
 ",",ZM
 insluitend,ASP
@@ -45076,7 +45076,7 @@ verbeter,VTHOG
 om,SVS
 realistiese,ASA
 en,KN
-ge‹ntegreerde,ASA
+geÃ¯ntegreerde,ASA
 planne,NSM
 in,SVS
 werking,NA
@@ -45132,7 +45132,7 @@ die,LB
 Afrika-agenda,NSE
 vanjaar,BS
 ",",ZM
-lˆ,VTHOG
+lÃª,VTHOG
 ons,PEMP
 klem,NSE
 op,SVS
@@ -45376,7 +45376,7 @@ hierdie,PA
 aangeleentheid,NSE
 voor,UPW
 te,UPI
-lˆ,VTHOG
+lÃª,VTHOG
 .,ZE
 ,
 Kortom,BS
@@ -45645,7 +45645,7 @@ Sahara,NEE
 ",",ZM
 Ivoorkus,NEE
 ",",ZM
-Somali‰,NEE
+SomaliÃ«,NEE
 ",",ZM
 die,LB
 Comore-eilande,NEE
@@ -45718,7 +45718,7 @@ om,SVS
 alles,PO
 in,SVS
 ons,PEMB
-vermo‰,NSE
+vermoÃ«,NSE
 te,UPI
 doen,VTHOG
 sodat,KO
@@ -45817,11 +45817,11 @@ te,UPI
 brei,VTHOG
 in,SVS
 die,LB
-Indi‰-Brasili‰-Suid-Afrika-forums,NSM
+IndiÃ«-BrasiliÃ«-Suid-Afrika-forums,NSM
 ",",ZM
 die,LB
 nuwe,ASA
-Afrika-Asi‰,NEE
+Afrika-AsiÃ«,NEE
 Strategiese,ASA
 Vennootskap,NSE
 ",",ZM
@@ -45886,7 +45886,7 @@ die,LB
 onderhandelings,NSM
 oor,SVS
 die,LB
-Wˆreldhandelsorganisasie,NSE
+WÃªreldhandelsorganisasie,NSE
 se,UPS
 Doha,NEE
 Ontwikkelingsrondte,NSE
@@ -45976,7 +45976,7 @@ geneem,VVHOG
 is,VVUOP
 op,SVS
 die,LB
-Wˆreldkongres,NSE
+WÃªreldkongres,NSE
 teen,SVS
 Rassisme,NA
 wat,PB
@@ -46017,7 +46017,7 @@ en,KN
 mense,NSM
 van,SVS
 die,LB
-wˆreld,NSE
+wÃªreld,NSE
 saam,UPW
 met,SVS
 ons,PEMP
@@ -46049,7 +46049,7 @@ tydens,SVS
 die,LB
 2010,RS
 FIFA,RK
-Wˆreldbeker-sokkertoernooi,NSE
+WÃªreldbeker-sokkertoernooi,NSE
 ",",ZM
 beklemtoon,VTHOG
 ten,SVS
@@ -46126,7 +46126,7 @@ die,LB
 res,NSE
 van,UPD
 die,LB
-wˆreld,NSE
+wÃªreld,NSE
 die,LB
 gees,NA
 van,SVS
@@ -46159,7 +46159,7 @@ omstandighede,NSM
 skep,VTHOG
 vir,SVS
 'n,LO
-wˆreld,NSE
+wÃªreld,NSE
 wat,PB
 in,SVS
 ons,PEMB
@@ -46190,7 +46190,7 @@ lede,NSM
 Na,SVS
 wat,PB
 alles,PO
-gesˆ,VVHOG
+gesÃª,VVHOG
 is,VVUOP
 ",",ZM
 keer,VTHOO
@@ -46220,7 +46220,7 @@ weet,VTHOG
 en,KN
 prontuit,BS
 kan,VTUOM
-sˆ,VTHOG
+sÃª,VTHOG
 ",",ZM
 is,VTHOK
 :,ZM
@@ -46242,7 +46242,7 @@ koers,NSE
 !,ZE
 ,
 Ek,PEENP
-sˆ,VTHOG
+sÃª,VTHOG
 dit,PDOENP
 met,SVS
 onwrikbare,ASA
@@ -46274,7 +46274,7 @@ om,SVS
 alles,PO
 in,SVS
 ons,PEMB
-vermo‰,NSE
+vermoÃ«,NSE
 te,UPI
 doen,VTHOG
 -,ZM
@@ -46288,7 +46288,7 @@ te,UPI
 reageer,VTHOO
 ",",ZM
 insluitend,ASP
-di‚,PA
+diÃ©,PA
 wat,PB
 betrekking,NA
 het,VTHOG
@@ -46307,7 +46307,7 @@ en,KN
 elders,PO
 in,SVS
 die,LB
-wˆreld,NSE
+wÃªreld,NSE
 ",",ZM
 en,KN
 om,SVS
@@ -46365,7 +46365,7 @@ en,KN
 dit,PDOENP
 selfs,BS
 na,SVS
-ho‰r,AVA
+hoÃ«r,AVA
 vlakke,NSM
 neem,VTHOG
 .,ZE
@@ -46494,7 +46494,7 @@ om,SVS
 die,LB
 grondslag,NSE
 te,UPI
-lˆ,VTHOG
+lÃª,VTHOG
 vir,SVS
 die,LB
 na-verkiesing-administrasie,NA
@@ -46520,9 +46520,9 @@ gelede,BS
 gladde,ASA
 oorgang,NSE
 te,UPI
-hˆ,VTHOG
+hÃª,VTHOG
 en,KN
-kontinu‹teit,NA
+kontinuÃ¯teit,NA
 in,SVS
 die,LB
 regeringstelsels,NSM
@@ -46563,7 +46563,7 @@ hand,NSE
 van,SVS
 ons,PEMB
 openbaresektor-bestuurders,NSM
-weerspie‰l,VTHOG
+weerspieÃ«l,VTHOG
 word,VTUOP
 .,ZE
 ,
@@ -46707,7 +46707,7 @@ verteenwoordig,VTHOG
 die,LB
 hoop,NA
 en,KN
-deursettingsvermo‰,NA
+deursettingsvermoÃ«,NA
 wat,PB
 ons,PEMB
 nasie,NSE
@@ -46873,7 +46873,7 @@ nie,UPO
 .,ZE
 ,
 Die,LB
-wˆreldwye,ASA
+wÃªreldwye,ASA
 ekonomiese,ASA
 ineenstorting,NSE
 hou,VTHOG
@@ -46955,7 +46955,7 @@ volharding,NA
 Ons,PEMP
 kan,VTUOM
 selfs,BS
-sˆ,VTHOG
+sÃª,VTHOG
 ",",ZM
 danksy,SVS
 'n,LO
@@ -47014,10 +47014,10 @@ deur,SVS
 'n,LO
 Grondwet,NSE
 wat,PB
-nˆrens,BS
+nÃªrens,BS
 ter,SVS
-wˆreld,NSE
-ge‰wenaar,VVHOG
+wÃªreld,NSE
+geÃ«wenaar,VVHOG
 kan,VTUOM
 word,VTUOP
 nie,UPO
@@ -47087,7 +47087,7 @@ in,SVS
 die,LB
 jare,NSM
 wat,PB
-voorlˆ,VTHSO
+voorlÃª,VTHSO
 .,ZE
 ,
 Vergun,VTHOG
@@ -47171,11 +47171,11 @@ Suid-Afrika,NEE
 die,LB
 OVK,RL
 ),ZPR
-gere‰l,VVHOG
+gereÃ«l,VVHOG
 is,VVUOP
 ",",ZM
 naamlik,BS
-m“re,BS
+mÃ´re,BS
 en,KN
 Sondag,NEE
 ",",ZM
@@ -47197,7 +47197,7 @@ gebruik,NA
 maak,VTHOG
 om,SVS
 te,UPI
-sˆ,VTHOG
+sÃª,VTHOG
 dat,KO
 ek,PEENP
 oor,SVS
@@ -47214,7 +47214,7 @@ die,LB
 provinsiale,ASA
 premiers,NSM
 sal,VTUOM
-hˆ,VTHOG
+hÃª,VTHOG
 en,KN
 die,LB
 datum,NSE
@@ -47344,9 +47344,9 @@ inisiatief,NSE
 het,VUOT
 die,LB
 grondslag,NSE
-gelˆ,VVHOG
+gelÃª,VVHOG
 vir,SVS
-wˆreldwye,ASA
+wÃªreldwye,ASA
 konsensus,NA
 deur,SVS
 die,LB
@@ -47437,8 +47437,8 @@ hy,PDHENP
 deur,SVS
 vastelands-,RWD
 en,KN
-wˆreldliggame,NSM
-ge‹nisieer,VVHOG
+wÃªreldliggame,NSM
+geÃ¯nisieer,VVHOG
 en,KN
 bekendgestel,VVHOG
 het,VUOT
@@ -47732,7 +47732,7 @@ oor,SVS
 die,LB
 hoop,NA
 en,KN
-deursettingsvermo‰,NA
+deursettingsvermoÃ«,NA
 wat,PB
 daardie,PA
 onversetlike,ASA
@@ -47746,14 +47746,14 @@ opleidingsentrums,NSM
 het,VUOT
 daardie,PA
 selfde,ASA
-deursettingsvermo‰,NA
+deursettingsvermoÃ«,NA
 massaverset,NSE
 aangevuur,VVHOG
 gedurende,SVS
 daardie,PA
 koue,ASA
 winter,NSE
-n ,SVS
+nÃ¡,SVS
 die,LB
 verbanning,NA
 van,SVS
@@ -47799,7 +47799,7 @@ hierdie,PA
 generasie,NSE
 was,VVHOK
 die,LB
-vroe‰,ASA
+vroeÃ«,ASA
 leiers,NSM
 van,SVS
 Saso,RK
@@ -47915,7 +47915,7 @@ aan,SVS
 hierdie,PA
 studente,NSM
 van,SVS
-vervlo‰,ASA
+vervloÃ«,ASA
 dae,NSM
 is,VTHOK
 daar,UXD
@@ -48004,14 +48004,14 @@ gees,NA
 van,SVS
 hoop,NA
 en,KN
-uithouvermo‰,NA
+uithouvermoÃ«,NA
 te,UPI
 beklemtoon,VTHOG
 wat,PB
 die,LB
 demokratiese,ASA
 stryd,NA
-ge‹nspireer,VVHOG
+geÃ¯nspireer,VVHOG
 het,VUOT
 ",",ZM
 selfs,BS
@@ -48216,7 +48216,7 @@ karakter,NA
 van,SVS
 ons,PEMB
 samelewing,NSE
-weerspie‰l,VTHOG
+weerspieÃ«l,VTHOG
 .,ZE
 ,
 Maar,KN
@@ -48365,7 +48365,7 @@ agter,SVS
 .,ZE
 ,
 Verskeie,ASA
-maatre‰ls,NSM
+maatreÃ«ls,NSM
 is,VVUOP
 in,SVS
 plek,NSE
@@ -48380,7 +48380,7 @@ te,UPI
 verbeter,VTHOG
 ",",ZM
 insluitend,SVS
-finansi‰le,ASA
+finansiÃ«le,ASA
 bestuur,NA
 ",",ZM
 Thusong-dienssentrums,NSM
@@ -48457,11 +48457,11 @@ Dit,PDOENP
 word,VTUOP
 onder,SVS
 meer,THPO
-weerspie‰l,VTHOG
+weerspieÃ«l,VTHOG
 deur,SVS
 wetgewing,NA
 ",",ZM
-re‰ls,NSM
+reÃ«ls,NSM
 en,KN
 regulasies,NSM
 vir,SVS
@@ -48469,7 +48469,7 @@ sowel,KO
 staatsamptenare,NSM
 as,KO
 politieke,ASA
-ampsbekle‰rs,NSM
+ampsbekleÃ«rs,NSM
 ",",ZM
 vennootskappe,NSM
 met,SVS
@@ -48627,7 +48627,7 @@ kennis,NA
 dat,KO
 Suid-Afrika,NEE
 ",",ZM
-n ,SVS
+nÃ¡,SVS
 die,LB
 ekonomiese,ASA
 stagnasie,NA
@@ -48635,7 +48635,7 @@ van,SVS
 die,LB
 laat-1980's,NSM
 en,KN
-vroe‰-1990's,NSM
+vroeÃ«-1990's,NSM
 ",",ZM
 die,LB
 langste,AOA
@@ -48719,7 +48719,7 @@ ons,PEMP
 bemoedig,VTHOG
 deur,SVS
 die,LB
-bre‰,ASA
+breÃ«,ASA
 spektrum,NSE
 geleenthede,NSM
 vir,SVS
@@ -48733,7 +48733,7 @@ toekoms,NA
 Dit,PDOENP
 sluit,VTHOG
 eerstens,TRBB
-ho‰r,AVA
+hoÃ«r,AVA
 beleggingskoerse,NSM
 in,UPW
 ",",ZM
@@ -48841,7 +48841,7 @@ en,KN
 om,SVS
 fiskale,ASA
 en,KN
-monetˆre,ASA
+monetÃªre,ASA
 beleid,NSE
 so,UPV
 te,UPI
@@ -48921,7 +48921,7 @@ Groei,NA
 (,ZPL
 AsgiSA,RK
 ),ZPR
-ge‹mplementeer,VVHOG
+geÃ¯mplementeer,VVHOG
 word,VTUOP
 ",",ZM
 om,SVS
@@ -48934,7 +48934,7 @@ blokkasies,NSM
 soos,UPV
 infrastruktuur-bottelnekke,NSM
 ",",ZM
-ge‹ntegreerde,ASA
+geÃ¯ntegreerde,ASA
 nywerheidsbeleid,NSE
 en,KN
 -programme,RWD
@@ -48972,7 +48972,7 @@ het,VUOT
 dit,PDOENP
 gelyktydig,BS
 meer,THBO
-ge‹ntegreerd,ASP
+geÃ¯ntegreerd,ASP
 geraak,VVHOK
 in,SVS
 die,LB
@@ -48981,7 +48981,7 @@ stelsel,NSE
 .,ZE
 ,
 Ons,PEMB
-finansi‰le,ASA
+finansiÃ«le,ASA
 instellings,NSM
 is,VTHOK
 'n,LO
@@ -48994,7 +48994,7 @@ beskut,VTHOG
 het,VUOT
 teen,SVS
 die,LB
-wˆreldwye,ASA
+wÃªreldwye,ASA
 ekonomiese,ASA
 storms,NSM
 .,ZE
@@ -49084,7 +49084,7 @@ die,LB
 tye,NSM
 toe,PB
 ons,PEMP
-ho‰r,AVA
+hoÃ«r,AVA
 groei,NA
 beleef,VTHOG
 het,VUOT
@@ -49333,7 +49333,7 @@ aksie,NSE
 in,UPW
 ",",ZM
 insluitend,SVS
-bre‰,ASA
+breÃ«,ASA
 swart,ASA
 ekonomiese,ASA
 bemagtiging,NA
@@ -49415,7 +49415,7 @@ deels,BS
 'n,LO
 agtergeblewene,NSE
 in,SVS
-ho‰groei-aandele,NSM
+hoÃ«groei-aandele,NSM
 .,ZE
 ,
 Om,SVS
@@ -49450,7 +49450,7 @@ openbare,ASA
 goedere,NSM
 te,UPI
 herverdeel,VTHOG
-‚n,KN
+Ã©n,KN
 te,UPI
 deel,VTHOG
 .,ZE
@@ -49614,7 +49614,7 @@ sedert,SVS
 Hierdie,PA
 verbetering,NSE
 word,VTUOP
-weerspie‰l,VTHOG
+weerspieÃ«l,VTHOG
 deur,SVS
 toegang,NA
 tot,SVS
@@ -49665,7 +49665,7 @@ en,KN
 ongelykheidsneigings,NSM
 bepaal,VTHOG
 die,LB
-bre‰,ASA
+breÃ«,ASA
 beleidsuitkyk,NA
 .,ZE
 .,ZE
@@ -49893,7 +49893,7 @@ bereik,VTHOG
 ",",ZM
 'n,LO
 jaar,NSE
-vroe‰r,BV
+vroeÃ«r,BV
 as,KO
 beoog,VTHOO
 in,SVS
@@ -49985,7 +49985,7 @@ verbetering,NSE
 in,SVS
 toegang,NA
 tot,SVS
-primˆregesondheidsorggeriewe,NSM
+primÃªregesondheidsorggeriewe,NSM
 .,ZE
 ,
 Altesaam,BS
@@ -50065,7 +50065,7 @@ net,BS
 die,LB
 grootste,AOP
 ter,SVS
-wˆreld,NSE
+wÃªreld,NSE
 nie,UPO
 ",",ZM
 maar,KN
@@ -50080,7 +50080,7 @@ meer,THBO
 as,KO
 690,RS
 000,RS
-pasi‰nte,NSM
+pasiÃ«nte,NSM
 wat,PB
 al,BS
 met,SVS
@@ -50205,9 +50205,9 @@ uitsakkoers,NSE
 ",",ZM
 veral,BS
 op,SVS
-sekondˆre,ASA
+sekondÃªre,ASA
 en,KN
-tersiˆre,ASA
+tersiÃªre,ASA
 vlak,NSE
 ",",ZM
 onaanvaarbaar,BS
@@ -50269,7 +50269,7 @@ infrastruktuur,NM
 en,KN
 administratiewe,ASA
 en,KN
-onderwyservermo‰ns,NSM
+onderwyservermoÃ«ns,NSM
 juis,BS
 die,LB
 minste,THBO
@@ -50529,7 +50529,7 @@ vir,SVS
 onsself,PEMW
 in,SVS
 verskeie,ASA
-kontakmisdaadkategorie‰,NSM
+kontakmisdaadkategorieÃ«,NSM
 gestel,VVHOG
 het,VUOT
 nie,UPO
@@ -50850,7 +50850,7 @@ die,LB
 kwessies,NSM
 wat,PB
 hulle,PDMP
-be‹nvloed,VTHOG
+beÃ¯nvloed,VTHOG
 verbeter,VTHOG
 ;,ZM
 en,KN
@@ -50900,7 +50900,7 @@ van,SVS
 die,LB
 suksesvolste,AOA
 programme,NSM
-di‚,PA
+diÃ©,PA
 rondom,SVS
 kinderimmunisasie,NA
 en,KN
@@ -51050,7 +51050,7 @@ en,KN
 veerkragtigheid,NA
 ",",ZM
 van,SVS
-kontinu‹teit,NA
+kontinuÃ¯teit,NA
 en,KN
 verandering,NSE
 ",",ZM
@@ -51156,7 +51156,7 @@ afstand,NSE
 wat,PB
 ek,PEENP
 al,BS
-afgelˆ,VVHOG
+afgelÃª,VVHOG
 het,VUOT
 .,ZE
 ,
@@ -51278,7 +51278,7 @@ skep,NA
 van,SVS
 'n,LO
 beter,AVA
-wˆreld,NSE
+wÃªreld,NSE
 .,ZE
 ,
 Ses,THAB
@@ -51293,7 +51293,7 @@ mense,NSM
 bymekaargekom,VVHOO
 vir,SVS
 die,LB
-Wˆreldberaad,NSE
+WÃªreldberaad,NSE
 oor,SVS
 Groei,NA
 en,KN
@@ -51346,7 +51346,7 @@ werk,NA
 vir,SVS
 almal,PO
 deur,SVS
-ho‰r,AVA
+hoÃ«r,AVA
 vlakke,NSM
 van,SVS
 belegging,NSE
@@ -51355,7 +51355,7 @@ openbarewerke-programme,NSM
 ",",ZM
 sektor-vennootskappe,NSM
 en,KN
--strategie‰,RWD
+-strategieÃ«,RWD
 ",",ZM
 plaaslike,ASA
 verkryging,NA
@@ -51368,7 +51368,7 @@ ondernemings,NSM
 en,KN
 ondersteuning,NA
 vir,SVS
-ko”perasies,NSM
+koÃ¶perasies,NSM
 ,
 die,LB
 aanspreek,NA
@@ -51394,7 +51394,7 @@ behuising,NA
 bydraes,NSM
 van,SVS
 die,LB
-finansi‰le,ASA
+finansiÃ«le,ASA
 sektor,NSE
 en,KN
 swart,ASA
@@ -51570,7 +51570,7 @@ en,KN
 projekte,NSM
 wat,PB
 doeltreffend,BS
-ge‹mplementeer,VVHOG
+geÃ¯mplementeer,VVHOG
 kan,VTUOM
 word,VTUOP
 .,ZE
@@ -51586,7 +51586,7 @@ gedeel,VVHOG
 ",",ZM
 soos,UPV
 dit,PDOENP
-weerspie‰l,VTHOG
+weerspieÃ«l,VTHOG
 word,VTUOP
 in,SVS
 die,LB
@@ -51632,7 +51632,7 @@ ekonomiese,ASA
 krisis,NSE
 wat,PB
 die,LB
-wˆreld,NSE
+wÃªreld,NSE
 oorval,VTHOG
 het,VUOT
 .,ZE
@@ -51641,7 +51641,7 @@ Wat,PB
 oppervlakkig,BS
 as,KO
 'n,LO
-finansi‰le,ASA
+finansiÃ«le,ASA
 krisis,NSE
 tussen,SVS
 'n,LO
@@ -51654,7 +51654,7 @@ het,VUOT
 ontplof,VTHOO
 in,SVS
 'n,LO
-wˆreldwye,ASA
+wÃªreldwye,ASA
 kredietnood,NA
 ",",ZM
 met,SVS
@@ -51711,7 +51711,7 @@ markte,NSM
 verwoesting,NM
 saai,VTHOG
 onder,SVS
-finansi‰le,ASA
+finansiÃ«le,ASA
 stelsels,NSM
 .,ZE
 ,
@@ -51831,8 +51831,8 @@ ons,PEMP
 sterk,BS
 in,SVS
 die,LB
-wˆreldekonomie,NSE
-ge‹ntegreer,VVHOG
+wÃªreldekonomie,NSE
+geÃ¯ntegreer,VVHOG
 is,VVUOP
 ;,ZM
 dat,KO
@@ -51862,7 +51862,7 @@ skep,NA
 van,SVS
 werk,NA
 negatief,BS
-be‹nvloed,VTHOG
+beÃ¯nvloed,VTHOG
 is,VVUOP
 en,KN
 dat,KO
@@ -52055,8 +52055,8 @@ werk,NA
 en,KN
 die,LB
 volgende,ASA
-bre‰,ASA
-kategorie‰,NSM
+breÃ«,ASA
+kategorieÃ«,NSM
 word,VTUOP
 bespreek,VTHOG
 :,ZM
@@ -52347,7 +52347,7 @@ die,LB
 Maatskaplike,ASA
 Noodverligting-toelae,NSM
 en,KN
-voedselsekuriteit-maatre‰ls,NSM
+voedselsekuriteit-maatreÃ«ls,NSM
 meer,THBO
 gereeld,BS
 aanwend,VTHSG
@@ -52454,7 +52454,7 @@ afneem,VTHSO
 ,
 Hierdie,PA
 onmiddellike,ASA
-maatre‰ls,NSM
+maatreÃ«ls,NSM
 sal,VTUOM
 gelei,VVHOG
 word,VTUOP
@@ -52512,7 +52512,7 @@ die,LB
 wete,NA
 dat,KO
 die,LB
-maatre‰ls,NSM
+maatreÃ«ls,NSM
 om,SVS
 die,LB
 omgewing,NSE
@@ -52590,7 +52590,7 @@ en,KN
 oorsigte,NSM
 oor,SVS
 die,LB
-finansi‰le,ASA
+finansiÃ«le,ASA
 stelsel,NSE
 te,UPI
 verstewig,VTHOG
@@ -52605,7 +52605,7 @@ en,KN
 optrede,NSE
 op,SVS
 'n,LO
-wˆreldwye,ASA
+wÃªreldwye,ASA
 skaal,NSE
 onvermydelik,ASP
 en,KN
@@ -52624,7 +52624,7 @@ die,LB
 integriteit,NA
 van,SVS
 die,LB
-wˆreldhandelstelsel,NSE
+wÃªreldhandelstelsel,NSE
 moet,VTUOM
 beskerm,VTHOG
 ",",ZM
@@ -52684,7 +52684,7 @@ nie,UPO
 maar,KN
 ook,BS
 om,SVS
-maatre‰ls,NSM
+maatreÃ«ls,NSM
 in,SVS
 plek,NSE
 te,UPI
@@ -52719,7 +52719,7 @@ op,SVS
 'n,LO
 pad,NSE
 van,SVS
-ho‰r,AVA
+hoÃ«r,AVA
 groei,NA
 en,KN
 ontwikkeling,NA
@@ -52738,7 +52738,7 @@ gaan,VTUOM
 neem,VTHOO
 om,SVS
 'n,LO
-ho‰r,AVA
+hoÃ«r,AVA
 trajek,NSE
 te,UPI
 bereik,VTHOG
@@ -52795,7 +52795,7 @@ hier,BS
 spesifiek,BS
 na,SVS
 die,LB
-FIFA-Wˆreldbeker,NSE
+FIFA-WÃªreldbeker,NSE
 in,SVS
 2010,RS
 ",",ZM
@@ -52829,7 +52829,7 @@ stadions,NSM
 ",",ZM
 vervoerinfrastruktuur,NM
 ",",ZM
-veiligheidsmaatre‰ls,NSM
+veiligheidsmaatreÃ«ls,NSM
 ",",ZM
 kwessies,NSM
 rondom,SVS
@@ -52847,7 +52847,7 @@ bevestig,VTHOG
 van,SVS
 die,LB
 globale,ASA
-sokkerwˆreld,NSE
+sokkerwÃªreld,NSE
 dat,KO
 hierdie,PA
 'n,LO
@@ -52862,7 +52862,7 @@ En,KN
 ons,PEMP
 glo,VTHOG
 ",",ZM
-n ,SVS
+nÃ¡,SVS
 vyf,THAB
 agtereenvolgende,ASA
 oorwinnings,NSM
@@ -52896,7 +52896,7 @@ hierdie,PA
 skouspel,NSE
 sal,VTUOM
 ons,PEMB
-vermo‰,NSE
+vermoÃ«,NSE
 wees,VTHOK
 om,SVS
 Suid-Afrikaanse,ASA
@@ -52924,10 +52924,10 @@ ons,PEMB
 kontinent,NSE
 in,SVS
 die,LB
-o‰,NSM
+oÃ«,NSM
 van,SVS
 die,LB
-wˆreld,NSE
+wÃªreld,NSE
 te,UPI
 verander,VTHOG
 .,ZE
@@ -52988,7 +52988,7 @@ die,LB
 kruin,NSE
 van,SVS
 die,LB
-wˆreldranglys,NSE
+wÃªreldranglys,NSE
 bereik,VTHOG
 het,VUOT
 .,ZE
@@ -52998,7 +52998,7 @@ is,VTHOK
 natuurlik,BS
 ook,BS
 die,LB
-rugby-wˆreldkampioene,NSM
+rugby-wÃªreldkampioene,NSM
 ;,ZM
 Giniel,NEE
 de,LB
@@ -53189,11 +53189,11 @@ Ons,PEMB
 vasteland,NSE
 wys,VTHOG
 die,LB
-wˆreld,NSE
+wÃªreld,NSE
 hoe,PB
 hoop,NA
 en,KN
-deursettingsvermo‰,NA
+deursettingsvermoÃ«,NA
 lyk,VTHOK
 .,ZE
 ,
@@ -53668,7 +53668,7 @@ mense,NSM
 en,KN
 leierskorps,NM
 van,SVS
-Zambi‰,NEE
+ZambiÃ«,NEE
 ",",ZM
 Ghana,NEE
 en,KN
@@ -53774,7 +53774,7 @@ ons,PEMP
 met,SVS
 Brazil,NEE
 en,KN
-Indi‰,NEE
+IndiÃ«,NEE
 gevorm,VVHOG
 het,VUOT
 deur,SVS
@@ -53797,7 +53797,7 @@ Rusland,NEE
 en,KN
 lande,NSM
 in,SVS
-Asi‰,NEE
+AsiÃ«,NEE
 ",",ZM
 die,LB
 Midde-Ooste,NEE
@@ -54056,7 +54056,7 @@ Nasies,NSM
 ",",ZM
 die,LB
 Internasionale,ASA
-Monitˆre,ASA
+MonitÃªre,ASA
 Fonds,NSE
 en,KN
 ander,ASA
@@ -54074,7 +54074,7 @@ en,KN
 veranderende,ASA
 globale,ASA
 werklikheid,NA
-weerspie‰l,VTHOG
+weerspieÃ«l,VTHOG
 en,KN
 op,SVS
 'n,LO
@@ -54125,7 +54125,7 @@ en,KN
 mense,NSM
 regoor,SVS
 die,LB
-wˆreld,NSE
+wÃªreld,NSE
 .,ZE
 ,
 Mevrou,NSE
@@ -54582,7 +54582,7 @@ verlede,ASA
 Februarie,NEE
 se,UPS
 Staatsrede,NSE
-ge‹dentifiseer,VVHOG
+geÃ¯dentifiseer,VVHOG
 is,VVUOP
 ",",ZM
 vorm,VTHOG
@@ -54613,7 +54613,7 @@ ons,PEMB
 pogings,NSM
 verskerp,VTHOG
 ",",ZM
-ge‹nspireer,VVHOG
+geÃ¯nspireer,VVHOG
 deur,SVS
 die,LB
 entoesiasme,NA
@@ -54651,7 +54651,7 @@ ons,PEMB
 vertroue,NA
 wanneer,PB
 ons,PEMP
-sˆ,VTHOG
+sÃª,VTHOG
 dat,KO
 dit,PDOENP
 goed,BS
@@ -54808,7 +54808,7 @@ of,KN
 verwysingsdoeleindes,NSM
 en,KN
 vir,SVS
-niekommersi‰le,ASA
+niekommersiÃ«le,ASA
 doeleindes,NSM
 bekyk,VTHOG
 ",",ZM
@@ -54833,7 +54833,7 @@ op,SVS
 hierdie,PA
 webwerf,NSE
 vir,SVS
-kommersi‰le,ASA
+kommersiÃ«le,ASA
 doeleindes,NSM
 wil,VTUOM
 gebruik,VTHOG
@@ -54877,7 +54877,7 @@ of,KN
 deel,NSE
 daarvan,PB
 vir,SVS
-kommersi‰le,ASA
+kommersiÃ«le,ASA
 doeleindes,NSM
 moet,VTUOM
 die,LB
@@ -54886,7 +54886,7 @@ kopieregkennisgewing,NSE
 volledig,BS
 insluit,VTHSG
 :,ZM
-?,RS
+Â©,RS
 GCIS2004,RS
 :,ZM
 ALLE,THAO
@@ -55295,7 +55295,7 @@ aanspreeklikheid,NA
 ten,SVS
 opsigte,NSM
 van,SVS
-ge‹mpliseerde,ASA
+geÃ¯mpliseerde,ASA
 waarborge,NSM
 ",",ZM
 met,SVS
@@ -55333,7 +55333,7 @@ maak,VTHOG
 geen,THBB
 uitdruklike,ASA
 of,KN
-ge‹mpliseerde,ASA
+geÃ¯mpliseerde,ASA
 voorstelling,NSE
 of,KN
 waarborg,NSE
@@ -55350,7 +55350,7 @@ of,KN
 dat,KO
 die,LB
 webwerf,NSE
-s¢,UPV
+sÃ³,UPV
 saamgestel,VVHOG
 is,VVUOP
 of,KN
@@ -55435,7 +55435,7 @@ mag,VTUOM
 voortspruit,VTHSO
 .,ZE
 ,
-N¢g,KO
+NÃ³g,KO
 die,LB
 GCIS,RL
 of,KN
@@ -55454,7 +55454,7 @@ werf,NSE
 vervat,VTHOG
 is,VVUOP
 ",",ZM
-n¢g,KO
+nÃ³g,KO
 werknemers,NSM
 van,SVS
 die,LB
@@ -55595,7 +55595,7 @@ uit,SVS
 die,LB
 gebruik,NA
 of,KN
-onvermo‰,NA
+onvermoÃ«,NA
 om,SVS
 hierdie,PA
 webwerf,NSE
@@ -55819,7 +55819,7 @@ Die,LB
 GCIS,RL
 handhaaf,VTHOG
 redelike,ASA
-kommersi‰le,ASA
+kommersiÃ«le,ASA
 tegnologiestandaarde,NSM
 en,KN
 operasionele,ASA
@@ -55999,7 +55999,7 @@ klag,NSE
 teen,SVS
 daardie,PA
 persoon,NSE
-gelˆ,VVHOG
+gelÃª,VVHOG
 word,VTUOP
 en,KN
 ",",ZM
@@ -56020,7 +56020,7 @@ ly,VTHOG
 sal,VTUOM
 siviele,ASA
 skadevergoeding,NM
-ge‰is,VVHOG
+geÃ«is,VVHOG
 word,VTUOP
 .,ZE
 ,
@@ -56165,7 +56165,7 @@ inhoud,NM
 gebruik,NA
 ",",ZM
 of,KN
-onvermo‰,NA
+onvermoÃ«,NA
 om,SVS
 enige,PO
 geskakelde,ASA
@@ -56264,7 +56264,7 @@ hierdie,PA
 werf,NSE
 skakels,NSM
 kan,VTUOM
-hˆ,VTHOG
+hÃª,VTHOG
 met,SVS
 ander,ASA
 werwe,NSM
@@ -56325,7 +56325,7 @@ kan,VTUOM
 koekies,NSMD
 (,ZPL
 klein,ASA
-tekslˆers,NSM
+tekslÃªers,NSM
 wat,PB
 in,SVS
 'n,LO
@@ -56418,7 +56418,7 @@ te,UPI
 spoor,VTHOG
 en,KN
 om,SVS
-gebruikerskategorie‰,NSM
+gebruikerskategorieÃ«,NSM
 te,UPI
 identifiseer,VTHOG
 op,SVS
@@ -56480,10 +56480,10 @@ diens,NSE
 doen,VTHOG
 .,ZE
 ,
-N¢g,KO
+NÃ³g,KO
 koekies,NSMD
 ",",ZM
-n¢g,KO
+nÃ³g,KO
 webbakens,NSM
 samel,VTHOG
 persoonlike,ASA
@@ -56758,7 +56758,7 @@ inligting,NM
 gewoonlik,BS
 nie,BS
 vir,SVS
-sekondˆre,ASA
+sekondÃªre,ASA
 of,KN
 verwante,ASA
 doeleindes,NSM
@@ -56814,12 +56814,12 @@ insluit,VTHSG
 na,SVS
 lande,NSM
 sonder,SVS
-databeskermingsre‰ls,NSM
+databeskermingsreÃ«ls,NSM
 wat,PB
 soortgelyk,ASP
 aan,SVS
 die,LB
-re‰ls,NSM
+reÃ«ls,NSM
 in,SVS
 die,LB
 gebruiker,NSE
@@ -57090,7 +57090,7 @@ privaatheid,NA
 in,SVS
 die,LB
 interaktiewe,ASA
-aanlynwˆreld,NSE
+aanlynwÃªreld,NSE
 te,UPI
 beskerm,VTHOG
 .,ZE
@@ -57221,7 +57221,7 @@ sodanige,PA
 onafdwingbaarheid,NA
 of,KN
 ongeldigheid,NA
-be‹nvloed,VTHOG
+beÃ¯nvloed,VTHOG
 word,VTUOP
 nie,UPO
 ",",ZM
@@ -57640,7 +57640,7 @@ is,VVUOP
 (,ZPL
 dit,PDOENP
 wil,VTUOM
-sˆ,VTHOG
+sÃª,VTHOG
 as,KO
 jy,PTENP
 via,SVS
@@ -57842,7 +57842,7 @@ nuwe,ASA
 huis,NSE
 of,KN
 sakeonderneming,NSE
-gele‰,ASP
+geleÃ«,ASP
 is,VTHOK
 .,ZE
 ,
