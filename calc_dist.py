@@ -6,10 +6,10 @@
 
 import csv
 
-train_filename = "GOV-ZA.50000TrainingSet.af.pos.full.csv"
-test_filename = "GOV-ZA.5000TestSet.af.pos.full.csv"
-t_dist_filename = "t_dist.csv"
-e_dist_filename = "e_dist.csv"
+train_filename = "data/raw/GOV-ZA.50000TrainingSet.af.pos.full.csv"
+test_filename = "data/raw/GOV-ZA.5000TestSet.af.pos.full.csv"
+t_dist_filename = "data/processed/t_dist.csv"
+e_dist_filename = "data/processed/e_dist.csv"
 train_set_size = 0.9
 
 def get_tags(dataset):
