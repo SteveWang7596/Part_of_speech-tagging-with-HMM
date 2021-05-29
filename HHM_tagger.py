@@ -8,10 +8,15 @@ import csv
 
 q_dist_filename = "data/processed/q_dist.csv"
 e_dist_filename = "data/processed/e_dist.csv"
+test_filename = "data/raw/GOV-ZA.5000TestSet.af.pos.full.csv"
 
 POS_tags = []
 q = {}
 e = {}
+
+###########################################################
+# PRE-PROCESSING                                          #
+###########################################################
 
 input_tag_name = open(q_dist_filename)
 input_tag_reader = csv.reader(input_tag_name, delimiter=',')
@@ -43,6 +48,26 @@ for line in input_e_reader:
         e[line[0]] = {}
     e[line[0]][line[1]] = line[2]
 
+input_test_file = open(test_filename)
+input_test_reader = csv.reader(input_test_file, delimiter=",")
+next(input_test_reader)
+
+test_sentences = []
+
+sentence_words = []
+sentence_tags = []
+
+for line in input_test_reader:
+    word = line[0]
+    tag = line[1]
+    if word == "" and tag == "":
+        test_sentences.append([sentence_words, sentence_tags])
+        sentence_words = []
+        sentence_tags = []
+        continue
+    sentence_words.append(word)
+    sentence_tags.append(tag)
+
 #############################################
 # word_1, {POS_1:[x,y], POS_2:[x,y], ...}   #
 # word_2, {POS_1:[x,y], POS_2:[x,y], ...}   #
@@ -51,18 +76,17 @@ for line in input_e_reader:
 #############################################
 # Where x is the pi value and y is the back pointer
 
-lattice = []
 
-
-def populate_lattice():
+def populate_lattice(lattice):
     # For each row in the lattice
-    for i in range(lattice):
+    for i in range(len(lattice)):
         word = lattice[i][0]
+        print(word)
         # For each word and each POS tag
         for pos_tag in lattice[i][1]:
             if i == 0:
                 # If it is the first word then pi is the probability of the tag on condition of the word
-                lattice[i][1][pos_tag][0] = e[word][pos_tag]
+                lattice[i][1][pos_tag][0] = float(e[word][pos_tag])
             else:
                 pi = None
                 back_pointer = None
@@ -70,18 +94,18 @@ def populate_lattice():
                 for prev_values in lattice[i - 1][1]:
                     # Let temp value be pi of previous values * probability of current tag given previous tag *
                     # probablity of tag given word
-                    temp = lattice[i - 1][1][prev_values][0] * q[prev_values][pos_tag] * e[word][pos_tag]
+                    temp = float(lattice[i - 1][1][prev_values][0]) * float(q[prev_values][pos_tag]) * float(e[word][pos_tag])
                     if pi == None or temp > pi:
                         pi = temp
                         back_pointer = prev_values
                 lattice[i][1][pos_tag][0] = pi
-                lattice[i][1][pos_tag][1] = prev_values
+                lattice[i][1][pos_tag][1] = back_pointer
 
 
-def get_pos_tag():
+def get_pos_tag(lattice):
     tags = []
     tag = None
-    for i in range(len(lattice), -1, -1):
+    for i in range(len(lattice)-1, -1, -1):
         if tag == None:
             max = None
             guess = None
@@ -98,12 +122,14 @@ def get_pos_tag():
     return tags
 
 
-def __init__(self, words):
-    self.lattice = []
+for test_sentence in test_sentences:
+    lattice = []
     row = {}
     for POS_tag in POS_tags:
         row[POS_tag] = [0, None]
-    for word in words:
-        self.lattice.append([word, copy.deepcopy(row)])
-    populate_lattice()
-    get_pos_tag()
+    for word in test_sentence[0]:
+        lattice.append([word, copy.deepcopy(row)])
+    populate_lattice(lattice)
+    print(lattice)
+    tags = get_pos_tag(lattice)
+    print(tags)
