@@ -71,41 +71,29 @@ def get_counts(dataset):
 input_file = open(train_filename)
 input_reader = csv.reader(input_file, delimiter=',')
 
-line_count = 0
-
 corpus = []
-corpus_words = {}
-corpus_tags = {"START": 0, "STOP": 0}
 
 sentence_words = []
 sentence_tags = []
+
+line_count = 0
 
 for row in input_reader:
   word = row[0]
   tag = row[1]
   if word == "" and tag == "":
     corpus.append([sentence_words, sentence_tags])
-    corpus_tags["START"] += 1
-    corpus_tags["STOP"] += 1
     sentence_words = []
     sentence_tags = []
     continue
   if line_count > 0:
     sentence_words.append(word)
-    if word in corpus_words:
-      corpus_words[word] += 1
-    else:
-      corpus_words[word] = 1
     sentence_tags.append(tag)
-    if tag in corpus_tags:
-      corpus_tags[tag] += 1
-    else:
-      corpus_tags[tag] = 1
   line_count += 1
 
+# get train_set and dev_set
 cutoff = round(len(corpus) * train_set_size)
 
-# get train_set and dev_set
 train_set = corpus[:cutoff]
 dev_set = corpus[cutoff:]
 
@@ -121,12 +109,9 @@ for outer_set in train_set_counts[1].items():
   tag_0 = outer_set[0]
   for inner_set in outer_set[1].items():
     tag_1 = inner_set[0]
-    # count(tag_0, tag_1)
-    bigram_tag_count = inner_set[1]
-    # count(tag_0)
-    unigram_tag_count = train_set_counts[0][tag_0]
-    # P(tag_1 | tag_0)
-    p = bigram_tag_count / unigram_tag_count
+    bigram_tag_count = inner_set[1] # c(tag_0, tag_1)
+    unigram_tag_count = train_set_counts[0][tag_0] # c(tag_0)
+    p = bigram_tag_count / unigram_tag_count # P(tag_1 | tag_0)
     output_writer.writerow([tag_0, tag_1, p])
 
 # calculate and output emission distribution
@@ -139,10 +124,7 @@ for outer_set in train_set_counts[2].items():
   word = outer_set[0]
   for inner_set in outer_set[1].items():
     tag = inner_set[0]
-    # count(word, tag)
-    word_tag_pair_count = inner_set[1]
-    # count(tag)
-    unigram_tag_count = train_set_counts[0][tag]
-    # P(word | tag)
-    p = word_tag_pair_count / unigram_tag_count
+    word_tag_pair_count = inner_set[1] # c(word, tag)
+    unigram_tag_count = train_set_counts[0][tag] # c(tag)
+    p = word_tag_pair_count / unigram_tag_count # P(word | tag)
     output_writer.writerow([word, tag, p])
