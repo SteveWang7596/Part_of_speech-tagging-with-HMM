@@ -81,7 +81,6 @@ def populate_lattice(lattice):
     # For each row in the lattice
     for i in range(len(lattice)):
         word = lattice[i][0]
-        print(word)
         # For each word and each POS tag
         for pos_tag in lattice[i][1]:
             if i == 0:
@@ -94,6 +93,7 @@ def populate_lattice(lattice):
                 for prev_values in lattice[i - 1][1]:
                     # Let temp value be pi of previous values * probability of current tag given previous tag *
                     # probablity of tag given word
+                    print(word)
                     temp = float(lattice[i - 1][1][prev_values][0]) * float(q[prev_values][pos_tag]) * float(e[word][pos_tag])
                     if pi == None or temp > pi:
                         pi = temp
@@ -121,6 +121,7 @@ def get_pos_tag(lattice):
     tags.reverse()
     return tags
 
+accuracies = []
 
 for test_sentence in test_sentences:
     lattice = []
@@ -130,6 +131,11 @@ for test_sentence in test_sentences:
     for word in test_sentence[0]:
         lattice.append([word, copy.deepcopy(row)])
     populate_lattice(lattice)
-    print(lattice)
     tags = get_pos_tag(lattice)
-    print(tags)
+    correct_tags = 0
+    for i in range(len(test_sentence[0])):
+        if test_sentence[1][i] == tags[i]:
+            correct_tags += 1
+    accuracy = correct_tags / len(test_sentence[0])
+    accuracies.append(accuracy)
+
