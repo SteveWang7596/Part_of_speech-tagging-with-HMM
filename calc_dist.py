@@ -119,9 +119,8 @@ for outer_set in train_set_counts["bigram_tag_counts"].items():
   tag_0 = outer_set[0]
   for inner_set in outer_set[1].items():
     tag_1 = inner_set[0]
-    tagset_size = train_set_counts["tagset_size"] # T
     bigram_tag_count = inner_set[1] + 1 # c(tag_0, tag_1) + 1 (Laplace smoothing)
-    unigram_tag_count = train_set_counts["unigram_tag_counts"][tag_0] + tagset_size # c(tag_0) + T (Laplace smoothing)
+    unigram_tag_count = train_set_counts["unigram_tag_counts"][tag_0] + train_set_counts["tagset_size"] # c(tag_0) + T (Laplace smoothing)
     p = bigram_tag_count / unigram_tag_count # P(tag_1 | tag_0) (Laplace smoothing)
     output_writer.writerow([tag_0, tag_1, p])
 
@@ -135,7 +134,7 @@ for outer_set in train_set_counts["word_tag_pair_counts"].items():
   word = outer_set[0]
   for inner_set in outer_set[1].items():
     tag = inner_set[0]
-    word_tag_pair_count = inner_set[1] # c(word, tag)
-    unigram_tag_count = train_set_counts["unigram_tag_counts"][tag] # c(tag)
-    p = word_tag_pair_count / unigram_tag_count # P(word | tag)
+    word_tag_pair_count = inner_set[1] + 1 # c(word, tag) + 1 (Laplace smoothing)
+    unigram_tag_count = train_set_counts["unigram_tag_counts"][tag] + train_set_counts["tagset_size"] # c(tag) + T (Laplace smoothing)
+    p = word_tag_pair_count / unigram_tag_count # P(word | tag) (Laplace smoothing)
     output_writer.writerow([word, tag, p])
