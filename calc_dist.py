@@ -4,18 +4,16 @@
 
 # Script to calculate the transition (q) and emission (e) distributions
 
+import dataset
 import csv
 
-train_filename = "data/raw/GOV-ZA.50000TrainingSet.af.pos.full.csv"
-test_filename = "data/raw/GOV-ZA.5000TestSet.af.pos.full.csv"
 q_dist_filename = "data/processed/q_dist.csv"
 e_dist_filename = "data/processed/e_dist.csv"
-train_set_size = 1.0
 
 def get_words(dataset):
   words = []
   for sentence in dataset:
-    sentence_words = sentence[0]
+    sentence_words = sentence["words"]
     for word in sentence_words:
       if word not in words:
         words.append(word)
@@ -24,7 +22,7 @@ def get_words(dataset):
 def get_tags(dataset):
   tags = ["START", "STOP"]
   for sentence in dataset:
-    sentence_tags = sentence[1]
+    sentence_tags = sentence["tags"]
     for tag in sentence_tags:
       if tag not in tags:
         tags.append(tag)
@@ -55,8 +53,8 @@ def get_counts(dataset):
   tagset_size = len(tags)
   # count occurrences in dataset
   for sentence in dataset:
-    sentence_words = sentence[0]
-    sentence_tags = sentence[1]
+    sentence_words = sentence["words"]
+    sentence_tags = sentence["tags"]
     tag_0 = "START"
     for i in range(len(sentence_tags) + 1):
       if i < len(sentence_tags):
@@ -77,36 +75,9 @@ def get_counts(dataset):
     "tagset_size": tagset_size
   }
 
-# get corpus
-input_file = open(train_filename)
-input_reader = csv.reader(input_file, delimiter=',')
-
-corpus = []
-
-sentence_words = []
-sentence_tags = []
-
-line_count = 0
-
-for row in input_reader:
-  word = row[0]
-  tag = row[1]
-  if word == "" and tag == "":
-    corpus.append([sentence_words, sentence_tags])
-    sentence_words = []
-    sentence_tags = []
-    continue
-  if line_count > 0:
-    sentence_words.append(word)
-    sentence_tags.append(tag)
-  line_count += 1
-
-# get train_set and dev_set
-cutoff = round(len(corpus) * train_set_size)
-
-train_set = corpus[:cutoff]
-dev_set = corpus[cutoff:]
-
+# get training set
+corpus = dataset.load("train")
+train_set = dataset.subset(corpus, 0.0, 1.0)
 train_set_counts = get_counts(train_set)
 
 # calculate and output transition distribution
