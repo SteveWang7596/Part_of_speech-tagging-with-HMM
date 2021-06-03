@@ -49,6 +49,10 @@ def get_counts(dataset):
     word_tag_pair_counts[word] = {}
     for tag in tags:
       word_tag_pair_counts[word][tag] = 0
+  # calculate size of vocabulary (number of unique words)
+  vocabulary_size = len(words)
+  # calculate size of tagset (number of unique POS tags)
+  tagset_size = len(tags)
   # count occurrences in dataset
   for sentence in dataset:
     sentence_words = sentence[0]
@@ -65,7 +69,13 @@ def get_counts(dataset):
       unigram_tag_counts[tag_1] += 1
       bigram_tag_counts[tag_0][tag_1] += 1
       tag_0 = tag_1
-  return (unigram_tag_counts, bigram_tag_counts, word_tag_pair_counts)
+  return {
+    "unigram_tag_counts": unigram_tag_counts, 
+    "bigram_tag_counts": bigram_tag_counts, 
+    "word_tag_pair_counts": word_tag_pair_counts, 
+    "vocabulary_size": vocabulary_size, 
+    "tagset_size": tagset_size
+  }
 
 # get corpus
 input_file = open(train_filename)
@@ -105,13 +115,14 @@ output_writer = csv.writer(output_file, delimiter=',', quotechar='"', quoting=cs
 
 output_writer.writerow(["tag_0", "tag_1", "p"])
 
-for outer_set in train_set_counts[1].items():
+for outer_set in train_set_counts["bigram_tag_counts"].items():
   tag_0 = outer_set[0]
   for inner_set in outer_set[1].items():
     tag_1 = inner_set[0]
-    bigram_tag_count = inner_set[1] # c(tag_0, tag_1)
-    unigram_tag_count = train_set_counts[0][tag_0] # c(tag_0)
-    p = bigram_tag_count / unigram_tag_count # P(tag_1 | tag_0)
+    tagset_size = train_set_counts["tagset_size"] # T
+    bigram_tag_count = inner_set[1] + 1 # c(tag_0, tag_1) + 1 (Laplace smoothing)
+    unigram_tag_count = train_set_counts["unigram_tag_counts"][tag_0] + tagset_size # c(tag_0) + T (Laplace smoothing)
+    p = bigram_tag_count / unigram_tag_count # P(tag_1 | tag_0) (Laplace smoothing)
     output_writer.writerow([tag_0, tag_1, p])
 
 # calculate and output emission distribution
@@ -120,11 +131,11 @@ output_writer = csv.writer(output_file, delimiter=',', quotechar='"', quoting=cs
 
 output_writer.writerow(["word", "tag", "p"])
 
-for outer_set in train_set_counts[2].items():
+for outer_set in train_set_counts["word_tag_pair_counts"].items():
   word = outer_set[0]
   for inner_set in outer_set[1].items():
     tag = inner_set[0]
     word_tag_pair_count = inner_set[1] # c(word, tag)
-    unigram_tag_count = train_set_counts[0][tag] # c(tag)
+    unigram_tag_count = train_set_counts["unigram_tag_counts"][tag] # c(tag)
     p = word_tag_pair_count / unigram_tag_count # P(word | tag)
     output_writer.writerow([word, tag, p])
