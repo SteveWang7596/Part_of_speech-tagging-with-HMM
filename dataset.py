@@ -12,12 +12,11 @@ train_filename = "data/raw/GOV-ZA.50000TrainingSet.af.pos.full.csv"
 test_filename = "data/raw/GOV-ZA.5000TestSet.af.pos.full.csv"
 
 def load(name = "train"):
-
+  """Return the requested dataset as a list of word-tag paired sentences."""
   if name == "train":
     selected_filename = train_filename
   else:
     selected_filename = test_filename
-
   with open(selected_filename) as input_file:
     input_reader = csv.reader(input_file, delimiter=',')
     dataset = []
@@ -38,8 +37,8 @@ def load(name = "train"):
       line_count += 1
     return dataset
 
-
 def subset(dataset, start_proportion = 0.0, end_proportion = 1.0):
+  """Return a proportionate subset of the provided dataset."""
   start_idx = math.floor(len(dataset) * start_proportion)
   end_idx = math.floor(len(dataset) * end_proportion)
   return dataset[start_idx:end_idx]
