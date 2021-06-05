@@ -71,7 +71,6 @@ def get_pos_tag(lattice):
 
 accuracies = []
 
-
 for test_sentence_set in test_set:
     test_sentence_words = test_sentence_set.get('words')
     test_sentence_tags = test_sentence_set.get('tags')
@@ -84,10 +83,11 @@ for test_sentence_set in test_set:
     populate_lattice(lattice)
     tags = get_pos_tag(lattice)
     correct_tags = 0
-    for i in range(len(test_sentence[0])):
-        if test_sentence[1][i] == tags[i]:
+    for i in range(len(test_sentence_words)):
+        if test_sentence_tags[i] == tags[i]:
             correct_tags += 1
-    accuracy = correct_tags / len(test_sentence[0])
+    accuracy = correct_tags / len(test_sentence_words)
     accuracies.append(accuracy)
 
 total_accuracy = sum(accuracies)/len(accuracies)
+print(total_accuracy)
