@@ -4,7 +4,6 @@
 
 # Script to tag a given sentence
 import copy
-import csv
 import dataset
 import statistics
 
@@ -34,7 +33,7 @@ def populate_lattice(lattice):
         for pos_tag in lattice[i][1]:
             if i == 0:
                 # If it is the first word then pi is the probability of the tag on condition of the word
-                lattice[i][1][pos_tag][0] = float(e_dist[word][pos_tag])
+                lattice[i][1][pos_tag][0] = float(q_dist["START"][pos_tag]) * float(e_dist[word][pos_tag])
             else:
                 pi = None
                 back_pointer = None
