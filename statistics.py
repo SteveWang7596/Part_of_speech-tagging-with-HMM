@@ -33,7 +33,9 @@ def get_tags(dataset):
 def get_counts(dataset):
   """Return unigram and bigram tag counts, and word-tag pair counts in the provided dataset."""
   words = get_words(dataset)
+  words.append("UNKNOWN_WORD")
   tags = get_tags(dataset)
+  tags.append("UNKNOWN")
   # initialise unigram_tag_counts to 0
   unigram_tag_counts = {}
   for tag in tags:
@@ -66,15 +68,45 @@ def get_counts(dataset):
       unigram_tag_counts[tag_1] += 1
       bigram_tag_counts[tag_0][tag_1] += 1
       tag_0 = tag_1
+  unigram_tag_counts["UNKNOWN"] = 0
+  for tag in tags:
+    bigram_tag_counts["UNKNOWN"][tag] = 0
+    bigram_tag_counts[tag]["UNKNOWN"] = 0
   return {
-    "unigram_tag_counts": unigram_tag_counts, 
-    "bigram_tag_counts": bigram_tag_counts, 
+    "unigram_tag_counts": unigram_tag_counts,
+    "bigram_tag_counts": bigram_tag_counts,
     "word_tag_pair_counts": word_tag_pair_counts
   }
+
+def get_trigram_counts(dataset):
+  """Return trigram tag counts, and word-tag pair counts in the provided dataset."""
+  #initialise trigram_tag_count to 0
+  tags = get_tags(dataset)
+  trigram_tags_counts = {}
+  for tri_tag_0 in tags:
+    trigram_tags_counts[tri_tag_0] = {}
+    for tri_tag_1 in tags:
+      trigram_tags_counts[tri_tag_0][tri_tag_1] = {}
+      for tri_tag_2 in tags:
+        trigram_tags_counts[tri_tag_0][tri_tag_1][tri_tag_2] = 0
+  for sentence in dataset:
+    sentence_tags = sentence["tags"]
+    sentence_words = sentence["words"]
+    tag_0 = "START"
+    for i in range(len(sentence_tags)):
+      tag_1 = sentence_tags[i]
+      if i < (len(sentence_tags)-1):
+        tag_2 = sentence_tags[i+1]
+      else:
+        tag_2 = "STOP"
+      trigram_tags_counts[tag_0][tag_1][tag_2] += 1
+      tag_0 = tag_1
+  return trigram_tags_counts
 
 def get_transition_distribution(dataset, smoothing = "none"):
   """Return the transition (q) distribution for the provided dataset."""
   tags = get_tags(dataset)
+  tags.append("UNKNOWN")
   counts = get_counts(dataset)
   q_dist = {}
   for tag_0 in tags:
@@ -94,7 +126,9 @@ def get_transition_distribution(dataset, smoothing = "none"):
 def get_emission_distribution(dataset, smoothing = "none"):
   """Return the emission (e) distribution for the provided dataset."""
   words = get_words(dataset)
+  words.append("UNKNOWN_WORD")
   tags = get_tags(dataset)
+  tags.append("UNKNOWN")
   counts = get_counts(dataset)
   e_dist = {}
   for word in words:
@@ -110,6 +144,24 @@ def get_emission_distribution(dataset, smoothing = "none"):
         p = word_tag_pair_count / unigram_tag_count
       e_dist[word][tag] = p
   return e_dist
+
+def get_trigram_distribution(dataset):
+  """"Return the transition (q) distibiton for the provided dataset."""
+  tags = get_tags(dataset)
+  counts = get_counts(dataset)
+  tri_counts = get_trigram_counts(dataset)
+  tri_q_dist = {}
+  for tag_0 in tags:
+    tri_q_dist[tag_0] = {}
+    for tag_1 in tags:
+      tri_q_dist[tag_0][tag_1] = {}
+      bigram_tag_count = counts["bigram_tag_counts"][tag_0][tag_1]
+      for tag_2 in tags:
+        trigram_count = tri_counts[tag_0][tag_1][tag_2]
+        p = (trigram_count + 1) / (bigram_tag_count + len(tags)) # Probability of tag_2 give tag_0,tag_1
+        tri_q_dist[tag_0][tag_1][tag_2] = p
+  return tri_q_dist
+
 
 def main():
   """Calculate and output transition and emission distributions for the selected dataset."""
