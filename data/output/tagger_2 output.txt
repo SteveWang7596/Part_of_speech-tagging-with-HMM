@@ -1,0 +1,1318 @@
+C:\Users\steveW\Documents\University of Cape Town\NLP\Assignment1\Part_of_speech tagging with HMM\Part_of_speech-tagging-with-HMM>python3 tagger_2.py
+['Laai', 'die', 'elektroniese', 'aansoekvorm', 'af', 'of', 'kry', 'dit', 'by', 'jou', 'naaste', 'SAID-kantoor', '.']
+['VTHOG', 'LB', 'ASA', 'NSE', 'UPW', 'KN', 'VTHOG', 'PDOENP', 'SVS', 'PTEB', 'AOA', 'NSE', 'ZE']
+['VTHOG', 'LB', 'ASA', 'NSE', 'UPW', 'KN', 'VTHOG', 'PDOENP', 'SVS', 'PTEB', 'AOA', 'UPO', 'ZE']
+0.9230769230769231
+['Die', 'aansoekvorm', 'moet', 'deur', 'die', 'aansoeker', 'self', 'ingevul', 'word', 'en', 'nie', 'deur', "'n", 'derde', 'party', 'nie', ',', 'anders', 'sal', 'die', 'aansoek', 'nie', 'oorweeg', 'word', 'nie', '.']
+['LB', 'NSE', 'VTUOM', 'SVS', 'LB', 'NSE', 'PDOEW', 'VVHOG', 'VTUOP', 'KN', 'BS', 'SVS', 'LO', 'TRAB', 'NSE', 'UPO', 'ZM', 'KO', 'VUOT', 'LB', 'NSE', 'BS', 'VTHOG', 'VTUOP', 'UPO', 'ZE']
+['LB', 'NSE', 'VTUOM', 'SVS', 'LB', 'NSE', 'PDOEW', 'VVHOG', 'VTUOP', 'KN', 'BS', 'SVS', 'LO', 'TRAB', 'NSE', 'UPO', 'ZM', 'ASP', 'VTUOM', 'LB', 'NSE', 'BS', 'VTUOM', 'VTUOP', 'UPO', 'ZE']
+0.8846153846153846
+['Raadpleeg', 'die', 'aansoekgids', 'om', 'jou', 'deur', 'die', 'lisensiÃ«ringsproses', 'te', 'help', '.']
+['VTHOG', 'LB', 'NSE', 'SVS', 'PTEDP', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'ZE']
+['VTHOG', 'LB', 'NSE', 'SVS', 'PTEB', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.9090909090909091
+['Doen', 'die', 'volgende', 'in', 'die', 'afdeling', 'Client', 'Types', ':']
+['VTHOG', 'LB', 'NA', 'SVS', 'LB', 'NSE', 'RV', 'RV', 'ZM']
+['VTHOG', 'LB', 'NA', 'SVS', 'LB', 'NSE', 'NEE', 'NEE', 'ZM']
+0.7777777777777778
+['merk', 'die', 'blokkie', 'Manufacturer', 'for', 'AGOA', 'onder', 'registration', '.']
+['VTHOG', 'LB', 'NSED', 'RV', 'RV', 'RK', 'SVS', 'RV', 'ZE']
+['VTHOG', 'LB', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'ZE']
+0.6666666666666666
+['Verstrek', 'die', 'volgende', 'in', 'die', 'afdeling', 'Manufacturer', 'for', 'AGOA', 'Particulars', ':']
+['VTHOG', 'LB', 'NA', 'SVS', 'LB', 'NSE', 'RV', 'RV', 'RK', 'RV', 'ZM']
+['VTHOG', 'LB', 'NA', 'SVS', 'LB', 'RV', 'RV', 'RV', 'RV', 'RV', 'ZM']
+0.8181818181818182
+['jou', 'onderneming', 'se', 'handelsnaam']
+['PTEB', 'NSE', 'UPS', 'NSE']
+['PTEB', 'NSE', 'UPS', 'NSE']
+1.0
+['die', 'plek', 'waar', 'die', 'onderneming', 'fisies', 'geleÃ«', 'is', '(', 'bv', '.']
+['LB', 'NSE', 'PB', 'LB', 'NSE', 'BS', 'ASP', 'VTHOK', 'ZPL', 'BS', 'ZE']
+['LB', 'NSE', 'PB', 'LB', 'NSE', 'BS', 'ASP', 'VTHOK', 'ZPL', 'NSE', 'ZE']
+0.9090909090909091
+['Plot', '10', ')']
+['NSE', 'RS', 'ZPR']
+['NSE', 'RS', 'ZPR']
+1.0
+['die', 'straatnaam', 'en', '-nommer', 'van', 'die', 'onderneming']
+['LB', 'NSE', 'KN', 'RWD', 'SVS', 'LB', 'NSE']
+['LB', 'NSE', 'KN', 'NA', 'SVS', 'LB', 'NSE']
+0.8571428571428571
+['die', 'voorstad', 'waarin', 'die', 'onderneming', 'geleÃ«', 'is']
+['LB', 'NSE', 'PB', 'LB', 'NSE', 'ASP', 'VTHOK']
+['LB', 'NSE', 'PB', 'LB', 'NSE', 'ASP', 'VTHOK']
+1.0
+['die', 'stad', 'of', 'dorp', 'waar', 'die', 'onderneming', 'geleÃ«', 'is']
+['LB', 'NSE', 'KN', 'NSE', 'PB', 'LB', 'NSE', 'ASP', 'VTHOK']
+['LB', 'NSE', 'KN', 'NM', 'PB', 'LB', 'NSE', 'ASP', 'VTHOK']
+0.8888888888888888
+['die', 'poskode', 'van', 'die', 'voorstad', 'waarin', 'die', 'onderneming', 'geleÃ«', 'is', '.']
+['LB', 'NSE', 'SVS', 'LB', 'NSE', 'PB', 'LB', 'NSE', 'ASP', 'VTHOK', 'ZE']
+['LB', 'NSE', 'SVS', 'LB', 'NSE', 'PB', 'LB', 'NSE', 'ASP', 'VTHOK', 'ZE']
+1.0
+['Die', 'afdeling', 'Authority', 'to', 'Apply', 'moet', 'deur', 'die', 'alleeneienaar', ',', 'direkteur', ',', 'vennote', ',', 'lid', ',', 'trustee', ',', 'of', 'persoon', 'wat', 'die', 'besigheid', 'bestuur', 'ingevul', 'word', 'wanneer', 'daar', 'aansoek', 'gedoen', 'word', 'om', 'as', "'n", 'doeane-en-aksyns', 'spesiale', 'vervaardiger', 'vir', 'AGOA', 'geregistreer', 'te', 'word', '.']
+['LB', 'NSE', 'RV', 'RV', 'RV', 'VTUOM', 'SVS', 'LB', 'NSE', 'ZM', 'NSE', 'ZM', 'NSM', 'ZM', 'NSE', 'ZM', 'NSE', 'ZM', 'KN', 'NSE', 'PB', 'LB', 'NSE', 'VTHOG', 'VVHOG', 'VTUOP', 'PB', 'UXD', 'NSE', 'VVHOG', 'VTUOP', 'SVS', 'KO', 'LO', 'ASA', 'ASA', 'NSE', 'SVS', 'RK', 'VVHOG', 'UPI', 'VTUOP', 'ZE']
+['LB', 'NSE', 'BS', 'ASA', 'NSE', 'VTUOM', 'SVS', 'LB', 'NSE', 'ZM', 'NEE', 'ZM', 'NSM', 'ZM', 'NEE', 'ZM', 'NEE', 'ZM', 'KN', 'NSE', 'PB', 'LB', 'NSE', 'ZPR', 'VVHOG', 'VTUOP', 'PB', 'UXD', 'NSE', 'VVHOG', 'VTUOP', 'SVS', 'KO', 'LO', 'ASA', 'ASA', 'NSE', 'SVS', 'RS', 'UPW', 'UPI', 'VTUOP', 'ZE']
+0.7906976744186046
+['Die', 'naam', 'van', 'die', 'aansoeker', 'of', 'die', 'geregistreerde', 'naam', 'van', 'die', 'entiteit', ',', 'en', 'niÃ©', 'die', 'handelsnaam', 'nie', ',', 'moet', 'in', 'hierdie', 'veld', 'ingevul', 'word', '.']
+['LB', 'NSE', 'SVS', 'LB', 'NSE', 'KN', 'LB', 'ASA', 'NSE', 'SVS', 'LB', 'NSE', 'ZM', 'KN', 'BS', 'LB', 'NSE', 'UPO', 'ZM', 'VTUOM', 'SVS', 'PA', 'NSE', 'VVHOG', 'VTUOP', 'ZE']
+['LB', 'NSE', 'SVS', 'LB', 'NSE', 'KN', 'LB', 'ASA', 'NSE', 'SVS', 'LB', 'NSE', 'ZM', 'KN', 'NSM', 'LB', 'NSE', 'UPO', 'ZM', 'VTUOM', 'SVS', 'PA', 'NSE', 'VVHOG', 'VTUOP', 'ZE']
+0.9615384615384616
+['waar', "'n", 'asterisk', '(', '*', ')', 'voorkom', ',', 'skrap', 'dit', 'wat', 'nie', 'van', 'toepassing', 'is', 'nie', '.']
+['PB', 'LO', 'NSE', 'ZPL', 'RS', 'ZPR', 'VTHSG', 'ZM', 'VTHOG', 'PDOENP', 'PB', 'BS', 'SVS', 'NSE', 'VTHOK', 'UPO', 'ZE']
+['PB', 'LO', 'NSE', 'ZPL', 'RL', 'ZPR', 'VTHSG', 'ZM', 'RWD', 'PDOENP', 'PB', 'BS', 'SVS', 'NSE', 'VTHOK', 'UPO', 'ZE']
+0.8823529411764706
+['In', 'die', 'afdeling', 'Declaration', 'moet', 'jy', 'die', 'onderstaande', 'inligting', 'verstrek', ':']
+['SVS', 'LB', 'NSE', 'RV', 'VTUOM', 'PTENP', 'LB', 'ASA', 'NM', 'VTHOG', 'ZM']
+['SVS', 'LB', 'NSE', 'BS', 'VTUOM', 'PTENP', 'LB', 'ASA', 'NM', 'VTHOG', 'ZM']
+0.9090909090909091
+['die', 'voorletters', 'en', 'van', 'van', 'die', 'persoon', 'wat', 'om', 'lisensiÃ«ring', 'aansoek', 'doen']
+['LB', 'NSM', 'KN', 'NSE', 'SVS', 'LB', 'NSE', 'PB', 'SVS', 'NA', 'NSE', 'VTHOG']
+['LB', 'NSE', 'KN', 'SVS', 'SVS', 'LB', 'NSE', 'PB', 'SVS', 'PA', 'NSE', 'VTHOG']
+0.75
+['die', 'aansoeker', 'se', 'status', ',', 'bv.', 'direkteur', ',', 'bestuurder', ',', 'eienaar']
+['LB', 'NSE', 'UPS', 'NA', 'ZM', 'RA', 'NSE', 'ZM', 'NSE', 'ZM', 'NSE']
+['LB', 'NSE', 'UPS', 'NA', 'ZM', 'NEE', 'NEE', 'ZM', 'NEE', 'ZM', 'RWD']
+0.6363636363636364
+['die', 'aansoeker', 'moet', 'die', 'aansoekvorm', 'onderteken']
+['LB', 'NSE', 'VTUOM', 'LB', 'NSE', 'VTHOG']
+['LB', 'NSE', 'VTUOM', 'LB', 'NSE', 'VTHOG']
+1.0
+['die', 'datum', 'waarop', 'die', 'aansoek', 'onderteken', 'is']
+['LB', 'NSE', 'PB', 'LB', 'NSE', 'VTHOG', 'VVUOP']
+['LB', 'NSE', 'PB', 'LB', 'NSE', 'VTHOG', 'VVUOP']
+1.0
+['die', 'plek', 'waar', 'die', 'aansoek', 'onderteken', 'is', '.']
+['LB', 'NSE', 'PB', 'LB', 'NSE', 'VTHOG', 'VVUOP', 'ZE']
+['LB', 'NSE', 'PB', 'LB', 'NSE', 'VTHOG', 'VVUOP', 'ZE']
+1.0
+['Vul', 'die', 'aansoekvorm', 'in', 'en', 'handig', 'dit', 'by', 'die', 'naaste', 'SAID-doeane-en-aksynskantoor', 'in', '.']
+['VTHOG', 'LB', 'NSE', 'UPW', 'KN', 'VTHOG', 'PDOENP', 'SVS', 'LB', 'AOA', 'NSE', 'UPW', 'ZE']
+['VTHOG', 'LB', 'NSE', 'SVS', 'KN', 'PDVENP', 'PDOENP', 'SVS', 'LB', 'AOA', 'NSE', 'UPW', 'ZE']
+0.8461538461538461
+['Heg', 'oorspronklike', 'of', 'gewaarmerkte', 'kopieÃ«', 'van', 'die', 'volgende', 'dokumente', 'by', 'die', 'aansoekvorm', 'aan', ':']
+['VTHOG', 'ASA', 'KN', 'ASA', 'NSM', 'SVS', 'LB', 'ASA', 'NSM', 'SVS', 'LB', 'NSE', 'UPW', 'ZM']
+['LO', 'ASA', 'KN', 'ASA', 'NSM', 'SVS', 'LB', 'ASA', 'NSM', 'SVS', 'LB', 'NSE', 'SVS', 'ZM']
+0.8571428571428571
+['die', 'onderneming', 'se', 'registrasiesertifikaat', ',', 'soos', 'uitgereik', 'deur', 'die', 'registrateur', 'van', 'maatskappye', 'of', ',', 'in', 'die', 'geval', 'van', "'n", 'trust', ',', 'deur', 'die', 'meester', 'van', 'die', 'hooggeregshof']
+['LB', 'NSE', 'UPS', 'NSE', 'ZM', 'UPV', 'VVHOG', 'SVS', 'LB', 'NSE', 'SVS', 'NSM', 'KN', 'ZM', 'SVS', 'LB', 'NSE', 'SVS', 'LO', 'NSE', 'ZM', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NSE']
+['LB', 'NSE', 'UPS', 'NSE', 'ZM', 'UPV', 'VVHOG', 'SVS', 'LB', 'NSE', 'SVS', 'NSM', 'KN', 'ZM', 'SVS', 'LB', 'NSE', 'SVS', 'LO', 'NSE', 'ZM', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NSE']
+1.0
+['besluit', ',', 'toestemming', ',', 'of', 'enige', 'ander', 'toepaslike', 'magtiging']
+['NSE', 'ZM', 'NA', 'ZM', 'KN', 'PO', 'ASA', 'ASA', 'NA']
+['TRBB', 'ZM', 'NA', 'ZM', 'KN', 'PO', 'ASA', 'RV', 'RV']
+0.6666666666666666
+["'n", 'Permit', 'van', 'die', 'Departement', 'van', 'Handel', 'en', 'Nywerheid', '-', 'indien', 'van', 'toepassing']
+['LO', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'NA', 'KN', 'NSE', 'ZM', 'KO', 'SVS', 'NSE']
+['LO', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'NA', 'KN', 'NSE', 'ZM', 'KO', 'SVS', 'PEMW']
+0.9230769230769231
+['formules', '-', 'indien', 'daar', 'ingevolge', 'kortingsitem', '607.04.10(02)', ',', '607.04.10(03)', ',', '607.04.10(09)', 'en', '607.04.10(12)', 'aansoek', 'gedoen', 'word']
+['NSM', 'ZM', 'KO', 'UXD', 'SVS', 'NSE', 'RS', 'ZM', 'RS', 'ZM', 'RS', 'KN', 'RS', 'NSE', 'VVHOG', 'VTUOP']
+['TRBB', 'ZM', 'KO', 'UXD', 'SVS', 'RS', 'RS', 'ZM', 'NEE', 'ZM', 'RWD', 'KN', 'ASA', 'NSE', 'VVHOG', 'VTUOP']
+0.6875
+['identiteitsdokumente', '-', 'in', 'die', 'geval', 'van', "'n", 'Suid-Afrikaanse', 'burger']
+['NSM', 'ZM', 'SVS', 'LB', 'NSE', 'SVS', 'LO', 'ASA', 'NSE']
+['TRBB', 'ZM', 'SVS', 'LB', 'NSE', 'SVS', 'LO', 'ASA', 'NSE']
+0.8888888888888888
+['Paspoortdokumente', '-', 'in', 'die', 'geval', 'van', ':']
+['NSM', 'ZM', 'SVS', 'LB', 'NSE', 'SVS', 'ZM']
+['NSM', 'ZM', 'SVS', 'LB', 'NSE', 'SVS', 'ZM']
+1.0
+["'n", 'nie-inwonende', 'individu', '(', "'n", 'nie-ingesetene', ')']
+['LO', 'ASA', 'NSE', 'ZPL', 'LO', 'NSE', 'ZPR']
+['LO', 'ASA', 'NSE', 'ZPL', 'LO', 'NSE', 'ZPR']
+1.0
+["'n", 'beslote', 'korporasie', 'en', 'trust', ':', 'alle', 'lede', ',', 'vennote', 'of', 'trustees']
+['LO', 'ASA', 'NSE', 'KN', 'NSE', 'ZM', 'THAO', 'NSM', 'ZM', 'NSM', 'KN', 'NSM']
+['LO', 'ASA', 'NSE', 'KN', 'NEE', 'ZM', 'THAO', 'NSM', 'ZM', 'NSM', 'KN', 'PDVENP']
+0.8333333333333334
+["'n", 'maatskappy', ':', 'alle', 'direkteure', ',', 'insluitende', 'die', 'besturende', 'direkteur', 'en', 'die', 'finansiÃ«le', 'direkteur', '.']
+['LO', 'NSE', 'ZM', 'THAO', 'NSM', 'ZM', 'SVS', 'LB', 'ASA', 'NSE', 'KN', 'LB', 'ASA', 'NSE', 'ZE']
+['LO', 'NSE', 'ZM', 'THAO', 'NSM', 'ZM', 'SVS', 'LB', 'ASA', 'NSE', 'KN', 'LB', 'ASA', 'NSE', 'ZE']
+1.0
+['Crime', 'Stop', 'is', "'n", 'reeks', 'oproepsentrums', 'wat', 'by', 'die', 'publiek', 'inligting', 'oor', 'misdadigers', 'en', 'hulle', 'bedrywighede', 'insamel', '.']
+['NEE', 'NEE', 'VTHOK', 'LO', 'NSE', 'NSM', 'PB', 'SVS', 'LB', 'NM', 'NM', 'SVS', 'NSM', 'KN', 'PDMP', 'NSM', 'VTHSG', 'ZE']
+['ASA', 'NSM', 'VTHOK', 'LO', 'ASA', 'NSM', 'PB', 'SVS', 'LB', 'ASA', 'NM', 'SVS', 'NSM', 'KN', 'PDMP', 'UPI', 'VTHOG', 'ZE']
+0.6666666666666666
+['Lede', 'van', 'die', 'publiek', 'word', 'gehelp', 'deur', 'oproepsentrumpersoneel', 'wat', 'goed', 'opgelei', 'is', 'in', 'ondersoekende', 'onderhoudvoering', '.']
+['NSM', 'SVS', 'LB', 'NM', 'VTUOP', 'VVHOG', 'SVS', 'NM', 'PB', 'BS', 'VVHOG', 'VVUOP', 'SVS', 'ASA', 'NA', 'ZE']
+['NSE', 'SVS', 'LB', 'NM', 'VTUOP', 'VVHOO', 'SVS', 'NSM', 'PB', 'BS', 'VVHOG', 'VVUOP', 'SVS', 'RS', 'RS', 'ZE']
+0.6875
+['Dit', 'stel', 'jou', 'in', 'staat', 'om', 'die', 'Suid-Afrikaanse', 'Polisiediens', '(', 'SAPD', ')', 'in', "'n", 'veilige', 'omgewing', ',', 'en', 'sonder', 'enige', 'bedreiging', ',', 'oor', 'kriminele', 'bedrywighede', 'in', 'te', 'lig', '.']
+['PDOENP', 'VTHOG', 'PTEDP', 'SVS', 'NSE', 'SVS', 'LB', 'ASA', 'NSE', 'ZPL', 'RL', 'ZPR', 'SVS', 'LO', 'ASA', 'NSE', 'ZM', 'KN', 'SVS', 'PO', 'NSE', 'ZM', 'SVS', 'ASA', 'NSM', 'UPW', 'UPI', 'VTHOG', 'ZE']
+['PDOENP', 'VTHOG', 'PTEB', 'SVS', 'NSE', 'SVS', 'LB', 'ASA', 'NSE', 'ZPL', 'RL', 'ZPR', 'SVS', 'LO', 'ASA', 'NSE', 'ZM', 'KN', 'SVS', 'PO', 'NSE', 'ZM', 'RV', 'RV', 'RV', 'UPW', 'UPI', 'VTHOG', 'ZE']
+0.8620689655172413
+['Jy', 'kan', 'vra', 'om', 'anoniem', 'te', 'bly', '(', 'dit', 'wil', 'sÃª', 'om', 'nie', 'te', 'sÃª', 'wie', 'jy', 'is', 'nie', '.', ')']
+['PTENP', 'VTUOM', 'VTHOG', 'SVS', 'ASP', 'UPI', 'VTHOK', 'ZPL', 'PDOENP', 'VTUOM', 'VTHOG', 'SVS', 'BS', 'UPI', 'VTHOG', 'PB', 'PTENP', 'VTHOK', 'UPO', 'ZE', 'ZPR']
+['PTENP', 'VTUOM', 'VTHOG', 'SVS', 'NA', 'UPI', 'VTUOA', 'ZPL', 'PDOENP', 'VTUOM', 'VTHOG', 'SVS', 'BS', 'UPI', 'VTHOG', 'PB', 'PTENP', 'VVUOP', 'UPO', 'ZE', 'ZPR']
+0.8571428571428571
+['Om', 'te', 'waarborg', 'dat', 'informante', 'se', 'identiteit', 'nie', 'bekend', 'sal', 'word', 'nie', ',', 'word', 'opsporingsmeganismes', 'en', 'inbeller-identifikasietegnologie', 'nie', 'by', 'Crime', 'Stop', 'toegelaat', 'nie', '.']
+['SVS', 'UPI', 'VTHOG', 'KO', 'NSM', 'UPS', 'NSE', 'BS', 'ASP', 'VTUOM', 'VTHOK', 'UPO', 'ZM', 'VTUOP', 'NSM', 'KN', 'NSE', 'BS', 'SVS', 'NEE', 'NEE', 'VVHOG', 'UPO', 'ZE']
+['SVS', 'UPI', 'VTHOG', 'KO', 'NSE', 'UPS', 'NSE', 'BS', 'ASP', 'VTUOM', 'VTUOP', 'UPO', 'ZM', 'VTUOP', 'NSM', 'KN', 'NSM', 'BS', 'SVS', 'ASA', 'NSE', 'VVHOK', 'UPO', 'ZE']
+0.75
+['Die', 'inligting', 'wat', 'jy', 'verstrek', ',', 'word', 'aan', 'speurders', 'oorgedra', '.']
+['LB', 'NM', 'PB', 'PTENP', 'VTHOG', 'ZM', 'VTUOP', 'SVS', 'NSM', 'VVHOG', 'ZE']
+['LB', 'NM', 'PB', 'PTENP', 'VTHOG', 'ZM', 'VTUOP', 'SVS', 'RS', 'ZPR', 'ZE']
+0.8181818181818182
+['Sekere', 'Crime', 'Stop-oproepsentrums', 'verbind', 'informante', 'ook', 'regstreeks', 'met', 'ondersoekbeamptes', 'deur', 'die', 'telefoonkonferensiestelsel', 'te', 'gebruik', '.']
+['ASA', 'NEE', 'NSM', 'VTHOG', 'NSM', 'BS', 'BS', 'SVS', 'NSM', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'ZE']
+['ASA', 'ASA', 'NSE', 'UPS', 'NSE', 'BS', 'BS', 'SVS', 'NA', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.6666666666666666
+['Dit', 'stel', 'die', 'ondersoekbeampte', 'in', 'staat', 'om', 'die', 'informant', 'regstreeks', 'te', 'ondervra', '.']
+['PDOENP', 'VTHOG', 'LB', 'NSE', 'SVS', 'NSE', 'SVS', 'LB', 'NSE', 'BS', 'UPI', 'VTHOG', 'ZE']
+['PDOENP', 'VTHOG', 'LB', 'NSE', 'SVS', 'NSE', 'SVS', 'LB', 'NSE', 'BS', 'UPI', 'VTHOG', 'ZE']
+1.0
+['Let', 'wel', ':', 'dit', 'word', 'slegs', 'gedoen', 'indien', 'jy', 'daartoe', 'instem', '.']
+['VTHOO', 'BS', 'ZM', 'PDOENP', 'VTUOP', 'BS', 'VVHOG', 'KO', 'PTENP', 'PB', 'VTHSO', 'ZE']
+['VTHOO', 'BS', 'ZM', 'PDOENP', 'VTUOP', 'BS', 'VVHOG', 'KO', 'PTENP', 'VTUOM', 'VTHOG', 'ZE']
+0.8333333333333334
+['Jy', 'kan', 'kriminele', 'bedrywighede', 'ook', 'elektronies', 'op', 'die', 'Suid-Afrikaanse', 'Polisiediens', '(', 'SAPD', ')', 'se', 'webwerf', 'aanmeld', '.']
+['PTENP', 'VTUOM', 'ASA', 'NSM', 'BS', 'BS', 'SVS', 'LB', 'ASA', 'NSE', 'ZPL', 'RL', 'ZPR', 'UPS', 'NSE', 'VTHSG', 'ZE']
+['PTENP', 'VTUOM', 'PTENP', 'VTUOM', 'BS', 'BS', 'SVS', 'LB', 'ASA', 'NSE', 'ZPL', 'RL', 'ZPR', 'UPS', 'NSE', 'VTHSG', 'ZE']
+0.8823529411764706
+['Jou', 'anonimiteit', 'word', 'ook', 'hier', 'gewaarborg', ',', 'behalwe', 'as', 'jy', 'aandui', 'dat', 'dit', 'nie', 'gedoen', 'hoef', 'te', 'word', 'nie', '.']
+['PTEB', 'NA', 'VTUOP', 'BS', 'BS', 'VVHOG', 'ZM', 'SVS', 'KO', 'PTENP', 'VTHSG', 'KO', 'PDOENP', 'BS', 'VVHOG', 'VTUOM', 'UPI', 'VTUOP', 'UPO', 'ZE']
+['PDOENP', 'VTHOG', 'VTUOP', 'BS', 'BS', 'ASP', 'ZM', 'ASP', 'KO', 'PTENP', 'VTHSG', 'KO', 'PDOENP', 'BS', 'VVHOG', 'VTUOM', 'UPI', 'VTUOP', 'UPO', 'ZE']
+0.8
+['Bel', 'die', 'Crime', 'Stop-nommer', ':', '08600', '10', '111', '.']
+['VTHOG', 'LB', 'NEE', 'NSE', 'ZM', 'RS', 'RS', 'RS', 'ZE']
+['VTHOG', 'LB', 'ASA', 'NSM', 'ZM', 'NEE', 'NEE', 'NEE', 'ZE']
+0.4444444444444444
+['Die', 'agent', 'by', 'die', 'oproepsentrum', 'sal', 'sekere', 'vrae', 'aan', 'jou', 'stel', '.']
+['LB', 'NSE', 'SVS', 'LB', 'NSE', 'VTUOM', 'ASA', 'NSM', 'SVS', 'PTEDP', 'VTHOG', 'ZE']
+['LB', 'NSE', 'SVS', 'LB', 'NSE', 'VTUOM', 'ASA', 'NSM', 'SVS', 'PTEDP', 'VTHOG', 'ZE']
+1.0
+['Indien', 'jou', 'inligting', 'bruikbaar', 'is', ',', 'sal', 'hy', 'of', 'sy', "'n", 'unieke', 'kodenommer', 'aan', 'jou', 'verstrek', '.']
+['KO', 'PTEB', 'NM', 'ASP', 'VTHOK', 'ZM', 'VTUOM', 'PDHENP', 'KN', 'PDVENP', 'LO', 'ASA', 'NSE', 'SVS', 'PTEDP', 'VTHOG', 'ZE']
+['KO', 'PTEB', 'NM', 'VVHOG', 'VVUOP', 'ZM', 'VTUOM', 'PDHENP', 'KN', 'PDVENP', 'LO', 'ASA', 'NSE', 'SVS', 'PTEDP', 'VTHOG', 'ZE']
+0.8823529411764706
+['Indien', 'die', 'inligting', 'wat', 'jy', 'verstrek', 'nie', 'bruikbaar', 'genoeg', 'is', 'nie', ',', 'sal', 'die', 'agent', 'aan', 'jou', 'verduidelik', 'waarom', 'dit', 'nog', 'nie', 'bruikbaar', 'genoeg', 'is', 'nie', 'en', 'jou', 'raad', 'gee', 'oor', 'hoe', 'om', 'bykomende', 'inligting', 'te', 'bekom', '.']
+['KO', 'LB', 'NM', 'PB', 'PTENP', 'VTHOG', 'BS', 'ASP', 'BS', 'VTHOK', 'UPO', 'ZM', 'VTUOM', 'LB', 'NSE', 'SVS', 'PTEDP', 'VTHOG', 'PB', 'PDOENP', 'BS', 'BS', 'ASP', 'BS', 'VTHOK', 'UPO', 'KN', 'PTEDP', 'NM', 'VTHOG', 'SVS', 'PB', 'SVS', 'ASA', 'NM', 'UPI', 'VTHOG', 'ZE']
+['KO', 'LB', 'NM', 'PB', 'PTENP', 'VTUOM', 'BS', 'BS', 'ASP', 'VTHOK', 'UPO', 'ZM', 'VTUOM', 'LB', 'NSE', 'SVS', 'PTEB', 'NSE', 'VTHOG', 'PDOENP', 'BS', 'BS', 'BS', 'ASP', 'VTHOK', 'UPO', 'KN', 'PTEB', 'NSE', 'VTHOG', 'SVS', 'PB', 'SVS', 'ASA', 'NM', 'UPI', 'VTHOG', 'ZE']
+0.7368421052631579
+['Bruikbare', 'inligting', 'word', 'gekoppel', 'aan', 'die', 'kodenommer', 'wat', 'aan', 'jou', 'verstrek', 'is', '.']
+['ASA', 'NM', 'VTUOP', 'VVHOG', 'SVS', 'LB', 'NSE', 'PB', 'SVS', 'PTEDP', 'VTHOG', 'VVUOP', 'ZE']
+['ASA', 'NM', 'VTUOP', 'VVHOG', 'SVS', 'LB', 'NSE', 'PB', 'SVS', 'PTEDP', 'VTHOG', 'VVUOP', 'ZE']
+1.0
+['Jy', 'sal', 'gevra', 'word', 'om', 'Crime', 'Stop', 'binne', "'n", 'gegewe', 'tyd', 'weer', 'by', '08600', '10', '111', 'te', 'bel', 'om', 'te', 'hoor', 'of', 'die', 'inligting', 'positief', 'was', 'en', 'of', 'jy', 'vir', "'n", 'beloning', 'kwalifiseer', '(', 'mits', 'jy', 'vooraf', 'om', "'n", 'beloning', 'aansoek', 'gedoen', 'het', ')', '.']
+['PTENP', 'VTUOM', 'VVHOG', 'VTUOP', 'SVS', 'NEE', 'NEE', 'SVS', 'LO', 'ASA', 'NSE', 'BS', 'SVS', 'RS', 'RS', 'RS', 'UPI', 'VTHOG', 'SVS', 'UPI', 'VTHOG', 'KN', 'LB', 'NM', 'ASP', 'VVHOK', 'KN', 'KO', 'PTENP', 'SVS', 'LO', 'NSE', 'VTHOO', 'ZPL', 'KO', 'PTENP', 'BS', 'SVS', 'LO', 'NSE', 'NSE', 'VVHOG', 'VUOT', 'ZPR', 'ZE']
+['PTENP', 'VTUOM', 'VVHOG', 'VTUOP', 'SVS', 'ASA', 'NSE', 'SVS', 'LO', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'UPI', 'VTHOG', 'SVS', 'UPI', 'VTHOG', 'KN', 'LB', 'NM', 'AVP', 'VVHOK', 'KN', 'KO', 'PTENP', 'SVS', 'LO', 'ASA', 'NSE', 'ZPL', 'KO', 'PTENP', 'BS', 'SVS', 'LO', 'ASA', 'NSE', 'VVHOG', 'VUOT', 'ZPR', 'ZE']
+0.7111111111111111
+['In', 'die', 'toekoms', 'sal', 'die', 'agent', 'die', 'saak', 'slegs', 'met', 'jou', 'bespreek', 'indien', 'jy', 'die', 'korrekte', 'kodenommer', 'verstrek', ',', 'en', 'mits', 'jou', 'identiteit', 'ooreenstem', 'met', 'die', "'", 'profiel', "'", 'wat', 'op', 'rekord', 'is', '.']
+['SVS', 'LB', 'NA', 'VTUOM', 'LB', 'NSE', 'LB', 'NSE', 'BS', 'SVS', 'PTEDP', 'VTHOG', 'KO', 'PTENP', 'LB', 'ASA', 'NSE', 'VTHOG', 'ZM', 'KN', 'KO', 'PTEB', 'NSE', 'VTHSO', 'SVS', 'LB', 'ZPL', 'NSE', 'ZPR', 'PB', 'SVS', 'NSE', 'VTHOK', 'ZE']
+['SVS', 'LB', 'NA', 'VTUOM', 'LB', 'NSE', 'LB', 'NSE', 'BS', 'SVS', 'PTEB', 'AVP', 'KO', 'PTENP', 'LB', 'ASA', 'NSE', 'VTHOG', 'ZM', 'KN', 'PDVENP', 'PTEB', 'AOA', 'VTHSO', 'SVS', 'LB', 'ZPL', 'RL', 'ZPR', 'PB', 'SVS', 'RS', 'VTHOK', 'ZE']
+0.8235294117647058
+['Die', 'agent', 'sal', 'die', 'oproep', 'onmiddellik', 'beÃ«indig', 'indien', 'hy', 'of', 'sy', 'vermoed', 'dat', 'jy', 'nie', 'die', 'persoon', 'is', 'wat', 'die', 'oorspronklike', 'oproep', 'gemaak', 'het', 'nie', '.']
+['LB', 'NSE', 'VTUOM', 'LB', 'NSE', 'BS', 'VTHOG', 'KO', 'PDHENP', 'KN', 'PDVENP', 'VTHOG', 'KO', 'PTENP', 'BS', 'LB', 'NSE', 'VTHOK', 'PB', 'LB', 'ASA', 'NSE', 'VVHOG', 'VUOT', 'UPO', 'ZE']
+['LB', 'NSE', 'VTUOM', 'LB', 'NSE', 'BS', 'ASP', 'KO', 'PDHENP', 'KN', 'PDVENP', 'ASP', 'KO', 'PTENP', 'BS', 'LB', 'NSE', 'VTHOK', 'PB', 'LB', 'ASA', 'NSE', 'VVHOG', 'VUOT', 'UPO', 'ZE']
+0.9230769230769231
+['Hierdie', 'is', "'n", 'beskermingsmaatreÃ«l', ',', 'en', 'is', 'nie', 'onderhandelbaar', 'nie', '.']
+['PA', 'VTHOK', 'LO', 'NSE', 'ZM', 'KN', 'VTHOK', 'BS', 'ASP', 'UPO', 'ZE']
+['PA', 'VTHOK', 'LO', 'NSE', 'ZM', 'KN', 'VTHOK', 'BS', 'ASP', 'UPO', 'ZE']
+1.0
+['Indien', 'jy', "'n", 'misdaad', 'elektronies', 'aanmeld', ',', 'moet', 'jy', 'die', 'inligting', 'op', 'die', 'terugvoervorm', 'op', 'die', 'SAPD-webwerf', 'verstrek', '.']
+['KO', 'PTENP', 'LO', 'NSE', 'BS', 'VTHSG', 'ZM', 'VTUOM', 'PTENP', 'LB', 'NM', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'VTHOG', 'ZE']
+['KO', 'PTENP', 'LO', 'NSE', 'ZPR', 'VTHSG', 'ZM', 'VTUOM', 'PTENP', 'LB', 'NM', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'VTHOG', 'ZE']
+0.9473684210526315
+["'n", 'Verwysingsnommer', 'sal', 'op', 'die', 'skerm', 'verskyn', 'sodra', 'jy', 'die', 'vorm', 'ingedien', 'het', '.']
+['LO', 'NSE', 'VTUOM', 'SVS', 'LB', 'NSE', 'VTHOO', 'KO', 'PTENP', 'LB', 'NSE', 'VVHOG', 'VUOT', 'ZE']
+['LO', 'NSE', 'VTUOM', 'SVS', 'LB', 'NSE', 'VTHOO', 'KO', 'PTENP', 'LB', 'NSE', 'VVHOG', 'VUOT', 'ZE']
+1.0
+['Crime', 'Stop', 'sal', 'die', 'inligting', 'aan', 'die', 'betrokke', 'ondersoekeenheid', 'oordra', 'om', 'op', 'te', 'volg', ',', 'met', 'die', 'versoek', 'om', 'binne', '24', 'uur', 'terug', 'te', 'rapporteer', 'en', 'so', 'gou', 'moontlik', 'oor', 'die', 'afloop', 'van', 'die', 'ondersoek', 'verslag', 'te', 'doen', '.']
+['NEE', 'NEE', 'VTUOM', 'LB', 'NM', 'SVS', 'LB', 'ASA', 'NSE', 'VTHSG', 'SVS', 'UPW', 'UPI', 'VTHOG', 'ZM', 'SVS', 'LB', 'NSE', 'SVS', 'SVS', 'RS', 'NSE', 'UPW', 'UPI', 'VTHOO', 'KN', 'BS', 'BS', 'ASP', 'SVS', 'LB', 'NA', 'SVS', 'LB', 'NSE', 'NSE', 'UPI', 'VTHOG', 'ZE']
+['ASA', 'NSM', 'VTUOM', 'LB', 'NM', 'SVS', 'LB', 'ASA', 'NSE', 'VTHSG', 'SVS', 'UPW', 'UPI', 'VTHOG', 'ZM', 'SVS', 'LB', 'NSE', 'SVS', 'RV', 'RV', 'RV', 'UPW', 'UPI', 'VTHOG', 'KN', 'BS', 'BS', 'ASP', 'SVS', 'LB', 'NA', 'SVS', 'LB', 'NSE', 'UPW', 'UPI', 'VTHOG', 'ZE']
+0.8205128205128205
+['Indien', 'jy', 'vir', "'n", 'beloning', 'in', 'aanmerking', 'kom', '(', 'en', 'jy', 'wel', 'daarvoor', 'aansoek', 'gedoen', 'het', ')', ',', 'sal', 'die', 'ondersoekbeampte', 'die', 'bedrag', 'van', 'die', 'beloning', 'vasstel', 'en', 'die', 'eis', 'ooreenkomstig', 'National', 'Information', '2', '/', '2001', '(', 'Nasionale', 'Inligting', '2', '/', '2001', ')', 'verwerk', '.']
+['KO', 'PTENP', 'SVS', 'LO', 'NSE', 'SVS', 'NA', 'VTHOO', 'ZPL', 'KN', 'PTENP', 'BS', 'PB', 'NSE', 'VVHOG', 'VUOT', 'ZPR', 'ZM', 'VTUOM', 'LB', 'NSE', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'VTHSG', 'KN', 'LB', 'NSE', 'SVS', 'RV', 'RV', 'RS', 'RS', 'RS', 'ZPL', 'ASA', 'NM', 'RS', 'RS', 'RS', 'ZPR', 'VTHOG', 'ZE']
+['KO', 'PTENP', 'SVS', 'LO', 'NSE', 'SVS', 'RV', 'RV', 'ZPL', 'KN', 'PTENP', 'BS', 'AVA', 'NSE', 'VVHOG', 'VUOT', 'ZPR', 'ZM', 'VTUOM', 'LB', 'NSE', 'LB', 'NSE', 'SVS', 'LB', 'ASA', 'NSE', 'KN', 'LB', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'ZPL', 'RV', 'RV', 'RV', 'RV', 'RV', 'ZPR', 'VTHOG', 'ZE']
+0.6666666666666666
+['Sodra', 'die', 'beloning', 'gereed', 'is', ',', 'sal', 'Crime', 'Stop', 'met', 'jou', 'in', 'verbinding', 'tree', 'om', 'af', 'te', 'spreek', 'oor', 'hoe', 'die', 'betaling', 'sal', 'geskied', '.']
+['KO', 'LB', 'NSE', 'ASP', 'VTHOK', 'ZM', 'VTUOM', 'NEE', 'NEE', 'SVS', 'PTEDP', 'SVS', 'NSE', 'VTHOO', 'SVS', 'UPW', 'UPI', 'VTHOG', 'SVS', 'PB', 'LB', 'NSE', 'VTUOM', 'VTHOO', 'ZE']
+['KO', 'LB', 'NSE', 'ASP', 'VTHOK', 'ZM', 'VTUOM', 'ASA', 'NSE', 'SVS', 'PTEB', 'UPW', 'UPI', 'VTHOO', 'SVS', 'UPW', 'UPI', 'VTHOG', 'SVS', 'PB', 'LB', 'NSE', 'VTUOM', 'VTUOP', 'ZE']
+0.76
+['Ek', 'staan', 'vanaand', 'hier', 'voor', 'u', ',', '20', 'jaar', 'nadat', 'President', 'Nelson', 'Rolihlahla', 'Mandela', 'as', "'n", 'vry', 'man', 'uit', 'die', 'gevangenis', 'gestap', 'het', '.']
+['PEENP', 'VTHOO', 'BS', 'BS', 'SVS', 'PTENP', 'ZM', 'RS', 'NSE', 'KO', 'NSE', 'NEE', 'NEE', 'NEE', 'KO', 'LO', 'ASA', 'NSE', 'SVS', 'LB', 'NSE', 'VVHOO', 'VUOT', 'ZE']
+['PEENP', 'RV', 'RV', 'RV', 'RV', 'RV', 'ZM', 'ASA', 'NSE', 'RV', 'RV', 'RV', 'RV', 'RV', 'KO', 'LO', 'ASA', 'NSE', 'SVS', 'LB', 'ASA', 'NSE', 'VUOT', 'ZE']
+0.4583333333333333
+['Ons', 'het', 'juis', 'hierdie', 'dag', 'gekies', 'om', 'hierdie', 'Gesamentlike', 'Sitting', 'van', 'die', 'Parlement', 'byeen', 'te', 'roep', 'om', 'die', 'Staatsrede', 'te', 'lewer', 'en', 'sodoende', "'n", 'waterskeidingsoomblik', 'wat', 'ons', 'land', 'se', 'geskiedenis', 'vir', 'ewig', 'verander', 'het', ',', 'te', 'gedenk', '.']
+['PEMP', 'VUOT', 'BS', 'PA', 'NSE', 'VVHOG', 'SVS', 'PA', 'ASA', 'NSE', 'SVS', 'LB', 'NSE', 'UPW', 'UPI', 'VTHOG', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'KN', 'BS', 'LO', 'NSE', 'PB', 'PEMB', 'NSE', 'UPS', 'NA', 'SVS', 'BS', 'VTHOG', 'VUOT', 'ZM', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VUOT', 'PDHENP', 'PA', 'NSE', 'VVHOG', 'SVS', 'PA', 'ASA', 'NSE', 'SVS', 'LB', 'NSE', 'UPW', 'UPI', 'VTHOO', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'KN', 'BS', 'LO', 'NSE', 'PB', 'PEMB', 'NSE', 'UPS', 'NA', 'SVS', 'NA', 'VTHOG', 'VUOT', 'ZM', 'UPI', 'VTHOG', 'ZE']
+0.9210526315789473
+['Madiba', 'se', 'vrylating', 'was', 'die', 'uitkoms', 'van', 'Suid-Afrikaners', 'se', 'onvermoeide', 'stryd', '.']
+['NEE', 'UPS', 'NA', 'VVHOK', 'LB', 'NSE', 'SVS', 'NSM', 'UPS', 'ASA', 'NA', 'ZE']
+['NSM', 'UPS', 'NSE', 'VVHOK', 'LB', 'NSE', 'SVS', 'NSM', 'UPS', 'NSE', 'ZPR', 'ZE']
+0.6666666666666666
+['Voormalige', 'politieke', 'gevangenes', 'en', 'veterane', 'wat', 'hier', 'saam', 'met', 'ons', 'is', ',', 'was', 'deel', 'van', 'daardie', 'proses', 'en', 'kan', 'getuig', 'daarvan', '.']
+['ASA', 'ASA', 'NSM', 'KN', 'NSM', 'PB', 'BS', 'BS', 'SVS', 'PEMP', 'VTHOK', 'ZM', 'VVHOK', 'NSE', 'SVS', 'PA', 'NSE', 'KN', 'VTUOM', 'VTHOG', 'PB', 'ZE']
+['ASA', 'ASA', 'NSE', 'KN', 'NSM', 'PB', 'BS', 'BS', 'SVS', 'PEMP', 'VTHOK', 'ZM', 'VVHOK', 'VTHOO', 'SVS', 'PA', 'NSE', 'KN', 'VTUOM', 'VVHOG', 'VTUOP', 'ZE']
+0.8181818181818182
+['U', 'sal', 'natuurlik', 'onthou', 'dat', 'die', 'massas', 'in', 'hierdie', 'land', ',', 'in', 'hul', 'onderskeie', 'formasies', ',', 'met', 'vasberadenheid', 'gereageer', 'het', 'op', 'die', 'oproep', 'om', 'die', 'land', 'onregeerbaar', 'en', 'apartheid', 'onwerkbaar', 'te', 'maak', '.']
+['PTENP', 'VTUOM', 'BS', 'VTHOG', 'KO', 'LB', 'NSM', 'SVS', 'PA', 'NSE', 'ZM', 'SVS', 'PDMB', 'ASA', 'NSM', 'ZM', 'SVS', 'NA', 'VVHOO', 'VUOT', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'ASP', 'KN', 'NA', 'ASP', 'UPI', 'VTHOG', 'ZE']
+['NSM', 'VTUOM', 'BS', 'ASP', 'KO', 'LB', 'NSE', 'SVS', 'PA', 'NSE', 'ZM', 'SVS', 'PDMB', 'ASA', 'NSM', 'ZM', 'SVS', 'ASA', 'NSE', 'VUOT', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'RS', 'KN', 'ASA', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.7575757575757576
+['Ons', 'vier', 'hierdie', 'dag', 'saam', 'met', 'voormalige', 'politieke', 'gevangenes', 'wat', 'ons', 'spesiaal', 'uitgenooi', 'het', 'om', 'hier', 'by', 'ons', 'aan', 'te', 'sluit', '.']
+['PEMP', 'VTHOG', 'PA', 'NSE', 'BS', 'SVS', 'ASA', 'ASA', 'NSM', 'PB', 'PEMP', 'BS', 'VVHOG', 'VUOT', 'SVS', 'BS', 'SVS', 'PEMP', 'UPW', 'UPI', 'VTHOO', 'ZE']
+['PEMP', 'VTHOG', 'PA', 'NSE', 'BS', 'SVS', 'PDMB', 'ASA', 'NSM', 'PB', 'PEMB', 'ASA', 'NSE', 'VUOT', 'SVS', 'RS', 'SVS', 'PEMP', 'UPW', 'UPI', 'VTHOG', 'ZE']
+0.7272727272727273
+['Ons', 'verwelkom', 'in', 'die', 'besonder', 'diegene', 'wat', 'uit', 'die', 'buiteland', 'gekom', 'het', 'om', 'vandag', 'hier', 'te', 'wees', ':', 'Helene', 'Pastoors', ',', 'Michael', 'Dingake', 'van', 'Botswana', ',', 'mnr', 'Andimba', 'Toivo', 'ya', 'Toivo', 'van', 'Swapo', 'in', 'NamibiÃ«', '.']
+['PEMP', 'VTHOG', 'SVS', 'LB', 'NA', 'PO', 'PB', 'SVS', 'LB', 'NM', 'VVHOO', 'VUOT', 'SVS', 'BS', 'BS', 'UPI', 'VTHOK', 'ZM', 'NEE', 'NEE', 'ZM', 'NEE', 'NEE', 'SVS', 'NEE', 'ZM', 'RA', 'NEE', 'NEE', 'NEE', 'NEE', 'SVS', 'RK', 'SVS', 'NEE', 'ZE']
+['PEMP', 'VTHOG', 'SVS', 'LB', 'AOP', 'PO', 'PB', 'SVS', 'LB', 'PTMP', 'VVHOO', 'VUOT', 'SVS', 'BS', 'BS', 'UPI', 'VTHOK', 'ZM', 'NEE', 'NEE', 'ZM', 'ASA', 'NSE', 'SVS', 'RS', 'ZM', 'NEE', 'NEE', 'NEE', 'NEE', 'NEE', 'SVS', 'NA', 'SVS', 'RS', 'ZE']
+0.7777777777777778
+['Dit', 'is', 'ook', 'ons', 'voorreg', 'om', 'die', 'regspan', 'van', 'die', 'Rivonia', 'Hoogverraadverhoor', '-', 'Lord', 'Joel', 'Joffe', ',', 'wat', 'tans', 'in', 'Londen', 'gebaseer', 'is', ',', 'en', 'Regter', 'Arthur', 'Chaskalson', 'hier', 'by', 'ons', 'te', 'hÃª', '.']
+['PDOENP', 'VTHOK', 'BS', 'PEMB', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NEE', 'NSE', 'ZM', 'NSE', 'NEE', 'NEE', 'ZM', 'PB', 'BS', 'SVS', 'NEE', 'VVHOG', 'VVUOP', 'ZM', 'KN', 'NSE', 'NEE', 'NEE', 'BS', 'SVS', 'PEMP', 'UPI', 'VTHOG', 'ZE']
+['PDOENP', 'VTHOK', 'BS', 'PEMB', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'ASA', 'NSM', 'ZM', 'NEE', 'NEE', 'NEE', 'ZM', 'PB', 'BS', 'SVS', 'RS', 'VVHOG', 'VVUOP', 'ZM', 'KN', 'NEE', 'NEE', 'NEE', 'BS', 'SVS', 'PEMP', 'UPI', 'VTHOG', 'ZE']
+0.8529411764705882
+['Ons', 'onthou', 'en', 'vereer', 'vandag', 'ook', 'mnr', 'Harry', 'Schwarz', ',', 'wat', 'verlede', 'week', 'oorlede', 'is', '.']
+['PEMP', 'VTHOG', 'KN', 'VTHOG', 'BS', 'BS', 'RA', 'NEE', 'NEE', 'ZM', 'PB', 'ASA', 'NSE', 'ASP', 'VTHOK', 'ZE']
+['PEMP', 'VTHOG', 'KN', 'NSM', 'BS', 'BS', 'NEE', 'NEE', 'NEE', 'ZM', 'PB', 'ASA', 'NSE', 'ASP', 'VTHOK', 'ZE']
+0.875
+['Hy', 'was', 'onder', 'andere', 'ook', "'n", 'lid', 'van', 'die', 'Rivonia-regspan', '.']
+['PDHENP', 'VVHOK', 'SVS', 'NSM', 'BS', 'LO', 'NSE', 'SVS', 'LB', 'NSE', 'ZE']
+['NSM', 'VVHOK', 'SVS', 'NSM', 'BS', 'LO', 'NSE', 'SVS', 'LB', 'NSE', 'ZE']
+0.9090909090909091
+['Ons', 'bedank', 'graag', 'ons', 'vriende', 'en', 'comrades', 'in', 'die', 'internasionale', 'gemeenskap', 'vir', 'hul', 'stryd', 'saam', 'met', 'ons', 'om', 'ons', 'vryheid', 'te', 'wen', '.']
+['PEMP', 'VTHOG', 'BS', 'PEMB', 'NSM', 'KN', 'NSM', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'PDMB', 'NA', 'BS', 'SVS', 'PEMP', 'SVS', 'PEMB', 'NA', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'BS', 'PEMB', 'NSM', 'KN', 'NA', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'PDMB', 'NA', 'BS', 'SVS', 'PEMP', 'SVS', 'PEMB', 'NA', 'UPI', 'VTHOG', 'ZE']
+0.9130434782608695
+["'n", 'Spesiale', 'woord', 'van', 'welkom', 'aan', 'die', 'Madiba-familie', '.']
+['LO', 'ASA', 'NSE', 'SVS', 'NA', 'SVS', 'LB', 'NSE', 'ZE']
+['LO', 'ASA', 'NSE', 'SVS', 'NA', 'SVS', 'LB', 'NSE', 'ZE']
+1.0
+['Hulle', 'is', "'n", 'simbool', 'van', 'die', 'opofferings', 'wat', 'baie', 'moes', 'maak', 'wat', 'soveel', 'weens', 'apartheid', 'moes', 'trotseer', '.']
+['PDMP', 'VTHOK', 'LO', 'NSE', 'SVS', 'LB', 'NSM', 'PB', 'THPO', 'VVUOM', 'VTHOG', 'PB', 'THBO', 'SVS', 'NA', 'VVUOM', 'VTHOG', 'ZE']
+['PDMP', 'VTHOK', 'LO', 'NSE', 'SVS', 'LB', 'NSE', 'PB', 'THBO', 'VVUOM', 'VTHOG', 'PB', 'RV', 'RV', 'RV', 'RV', 'RV', 'ZE']
+0.6111111111111112
+['Ons', 'groet', 'die', 'leiers', 'van', 'die', 'regerende', 'party', 'en', 'sy', 'Alliansie-vennote', ',', 'vir', 'wie', 'hierdie', "'n", 'besonder', 'spesiale', 'geleentheid', 'is', '.']
+['PEMP', 'VTHOG', 'LB', 'NSM', 'SVS', 'LB', 'ASA', 'NSE', 'KN', 'PDHEB', 'NSE', 'ZM', 'SVS', 'PB', 'PA', 'LO', 'BS', 'ASA', 'NSE', 'VTHOK', 'ZE']
+['PEMP', 'VTHOG', 'LB', 'NSM', 'SVS', 'LB', 'ASA', 'NSE', 'KN', 'PDVENP', 'RS', 'ZM', 'SVS', 'PEMW', 'PA', 'LO', 'TRAB', 'ASA', 'NSE', 'VTHOK', 'ZE']
+0.8095238095238095
+['Landsgenote', 'en', 'vriende', ',']
+['NSM', 'KN', 'NSM', 'ZM']
+['NSM', 'KN', 'NSM', 'ZM']
+1.0
+['Op', 'hierdie', 'spesiale', 'dag', 'moet', 'ons', 'ook', 'die', 'bydrae', 'erken', 'van', 'diegene', 'in', 'die', 'leierskorps', 'van', 'die', 'Nasionale', 'Party', ',', 'wat', 'uiteindelik', 'besef', 'het', 'dat', 'apartheid', 'geen', 'toekoms', 'sou', 'hÃª', 'nie', '.']
+['SVS', 'PA', 'ASA', 'NSE', 'VTUOM', 'PEMP', 'BS', 'LB', 'NSE', 'VTHOG', 'SVS', 'PO', 'SVS', 'LB', 'NM', 'SVS', 'LB', 'ASA', 'NSE', 'ZM', 'PB', 'BS', 'VTHOG', 'VUOT', 'KO', 'NA', 'THAB', 'NA', 'VVUOM', 'VTHOG', 'UPO', 'ZE']
+['SVS', 'PA', 'ASA', 'NSE', 'VTUOM', 'PEMP', 'BS', 'LB', 'NSE', 'VTHOG', 'SVS', 'PO', 'SVS', 'LB', 'NA', 'SVS', 'LB', 'ASA', 'NSM', 'ZM', 'PB', 'ASP', 'VVHOK', 'VUOT', 'KO', 'RV', 'RV', 'RV', 'RV', 'RV', 'UPO', 'ZE']
+0.71875
+['Laat', 'ek', 'spesifiek', 'die', 'rol', 'van', 'voormalige', 'President', 'PW', 'Botha', 'hier', 'noem', '.']
+['VTUOA', 'PEENP', 'BS', 'LB', 'NSE', 'SVS', 'ASA', 'NSE', 'NEE', 'NEE', 'BS', 'VTHOG', 'ZE']
+['PEENP', 'PEENP', 'BS', 'LB', 'NSE', 'SVS', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'ZE']
+0.46153846153846156
+['Dit', 'was', 'hy', 'wat', 'die', 'bal', 'aan', 'die', 'rol', 'gesit', 'het', 'met', 'gesprekke', 'oor', 'die', 'moontlike', 'vrylating', 'van', 'politieke', 'gevangenes', '.']
+['PDOENP', 'VVHOK', 'PDHENP', 'PB', 'LB', 'NSE', 'SVS', 'LB', 'VTHOO', 'VVHOG', 'VUOT', 'SVS', 'NSM', 'SVS', 'LB', 'ASA', 'NA', 'SVS', 'ASA', 'NSM', 'ZE']
+['PDOENP', 'VVHOK', 'PDHENP', 'PB', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'VVHOG', 'VUOT', 'SVS', 'NA', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'ASA', 'NSE', 'ZE']
+0.8095238095238095
+['President', 'Botha', 'het', 'met', 'die', 'voormalige', 'Minister', 'van', 'Justisie', ',', 'mnr', 'Kobie', 'Coetzee', ',', 'saamgewerk', ',', 'wat', 'op', 'sy', 'beurt', 'hierin', 'bygestaan', 'is', 'deur', 'dr', 'Neil', 'Barnard', 'en', 'mnr', 'Mike', 'Louw', '.']
+['NSE', 'NEE', 'VUOT', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'NA', 'ZM', 'RA', 'NEE', 'NEE', 'ZM', 'VVHOO', 'ZM', 'PB', 'SVS', 'PDHEB', 'NSE', 'PB', 'VVHOG', 'VVUOP', 'SVS', 'RA', 'NEE', 'NEE', 'KN', 'RA', 'NEE', 'NEE', 'ZE']
+['LB', 'NSE', 'VUOT', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'NA', 'ZM', 'NEE', 'NEE', 'NEE', 'ZM', 'NEE', 'ZM', 'PB', 'SVS', 'PDHEB', 'AOA', 'NSE', 'ASP', 'VTHOK', 'SVS', 'RS', 'RS', 'NSM', 'KN', 'ASA', 'NSE', 'VTHOG', 'ZE']
+0.5625
+['Hulle', 'het', "'n", 'sleutelrol', 'gespeel', 'in', 'die', 'proses', 'wat', 'tot', 'Madiba', 'se', 'vrylating', 'gelei', 'het', '.']
+['PDMP', 'VUOT', 'LO', 'NSE', 'VVHOG', 'SVS', 'LB', 'NSE', 'PB', 'SVS', 'NEE', 'UPS', 'NA', 'VVHOO', 'VUOT', 'ZE']
+['PDMP', 'VUOT', 'LO', 'ASA', 'NA', 'SVS', 'LB', 'NSE', 'PB', 'SVS', 'NSE', 'UPS', 'NSE', 'VVHOO', 'VUOT', 'ZE']
+0.75
+['Agbare', 'landsgenote', ',']
+['ASA', 'NSM', 'ZM']
+['ASA', 'NSM', 'ZM']
+1.0
+['Suid-Afrika', 'moet', 'nog', 'ten', 'volle', 'erkenning', 'gee', 'aan', 'die', 'deurslaggewende', 'rol', 'van', 'die', 'voormalige', 'President', 'van', 'die', 'ANC', ',', 'Comrade', 'Oliver', 'Tambo', ',', 'wat', 'die', 'grondslag', 'gelÃª', 'het', 'vir', 'hierdie', 'land', 'om', "'n", 'uitmuntende', 'voorbeeld', 'van', 'demokrasie', 'en', 'vryheid', 'te', 'word', '.']
+['NEE', 'VTUOM', 'BS', 'SVS', 'BS', 'NA', 'VTHOG', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'LB', 'RL', 'ZM', 'RV', 'NEE', 'NEE', 'ZM', 'PB', 'LB', 'NSE', 'VVHOG', 'VUOT', 'SVS', 'PA', 'NSE', 'SVS', 'LO', 'ASA', 'NSE', 'SVS', 'NA', 'KN', 'NA', 'UPI', 'VTHOK', 'ZE']
+['PEMP', 'VTUOM', 'BS', 'SVS', 'ASA', 'NA', 'VTHOG', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'LB', 'NSE', 'ZM', 'NEE', 'NEE', 'NEE', 'ZM', 'PB', 'LB', 'NSE', 'VVHOG', 'VUOT', 'SVS', 'PA', 'NSE', 'SVS', 'LO', 'ASA', 'NSE', 'SVS', 'NSE', 'KN', 'NA', 'UPI', 'VTUOP', 'ZE']
+0.8571428571428571
+['Dit', 'is', 'te', 'danke', 'aan', 'sy', 'uitstaande', 'leierskap', ',', 'versiendheid', 'en', 'duidelike', 'visie', 'dat', 'hy', 'die', 'ANC', 'kon', 'lei', 'om', 'die', 'strewe', 'na', "'n", 'onderhandelde', 'skikking', 'te', 'verskerp', '.']
+['PDOENP', 'VTHOK', 'UPI', 'VTHOO', 'SVS', 'PDHEB', 'ASA', 'NA', 'ZM', 'NA', 'KN', 'ASA', 'NSE', 'KO', 'PDHENP', 'LB', 'RL', 'VVUOM', 'VTHOG', 'SVS', 'LB', 'NA', 'SVS', 'LO', 'ASA', 'NSE', 'UPI', 'VTHOG', 'ZE']
+['PDOENP', 'VTHOK', 'UPI', 'VTHOO', 'SVS', 'PDHEB', 'ASA', 'NA', 'ZM', 'RWD', 'KN', 'ASA', 'NSE', 'KO', 'PDHENP', 'LB', 'NSE', 'VVUOM', 'VTHOO', 'SVS', 'LB', 'NA', 'SVS', 'LO', 'ASA', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.896551724137931
+['Sy', 'wysheid', 'het', 'ook', 'duidelik', 'geblyk', 'uit', 'die', 'Harare', 'Deklarasie', ',', 'wat', 'hy', 'geskryf', 'en', 'onvermoeid', 'bepleit', 'het', '.']
+['PDHEB', 'NSE', 'VUOT', 'BS', 'ASP', 'VVHOK', 'SVS', 'LB', 'NEE', 'NSE', 'ZM', 'PB', 'PDHENP', 'VVHOG', 'KN', 'BS', 'VTHOG', 'VUOT', 'ZE']
+['LB', 'NSE', 'VUOT', 'BS', 'BS', 'ASP', 'SVS', 'LB', 'ASA', 'NSM', 'ZM', 'PB', 'PDHENP', 'RWD', 'KN', 'ASA', 'NSE', 'VUOT', 'ZE']
+0.5789473684210527
+['Hierdeur', 'is', 'die', 'basis', 'gelÃª', 'vir', 'die', 'historiese', 'aankondigings', 'wat', 'President', 'FW', 'de', 'Klerk', '20', 'jaar', 'gelede', 'gemaak', 'het', '.']
+['PB', 'VVUOP', 'LB', 'NSE', 'VVHOG', 'SVS', 'LB', 'ASA', 'NSM', 'PB', 'NSE', 'NEE', 'LB', 'NSE', 'RS', 'NSE', 'BS', 'VVHOG', 'VUOT', 'ZE']
+['NSM', 'VTHOK', 'LB', 'NSE', 'RS', 'SVS', 'LB', 'ASA', 'NSM', 'PB', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'VVHOG', 'VUOT', 'ZE']
+0.5
+['President', 'de', 'Klerk', 'het', 'hierdeur', 'groot', 'moed', 'en', 'besliste', 'leierskap', 'aan', 'die', 'dag', 'gelÃª', '.']
+['NSE', 'LB', 'NSE', 'VUOT', 'PB', 'ASA', 'NA', 'KN', 'ASA', 'NA', 'SVS', 'LB', 'NSE', 'VVHOG', 'ZE']
+['LO', 'ASA', 'NSE', 'VUOT', 'ZM', 'ASA', 'NSE', 'KN', 'ASA', 'NA', 'SVS', 'LB', 'NSE', 'ZPR', 'ZE']
+0.6666666666666666
+['Op', 'hierdie', 'groot', 'dag', 'wil', 'ek', 'ook', 'die', 'rol', 'van', 'wyle', 'me', 'Helen', 'Suzman', 'uitlig', '.']
+['SVS', 'PA', 'ASA', 'NSE', 'VTUOM', 'PEENP', 'BS', 'LB', 'NSE', 'SVS', 'ASA', 'RA', 'NEE', 'NEE', 'VTHSG', 'ZE']
+['SVS', 'PA', 'ASA', 'NSE', 'VTUOM', 'PEENP', 'BS', 'LB', 'NSE', 'SVS', 'NEE', 'NEE', 'NEE', 'NEE', 'NEE', 'ZE']
+0.8125
+['Sy', 'was', 'baie', 'lank', 'die', 'enigste', 'stem', 'in', 'die', 'Parlement', 'wat', 'haar', 'onverpoosd', 'vir', 'verandering', 'beywer', 'het', '.']
+['PDVENP', 'VVHOK', 'THBO', 'BS', 'LB', 'AOA', 'NSE', 'SVS', 'LB', 'NSE', 'PB', 'PDVEDP', 'BS', 'SVS', 'NSE', 'VTHOO', 'VUOT', 'ZE']
+['PDOENP', 'VVHOK', 'THAO', 'UPD', 'LB', 'NSE', 'VTHOO', 'SVS', 'LB', 'NSE', 'PB', 'PDVEB', 'NA', 'SVS', 'PEMW', 'VVHOG', 'VUOT', 'ZE']
+0.5
+['Ons', 'erken', 'ook', 'die', 'rol', 'van', 'die', 'leier', 'van', 'die', 'Inkatha', 'Vryheidsparty', ',', 'Inkosi', 'Mangosuthu', 'Buthelezi', ',', 'wat', 'Madiba', 'se', 'vrylating', 'geÃ«is', 'het', ',', 'asook', 'die', 'vrylating', 'van', 'ander', 'politieke', 'gevangenes', 'en', 'die', 'terugkeer', 'van', 'uitgewekenes', '.']
+['PEMP', 'VTHOG', 'BS', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NEE', 'NSE', 'ZM', 'NEE', 'NEE', 'NEE', 'ZM', 'PB', 'NEE', 'UPS', 'NA', 'VVHOG', 'VUOT', 'ZM', 'KN', 'LB', 'NA', 'SVS', 'ASA', 'ASA', 'NSM', 'KN', 'LB', 'NA', 'SVS', 'NSM', 'ZE']
+['PEMP', 'VTUOM', 'BS', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'ASA', 'NSM', 'ZM', 'NEE', 'NEE', 'NEE', 'ZM', 'PB', 'NSE', 'UPS', 'NSE', 'VVHOG', 'VUOT', 'ZM', 'KN', 'LB', 'NSE', 'SVS', 'ASA', 'ASA', 'NSE', 'KN', 'LB', 'NSE', 'SVS', 'RS', 'ZE']
+0.7567567567567568
+['Ons', 'herbevestig', 'ons', 'innige', 'dankbaarheid', 'teenoor', 'die', 'internasionale', 'gemeenskap', 'vir', 'hul', 'onwrikbare', 'steun', 'vir', 'ons', 'stryd', '.']
+['PEMP', 'VTHOG', 'PEMB', 'ASA', 'NA', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'PDMB', 'ASA', 'NA', 'SVS', 'PEMB', 'NA', 'ZE']
+['PEMP', 'VTHOG', 'PEMB', 'ASA', 'NSE', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'PDMB', 'ASA', 'NA', 'SVS', 'PEMB', 'NA', 'ZE']
+0.9411764705882353
+['Hierdie', 'oomblikke', 'in', 'ons', 'geskiedenis', 'demonstreer', 'ons', 'vermoÃ«', 'om', 'saam', 'te', 'werk', ',', 'selfs', 'onder', 'moeilike', 'omstandighede', ',', 'en', 'om', 'die', 'land', 'se', 'belange', 'bo', 'alle', 'ander', 'oorwegings', 'te', 'stel', '.']
+['PA', 'NSM', 'SVS', 'PEMB', 'NA', 'VTHOG', 'PEMB', 'NSE', 'SVS', 'UPW', 'UPI', 'VTHOO', 'ZM', 'BS', 'SVS', 'ASA', 'NSM', 'ZM', 'KN', 'SVS', 'LB', 'NSE', 'UPS', 'NSM', 'SVS', 'THBO', 'ASA', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['PA', 'NSM', 'SVS', 'PEMP', 'PO', 'NSE', 'PEMB', 'NSE', 'SVS', 'UPW', 'UPI', 'VTHOO', 'ZM', 'BS', 'SVS', 'ASA', 'NSM', 'ZM', 'KN', 'SVS', 'LB', 'NSE', 'UPS', 'RV', 'RV', 'THAO', 'ASA', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.7741935483870968
+['Deur', 'saam', 'te', 'werk', ',', 'kan', 'ons', 'meer', 'bereik', '.']
+['SVS', 'UPW', 'UPI', 'VTHOO', 'ZM', 'VTUOM', 'PEMP', 'THBO', 'VTHOG', 'ZE']
+['SVS', 'UPW', 'UPI', 'VTHOO', 'ZM', 'VTUOM', 'PEMP', 'THBO', 'VTHOG', 'ZE']
+1.0
+['Agbare', 'lede', ',']
+['ASA', 'NSM', 'ZM']
+['ASA', 'NSM', 'ZM']
+1.0
+['Gedurende', 'die', 'loop', 'van', 'hierdie', 'jaar', 'sal', 'ons', 'die', 'eeufeesviering', 'van', 'die', 'stigting', 'van', 'die', 'Unie', 'van', 'Suid-Afrika', 'vier', ',', 'wat', 'in', '1910', 'tot', 'stand', 'gekom', 'het', '.']
+['SVS', 'LB', 'NA', 'SVS', 'PA', 'NSE', 'VTUOM', 'PEMP', 'LB', 'NSE', 'SVS', 'LB', 'NA', 'SVS', 'LB', 'NSE', 'SVS', 'NEE', 'VTHOG', 'ZM', 'PB', 'SVS', 'RS', 'SVS', 'NA', 'VVHOO', 'VUOT', 'ZE']
+['KO', 'LB', 'NA', 'SVS', 'PA', 'NSE', 'VTUOM', 'PEMP', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'NEE', 'NEE', 'ZM', 'PB', 'SVS', 'NA', 'SVS', 'RS', 'VVHOO', 'VUOT', 'ZE']
+0.8214285714285714
+['Dit', 'het', 'tot', "'n", 'verenigde', 'staat', 'gelei', '.']
+['PDOENP', 'VUOT', 'SVS', 'LO', 'ASA', 'NSE', 'VVHOO', 'ZE']
+['PDOENP', 'VUOT', 'SVS', 'LO', 'ASA', 'NSE', 'VVHOG', 'ZE']
+0.875
+['Van', 'besondere', 'belang', 'is', 'dat', 'die', 'uitsluiting', 'van', 'swart', 'mense', 'van', 'hierdie', 'Unie', 'een', 'van', 'die', 'hoofredes', 'was', 'vir', 'die', 'stigting', 'van', 'die', 'African', 'National', 'Congress', 'in', '1912', '.']
+['SVS', 'ASA', 'NSE', 'VTHOK', 'KO', 'LB', 'NA', 'SVS', 'ASA', 'NSM', 'SVS', 'PA', 'NSE', 'THAB', 'UPD', 'LB', 'NSM', 'VVHOK', 'SVS', 'LB', 'NA', 'SVS', 'LB', 'NEE', 'NEE', 'NEE', 'SVS', 'RS', 'ZE']
+['LB', 'NSE', 'ASP', 'VTHOK', 'KO', 'LB', 'NSE', 'SVS', 'ASA', 'NSM', 'SVS', 'PA', 'THBB', 'THAB', 'UPD', 'LB', 'NSE', 'VVHOK', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NEE', 'NEE', 'NEE', 'SVS', 'RS', 'ZE']
+0.7586206896551724
+['Wanneer', 'ons', 'later', 'vanjaar', 'hierdie', 'eeufees', 'vier', ',', 'moet', 'ons', 'besin', 'oor', 'hoe', 'ver', 'ons', 'reeds', 'as', "'n", 'land', 'gekom', 'het', '.']
+['PB', 'PEMP', 'BV', 'BS', 'PA', 'NSE', 'VTHOG', 'ZM', 'VTUOM', 'PEMP', 'VTHOO', 'SVS', 'PB', 'BS', 'PEMP', 'BS', 'KO', 'LO', 'NSE', 'VVHOO', 'VUOT', 'ZE']
+['PB', 'PEMP', 'VTUOM', 'BS', 'PA', 'NSE', 'VTHOG', 'ZM', 'VTUOM', 'PEMP', 'RV', 'RV', 'RV', 'RV', 'PEMP', 'BS', 'KO', 'LO', 'NSE', 'VVHOO', 'VUOT', 'ZE']
+0.7727272727272727
+['Agbare', 'lede', ',']
+['ASA', 'NSM', 'ZM']
+['ASA', 'NSM', 'ZM']
+1.0
+['Ons', 'onthou', 'vandag', 'die', 'woorde', 'van', 'Madiba', 'ten', 'tyde', 'van', 'sy', 'vrylating', ',', 'en', 'ek', 'haal', 'aan', ':']
+['PEMP', 'VTHOG', 'BS', 'LB', 'NSM', 'SVS', 'NEE', 'SVS', 'NSM', 'SVS', 'PDHEB', 'NA', 'ZM', 'KN', 'PEENP', 'VTHOG', 'UPW', 'ZM']
+['PEMP', 'VTHOG', 'BS', 'LB', 'NSM', 'SVS', 'NA', 'SVS', 'NA', 'SVS', 'PDHEB', 'NA', 'ZM', 'KN', 'PEENP', 'VTHOG', 'UPW', 'ZM']
+0.8888888888888888
+['Ek', 'staan', 'voor', 'julle', ',', 'nie', 'as', "'n", 'profeet', 'nie', ',', 'maar', 'as', "'n", 'nederige', 'dienaar', 'van', 'julle', ',', 'die', 'mense', '.']
+['PEENP', 'VTHOO', 'SVS', 'PTMP', 'ZM', 'BS', 'KO', 'LO', 'NSE', 'UPO', 'ZM', 'KN', 'KO', 'LO', 'ASA', 'NSE', 'SVS', 'PTMP', 'ZM', 'LB', 'NSM', 'ZE']
+['PEENP', 'VTHOO', 'SVS', 'RS', 'ZM', 'BS', 'KO', 'LO', 'NSE', 'UPO', 'ZM', 'KN', 'KO', 'LO', 'ASA', 'NSE', 'SVS', 'RS', 'ZM', 'LB', 'NSM', 'ZE']
+0.9090909090909091
+['Julle', 'onvermoeide', 'en', 'heldhaftige', 'opofferings', 'het', 'dit', 'vir', 'my', 'moontlik', 'gemaak', 'om', 'vandag', 'hier', 'te', 'wees', '.']
+['PTMB', 'ASA', 'KN', 'ASA', 'NSM', 'VUOT', 'PDOENP', 'SVS', 'PEEDP', 'BS', 'VVHOG', 'SVS', 'BS', 'BS', 'UPI', 'VTHOK', 'ZE']
+['ASA', 'NSM', 'KN', 'ASA', 'NSE', 'VUOT', 'PDOENP', 'SVS', 'PEEDP', 'PTEDP', 'VVHOG', 'SVS', 'BS', 'BS', 'UPI', 'VTHOK', 'ZE']
+0.7647058823529411
+['Daarom', 'plaas', 'ek', 'die', 'oorblywende', 'jare', 'van', 'my', 'lewe', 'in', 'julle', 'hande', '.']
+['PB', 'VTHOG', 'PEENP', 'LB', 'ASA', 'NSM', 'SVS', 'PEEB', 'NSE', 'SVS', 'PTMB', 'NSM', 'ZE']
+['PDOENP', 'VTHOK', 'PEENP', 'LB', 'ASA', 'NSM', 'SVS', 'PA', 'NSE', 'SVS', 'PTMP', 'UPO', 'ZE']
+0.6153846153846154
+['Hierdie', 'woorde', 'inspireer', 'ons', 'om', 'nie', 'te', 'rus', 'totdat', 'ons', 'die', 'ideale', 'bereik', 'het', 'van', "'n", 'samelewing', 'wat', 'vry', 'is', 'van', 'armoede', 'en', 'ontneming', 'nie', '.']
+['PA', 'NSM', 'VTHOG', 'PEMP', 'SVS', 'BS', 'UPI', 'VTHOO', 'KO', 'PEMP', 'LB', 'NSM', 'VTHOG', 'VUOT', 'SVS', 'LO', 'NSE', 'PB', 'ASP', 'VTHOK', 'SVS', 'NA', 'KN', 'NA', 'UPO', 'ZE']
+['PA', 'NSM', 'KN', 'PEMP', 'SVS', 'BS', 'UPI', 'VTHOO', 'KO', 'PEMP', 'LB', 'NSM', 'VTHOG', 'VUOT', 'SVS', 'LO', 'NSE', 'PB', 'ASP', 'VTHOK', 'SVS', 'NA', 'KN', 'NA', 'UPO', 'ZE']
+0.9615384615384616
+['Gedurende', 'die', 'twee', 'dekades', 'sedert', 'Madiba', 'se', 'vrylating', 'het', 'ons', 'land', 'fundamentele', 'veranderinge', 'ondergaan', '.']
+['SVS', 'LB', 'THAB', 'NSM', 'SVS', 'NEE', 'UPS', 'NA', 'VUOT', 'PEMB', 'NSE', 'ASA', 'NSM', 'VTHOG', 'ZE']
+['KO', 'LB', 'RV', 'RV', 'RV', 'RV', 'UPS', 'NSE', 'VUOT', 'PEMB', 'NSE', 'UPS', 'NSE', 'VTHOG', 'ZE']
+0.4666666666666667
+['President', 'Mandela', 'het', 'hierdie', 'land', 'verenig', 'tot', "'n", 'nie-seksistiese', ',', 'nie-rassige', ',', 'demokratiese', 'en', 'welvarende', 'Suid-Afrika', 'as', 'doelwit', '.']
+['NSE', 'NEE', 'VUOT', 'PA', 'NSE', 'VTHOG', 'SVS', 'LO', 'ASA', 'ZM', 'ASA', 'ZM', 'ASA', 'KN', 'ASA', 'NEE', 'KO', 'NSE', 'ZE']
+['PEENP', 'VVHOO', 'VUOT', 'PA', 'NSE', 'VTHOG', 'SVS', 'LO', 'ASA', 'ZM', 'NEE', 'ZM', 'ASA', 'KN', 'NEE', 'NEE', 'KO', 'RS', 'ZE']
+0.7368421052631579
+['Waar', 'ons', 'vandag', 'Madiba', 'se', 'vrylating', 'vier', ',', 'moet', 'ons', 'onsself', 'weer', 'daartoe', 'herverbind', 'om', "'n", 'beter', 'toekoms', 'vir', 'alle', 'Suid-Afrikaners', ',', 'swart', 'en', 'wit', ',', 'te', 'bou', '.']
+['PB', 'PEMP', 'BS', 'NEE', 'UPS', 'NA', 'VTHOG', 'ZM', 'VTUOM', 'PEMP', 'PEMW', 'BS', 'PB', 'VTHOG', 'SVS', 'LO', 'AVA', 'NA', 'SVS', 'THAO', 'NSM', 'ZM', 'ASA', 'KN', 'ASA', 'ZM', 'UPI', 'VTHOG', 'ZE']
+['PB', 'PEMP', 'BS', 'ASP', 'UPS', 'NSE', 'VTHOG', 'ZM', 'VTUOM', 'PEMP', 'PEMW', 'RV', 'RV', 'RV', 'SVS', 'LO', 'AVA', 'NA', 'SVS', 'THAO', 'NSM', 'ZM', 'ASA', 'KN', 'NSM', 'ZM', 'UPI', 'VTHOG', 'ZE']
+0.7931034482758621
+['Kom', 'ons', 'streef', 'opnuut', 'na', 'die', 'ideaal', 'waarvoor', 'Madiba', 'sy', 'hele', 'lewe', 'lank', 'geveg', 'het', '-', 'die', 'ideaal', 'van', "'n", 'demokratiese', 'en', 'vrye', 'samelewing', ',', 'waarin', 'alle', 'mense', 'in', 'harmonie', 'en', 'met', 'gelyke', 'geleenthede', 'saamleef', '.']
+['VTUOA', 'PEMP', 'VTHOG', 'BS', 'UPW', 'LB', 'NSE', 'PB', 'NEE', 'PDHEB', 'ASA', 'NSE', 'BS', 'VVHOO', 'VUOT', 'ZM', 'LB', 'NSE', 'SVS', 'LO', 'ASA', 'KN', 'ASA', 'NSE', 'ZM', 'PB', 'THAO', 'NSM', 'SVS', 'NA', 'KN', 'SVS', 'ASA', 'NSM', 'VTHSO', 'ZE']
+['NSM', 'PEMP', 'PO', 'NSE', 'SVS', 'LB', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'VUOT', 'ZM', 'LB', 'NSE', 'SVS', 'LO', 'ASA', 'KN', 'ASA', 'NSE', 'ZM', 'PB', 'THAO', 'NSM', 'SVS', 'NSM', 'KN', 'SVS', 'ASA', 'NSM', 'VTHOG', 'ZE']
+0.6111111111111112
+['Agbare', 'lede', ',']
+['ASA', 'NSM', 'ZM']
+['ASA', 'NSM', 'ZM']
+1.0
+['Ons', 'het', 'hierdie', 'gesamentlike', 'sitting', 'in', 'die', 'aand', 'byeengeroep', 'sodat', 'die', 'meerderheid', 'van', 'ons', 'land', 'se', 'mense', ',', 'werkers', 'en', 'skoolkinders', ',', 'ook', 'deel', 'van', 'die', 'geleentheid', 'kan', 'wees', '.']
+['PEMP', 'VUOT', 'PA', 'ASA', 'NSE', 'SVS', 'LB', 'NSE', 'VVHOG', 'KO', 'LB', 'NSE', 'SVS', 'PEMB', 'NSE', 'UPS', 'NSM', 'ZM', 'NSM', 'KN', 'NSM', 'ZM', 'BS', 'NSE', 'SVS', 'LB', 'NSE', 'VTUOM', 'VTHOK', 'ZE']
+['PEMP', 'VUOT', 'PA', 'ASA', 'NSE', 'SVS', 'LB', 'NSE', 'ASP', 'KO', 'LB', 'NSE', 'SVS', 'PEMB', 'NSE', 'UPS', 'NSM', 'ZM', 'RWD', 'KN', 'NSM', 'ZM', 'BS', 'VTHOO', 'SVS', 'LB', 'NSE', 'VTUOM', 'VTHOK', 'ZE']
+0.9
+['Ons', 'is', 'beÃ¯ndruk', 'deur', 'die', 'entoesiasme', 'van', 'die', 'jeug', 'oor', 'hierdie', 'geleentheid', '.']
+['PEMP', 'VVUOP', 'VVHOG', 'SVS', 'LB', 'NA', 'SVS', 'LB', 'NM', 'SVS', 'PA', 'NSE', 'ZE']
+['PEMP', 'VTHOK', 'BS', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NA', 'SVS', 'PA', 'NSE', 'ZE']
+0.6923076923076923
+['Tweehonderd', 'ses-en-sestig', 'kinders', 'van', 'al', 'die', 'provinsies', 'het', 'deelgeneem', 'aan', 'die', 'pre-Staatsrede-debat', 'oor', 'die', 'rol', 'van', 'die', 'jeug', 'in', 'die', 'stryd', 'teen', 'armoede', '.']
+['THAB', 'THAB', 'NSM', 'SVS', 'THAO', 'LB', 'NSM', 'VUOT', 'VVHOO', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NM', 'SVS', 'LB', 'NA', 'SVS', 'NA', 'ZE']
+['ASA', 'ASA', 'NSM', 'SVS', 'THAO', 'LB', 'VVHOO', 'VUOT', 'NA', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NA', 'SVS', 'LB', 'NA', 'SVS', 'NA', 'ZE']
+0.7916666666666666
+['Baie', 'geluk', 'aan', 'die', 'algehele', 'wenner', ',', 'Charlotte', 'Le', 'Fleur', 'van', 'Worcester', 'SekondÃªre', 'Skool', ',', 'asook', 'aan', 'al', 'die', 'deelnemers', 'vir', 'hul', 'harde', 'werk', '.']
+['THAO', 'NA', 'SVS', 'LB', 'ASA', 'NSE', 'ZM', 'NEE', 'NEE', 'NEE', 'SVS', 'NEE', 'ASA', 'NSE', 'ZM', 'KN', 'SVS', 'THAO', 'LB', 'NSM', 'SVS', 'PDMB', 'ASA', 'NA', 'ZE']
+['LB', 'NA', 'SVS', 'LB', 'ASA', 'NSM', 'ZM', 'NEE', 'NEE', 'NEE', 'SVS', 'NEE', 'NEE', 'NEE', 'ZM', 'KN', 'SVS', 'THAO', 'LB', 'NSE', 'SVS', 'PDMB', 'PV', 'VTHOO', 'ZE']
+0.72
+['Landsgenote', 'en', 'vriende', ',']
+['NSM', 'KN', 'NSM', 'ZM']
+['NSM', 'KN', 'NSM', 'ZM']
+1.0
+['Ons', 'ontmoet', 'hier', 'teen', 'die', 'agtergrond', 'van', "'n", 'wÃªreldwye', 'ekonomiese', 'krisis', '.']
+['PEMP', 'VTHOO', 'BS', 'SVS', 'LB', 'NSE', 'SVS', 'LO', 'ASA', 'ASA', 'NSE', 'ZE']
+['PEMP', 'VTHOG', 'BS', 'SVS', 'LB', 'NSE', 'SVS', 'LO', 'ASA', 'ASA', 'NSE', 'ZE']
+0.9166666666666666
+['Verlede', 'jaar', 'het', 'ons', 'ons', 'eerste', 'resessie', 'in', '17', 'jaar', 'ervaar', '.']
+['ASA', 'NSE', 'VUOT', 'PEMP', 'PEMB', 'TRAB', 'NSE', 'SVS', 'RS', 'NSE', 'VTHOG', 'ZE']
+['LB', 'NSE', 'VUOT', 'PEMP', 'PEMB', 'TRAB', 'NSE', 'SVS', 'PA', 'NSE', 'VTHOG', 'ZE']
+0.8333333333333334
+['Die', 'krisis', 'het', 'ons', 'ekonomie', 'ongeveer', '900', '000', 'werksgeleenthede', 'gekos', '.']
+['LB', 'NSE', 'VUOT', 'PEMB', 'NSE', 'BS', 'RS', 'RS', 'NSM', 'VVHOG', 'ZE']
+['LB', 'NSE', 'VUOT', 'PEMP', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'ZE']
+0.36363636363636365
+['Baie', 'mense', 'wat', 'hul', 'werk', 'verloor', 'het', ',', 'was', 'die', 'broodwinners', 'van', 'arm', 'families', '.']
+['THAO', 'NSM', 'PB', 'PDMB', 'NA', 'VTHOG', 'VUOT', 'ZM', 'VVHOK', 'LB', 'NSM', 'SVS', 'ASA', 'NSM', 'ZE']
+['THAO', 'NSM', 'PB', 'PDMB', 'NA', 'VTHOG', 'VUOT', 'ZM', 'VVHOK', 'LB', 'NSE', 'SVS', 'ASA', 'NSE', 'ZE']
+0.8666666666666667
+['In', 'Februarie', 'verlede', 'jaar', 'het', 'die', 'regering', ',', 'sakelui', ',', 'arbeidsektor', 'en', 'gemeenskapsverteenwoordigers', 'ooreengekom', 'op', "'n", 'pakket', 'van', 'maatreÃ«ls', 'om', 'die', 'skaal', 'en', 'impak', 'van', 'die', 'krisis', 'te', 'bekamp', '.']
+['SVS', 'NEE', 'ASA', 'NSE', 'VUOT', 'LB', 'NSE', 'ZM', 'NSM', 'ZM', 'NSE', 'KN', 'NSM', 'VVHOO', 'SVS', 'LO', 'NSE', 'SVS', 'NSM', 'SVS', 'LB', 'NSE', 'KN', 'NA', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'ZE']
+['SVS', 'PA', 'ASA', 'NSE', 'VUOT', 'LB', 'NSE', 'ZM', 'NEE', 'ZM', 'RWD', 'KN', 'ASA', 'NA', 'SVS', 'LO', 'NSE', 'SVS', 'NSM', 'SVS', 'LB', 'NSE', 'KN', 'NA', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.8333333333333334
+['Ons', 'het', 'talle', 'van', 'hierdie', 'maatreÃ«ls', 'reeds', 'in', 'werking', 'gestel', '.']
+['PEMP', 'VUOT', 'THAO', 'SVS', 'PA', 'NSM', 'BS', 'SVS', 'NA', 'VVHOG', 'ZE']
+['PEMP', 'VUOT', 'VVHOO', 'SVS', 'PA', 'NSM', 'BS', 'SVS', 'NA', 'VVHOG', 'ZE']
+0.9090909090909091
+['Ons', 'het', 'besliste', 'teen-resessiebesteding', 'deur', 'die', 'regering', 'geÃ¯mplementeer', ',', 'veral', 'op', 'infrastruktuur', '.']
+['PEMP', 'VUOT', 'ASA', 'NA', 'SVS', 'LB', 'NSE', 'VVHOG', 'ZM', 'BS', 'SVS', 'NM', 'ZE']
+['PEMP', 'VUOT', 'PO', 'NSE', 'SVS', 'LB', 'NSE', 'ZPR', 'ZM', 'BS', 'SVS', 'RS', 'ZE']
+0.6923076923076923
+['Ten', 'einde', "'n", 'veiligheidskussing', 'vir', 'armes', 'te', 'skep', ',', 'het', 'ons', 'die', 'verhogings', 'in', 'maatskaplike', 'toelaes', 'vervroeg', ',', 'en', 'die', 'Kindersorgtoelaag', 'uitgebrei', 'na', 'kinders', 'ouer', 'as', '14', 'jaar', '.']
+['SVS', 'NSE', 'LO', 'NSE', 'SVS', 'NSM', 'UPI', 'VTHOG', 'ZM', 'VUOT', 'PEMP', 'LB', 'NSM', 'SVS', 'ASA', 'NSM', 'VTHOG', 'ZM', 'KN', 'LB', 'NSE', 'VVHOG', 'SVS', 'NSM', 'AVP', 'KO', 'RS', 'NSE', 'ZE']
+['LB', 'NSE', 'LO', 'NSE', 'SVS', 'UPW', 'UPI', 'VTHOG', 'ZM', 'VUOT', 'PEMP', 'LB', 'NSE', 'SVS', 'ASA', 'KN', 'NSM', 'ZM', 'KN', 'LB', 'ASA', 'NSE', 'SVS', 'NSM', 'AVP', 'KO', 'RS', 'NSE', 'ZE']
+0.7586206896551724
+['Gedurende', 'die', 'volgende', 'drie', 'jaar', 'sal', "'n", 'addisionele', 'twee', 'miljoen', 'kinders', 'uit', 'arm', 'gesinne', 'en', 'huishoudings', 'tussen', 'die', 'ouderdom', 'van', '15', 'en', '18', 'jaar', ',', 'by', 'die', 'Kindersorgtoelaag', 'baat', 'vind', '.']
+['SVS', 'LB', 'ASA', 'THAB', 'NSE', 'VTUOM', 'LO', 'ASA', 'THAB', 'THAB', 'NSM', 'SVS', 'ASA', 'NSM', 'KN', 'NSM', 'SVS', 'LB', 'NSE', 'SVS', 'RS', 'KN', 'RS', 'NSE', 'ZM', 'SVS', 'LB', 'NSE', 'NSE', 'VTHOG', 'ZE']
+['KO', 'LB', 'ASA', 'THAB', 'NSE', 'VTUOM', 'LO', 'ASA', 'THAB', 'THAB', 'NSM', 'SVS', 'ASA', 'NSE', 'KN', 'NSM', 'SVS', 'LB', 'NSE', 'SVS', 'RS', 'KN', 'RS', 'NSE', 'ZM', 'SVS', 'LB', 'ASA', 'NSE', 'VTHOG', 'ZE']
+0.9032258064516129
+['Die', 'Nywerheidsontwikkelingskorporasie', 'het', 'R6', 'biljoen', 'bewillig', 'om', 'maatskappye', 'in', 'nood', 'by', 'te', 'staan', '.']
+['LB', 'NSE', 'VUOT', 'RS', 'THPB', 'VTHOG', 'SVS', 'NSM', 'SVS', 'NA', 'UPW', 'UPI', 'VTHOO', 'ZE']
+['LB', 'NSE', 'VUOT', 'RWD', 'KN', 'NA', 'SVS', 'NSM', 'SVS', 'NA', 'SVS', 'UPI', 'VTHOO', 'ZE']
+0.7142857142857143
+['Die', 'Regering', 'het', "'n", '"', 'opleidingsafleggingskema', '"', 'ingestel', 'om', 'aan', 'werkers', 'die', 'opsie', 'van', "'n", 'opleidingstydperk', ',', 'in', 'plaas', 'van', 'aflegging', ',', 'te', 'bied', '.']
+['LB', 'NSE', 'VUOT', 'LO', 'ZPL', 'NSE', 'ZPR', 'VVHOG', 'SVS', 'SVS', 'NSM', 'LB', 'NSE', 'SVS', 'LO', 'NSE', 'ZM', 'SVS', 'NSE', 'SVS', 'NA', 'ZM', 'UPI', 'VTHOG', 'ZE']
+['LB', 'NSE', 'VUOT', 'LO', 'ZPL', 'RL', 'ZPR', 'VVHOG', 'SVS', 'UPW', 'UPD', 'LB', 'NSE', 'SVS', 'LO', 'NSE', 'ZM', 'SVS', 'RS', 'SVS', 'RS', 'ZM', 'UPI', 'VTHOG', 'ZE']
+0.8
+['Hierdie', 'pogings', 'is', 'deur', 'ons', 'Openbare', 'Werke-program', 'versterk', '.']
+['PA', 'NSM', 'VVUOP', 'SVS', 'PEMB', 'ASA', 'NSE', 'VTHOG', 'ZE']
+['PA', 'NSM', 'VTHOK', 'SVS', 'PEMB', 'ASA', 'NSE', 'VTHOG', 'ZE']
+0.8888888888888888
+['Die', 'nasie', 'sal', 'onthou', 'dat', 'ek', 'tydens', 'die', '2009-Staatsrede', 'aangekondig', 'het', 'dat', 'die', 'Uitgebreide', 'Openbare', 'Werke-program', 'teen', 'Desember', '2009', '500', '000', 'werksgeleenthede', 'sou', 'skep', '.']
+['LB', 'NSE', 'VTUOM', 'VTHOG', 'KO', 'PEENP', 'SVS', 'LB', 'NSE', 'VVHOG', 'VUOT', 'KO', 'LB', 'ASA', 'ASA', 'NSE', 'SVS', 'NEE', 'RS', 'RS', 'RS', 'NSM', 'VVUOM', 'VTHOG', 'ZE']
+['LB', 'NSE', 'VTUOM', 'BS', 'KO', 'PEENP', 'SVS', 'LB', 'NSE', 'VVHOG', 'VUOT', 'KO', 'LB', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'VVUOM', 'VTHOG', 'ZE']
+0.6
+['Ek', 'wil', 'beklemtoon', 'dat', 'dit', 'nie', 'poste', 'in', 'die', 'hoofstroom-ekonomie', 'is', 'nie', '.']
+['PEENP', 'VTUOM', 'VTHOG', 'KO', 'PDOENP', 'BS', 'NSM', 'SVS', 'LB', 'NSE', 'VTHOK', 'UPO', 'ZE']
+['PEENP', 'VTUOM', 'VTHOG', 'KO', 'PDOENP', 'BS', 'ASP', 'SVS', 'LB', 'NSE', 'VTHOK', 'UPO', 'ZE']
+0.9230769230769231
+['Hierdie', 'is', 'werksgeleenthede', 'wat', 'geskep', 'is', 'om', 'werklose', 'mense', 'van', "'n", 'inkomste', ',', 'ervaring', 'en', 'opleidingsgeleenthede', 'te', 'voorsien', '.']
+['PA', 'VTHOK', 'NSM', 'PB', 'VVHOG', 'VVUOP', 'SVS', 'ASA', 'NSM', 'SVS', 'LO', 'NSE', 'ZM', 'NA', 'KN', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['PA', 'VTHOK', 'PDOENP', 'PB', 'VVHOG', 'VVUOP', 'SVS', 'PDMB', 'NSM', 'SVS', 'LO', 'NSE', 'ZM', 'RWD', 'KN', 'NSM', 'UPI', 'VTHOG', 'ZE']
+0.8421052631578947
+['Agbare', 'lede', ',', 'mede-Suid-Afrikaners']
+['ASA', 'NSM', 'ZM', 'NSM']
+['ASA', 'NSM', 'ZM', 'NEE']
+0.75
+['Ons', 'kondig', 'graag', 'aan', 'dat', 'ons', 'teen', 'die', 'einde', 'van', 'Desember', 'reeds', 'meer', 'as', '480', '000', 'openbare', 'werksgeleenthede', 'geskep', 'het', ',', 'met', 'ander', 'woorde', ',', '97%', 'van', 'die', 'doelwit', 'wat', 'ons', 'gestel', 'het', '.']
+['PEMP', 'VTHOV', 'BS', 'UPW', 'KO', 'PEMP', 'SVS', 'LB', 'NSE', 'SVS', 'NEE', 'BS', 'THBO', 'KO', 'RS', 'RS', 'ASA', 'NSM', 'VVHOG', 'VUOT', 'ZM', 'SVS', 'ASA', 'NSM', 'ZM', 'RS', 'SVS', 'LB', 'NSE', 'PB', 'PEMP', 'VVHOG', 'VUOT', 'ZE']
+['PEMP', 'VTHOG', 'BS', 'SVS', 'KO', 'PEMP', 'SVS', 'LB', 'NSE', 'SVS', 'NSE', 'BS', 'THBO', 'KO', 'RS', 'RS', 'ASA', 'NSM', 'VVHOG', 'VUOT', 'ZM', 'SVS', 'ASA', 'NSM', 'ZM', 'NA', 'SVS', 'LB', 'NSE', 'PB', 'PEMP', 'VVHOG', 'VUOT', 'ZE']
+0.8823529411764706
+['Hierdie', 'poste', 'is', 'in', 'areas', 'soos', 'konstruksie', ',', 'tuis-', 'en', 'gemeenskapsgebaseerde', 'sorg', 'en', 'omgewingsprojekte', '.']
+['PA', 'NSM', 'VTHOK', 'SVS', 'NSM', 'UPV', 'NSE', 'ZM', 'RWD', 'KN', 'ASA', 'NA', 'KN', 'NSM', 'ZE']
+['PA', 'NSM', 'VTHOK', 'SVS', 'PEMW', 'UPV', 'NA', 'ZM', 'RWD', 'KN', 'NA', 'VTHOG', 'KN', 'NA', 'ZE']
+0.6666666666666666
+['Ons', 'het', "'n", 'aantal', 'terreine', 'geÃ¯dentifiseer', 'waar', 'ons', 'in', 'die', 'toekoms', 'verder', 'gaan', 'verbeter', ',', 'soos', 'om', 'meer', 'arbeidsintensiewe', 'projekte', 'te', 'verseker', '.']
+['PEMP', 'VUOT', 'LO', 'NSE', 'NSM', 'VVHOG', 'PB', 'PEMP', 'SVS', 'LB', 'NA', 'BV', 'VTUOM', 'VTHOO', 'ZM', 'UPV', 'SVS', 'THBO', 'ASA', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VUOT', 'LO', 'NSE', 'RS', 'ZPR', 'PB', 'PEMP', 'SVS', 'LB', 'NA', 'BV', 'VTUOM', 'VTHOG', 'ZM', 'UPV', 'SVS', 'THAO', 'NSM', 'UPW', 'UPI', 'VTHOG', 'ZE']
+0.7391304347826086
+['Ons', 'weet', 'egter', 'dat', 'hierdie', 'en', 'ander', 'maatreÃ«ls', 'nie', 'die', 'uitwerkings', 'van', 'die', 'resessie', 'heeltemal', 'kan', 'temper', 'nie', '.']
+['PEMP', 'VTHOG', 'BS', 'KO', 'PA', 'KN', 'ASA', 'NSM', 'BS', 'LB', 'NSM', 'SVS', 'LB', 'NSE', 'BS', 'VTUOM', 'VTHOG', 'UPO', 'ZE']
+['PEMP', 'VTHOO', 'BS', 'KO', 'PA', 'KN', 'ASA', 'NSM', 'BS', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'BS', 'VTUOM', 'VTHOG', 'UPO', 'ZE']
+0.8947368421052632
+['Ons', 'is', 'dankbaar', 'vir', 'die', 'gees', 'van', 'familie', ',', 'gemeenskap', 'en', 'vrywillige', 'werk', 'wat', 'soveel', 'mense', 'inspireer', 'om', 'diegene', 'wat', 'die', 'swaarste', 'deur', 'die', 'krisis', 'getref', 'word', ',', 'deur', 'hierdie', 'moeilike', 'tye', 'te', 'help', '.']
+['PEMP', 'VTHOK', 'ASP', 'SVS', 'LB', 'NA', 'SVS', 'NSE', 'ZM', 'NSE', 'KN', 'ASA', 'NA', 'PB', 'THAO', 'NSM', 'VTHOG', 'SVS', 'PO', 'PB', 'LB', 'BO', 'SVS', 'LB', 'NSE', 'VVHOG', 'VTUOP', 'ZM', 'SVS', 'PA', 'ASA', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTHOK', 'BS', 'SVS', 'LB', 'NA', 'SVS', 'RS', 'ZM', 'RWD', 'KN', 'ASA', 'NA', 'PB', 'THAO', 'NSM', 'PB', 'SVS', 'PO', 'PB', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'VVHOG', 'VTUOP', 'ZM', 'SVS', 'PA', 'NSE', 'UPW', 'UPI', 'VTHOG', 'ZE']
+0.8
+['Agbare', 'lede', ',']
+['ASA', 'NSM', 'ZM']
+['ASA', 'NSM', 'ZM']
+1.0
+['Ekonomiese', 'aanwysers', 'dui', 'daarop', 'dat', 'ons', 'nou', 'deur', 'die', 'ergste', 'van', 'die', 'ekonomiese', 'resessie', 'is', '.']
+['ASA', 'NSM', 'VTHOG', 'PB', 'KO', 'PEMP', 'BS', 'SVS', 'LB', 'AOA', 'SVS', 'LB', 'ASA', 'NSE', 'VTHOK', 'ZE']
+['ASA', 'NSM', 'ZPR', 'PB', 'KO', 'PEMP', 'BS', 'SVS', 'LB', 'NA', 'SVS', 'LB', 'ASA', 'NSE', 'VTHOK', 'ZE']
+0.875
+['Ekonomiese', 'aktiwiteit', 'is', 'aan', 'die', 'toeneem', 'in', 'Suid-Afrika', ',', 'en', 'ons', 'verwag', 'groei', 'in', 'die', 'toekoms', '.']
+['ASA', 'NSE', 'VTHOK', 'SVS', 'LB', 'NA', 'SVS', 'NEE', 'ZM', 'KN', 'PEMP', 'VTHOG', 'NA', 'SVS', 'LB', 'NA', 'ZE']
+['NSM', 'VTUOM', 'VTHOK', 'SVS', 'LB', 'NSE', 'SVS', 'NEE', 'ZM', 'KN', 'PEMP', 'VTHOG', 'NA', 'SVS', 'LB', 'NA', 'ZE']
+0.8235294117647058
+['Die', 'arbeidstatistiek', 'wat', 'Dinsdag', 'vrygestel', 'is', ',', 'dui', 'daarop', 'dat', 'die', 'ekonomie', 'tans', 'werksgeleenthede', 'skep', 'eerder', 'as', 'om', 'dit', 'in', 'te', 'boet', '.']
+['LB', 'NSE', 'PB', 'NEE', 'VVHOG', 'VVUOP', 'ZM', 'VTHOG', 'PB', 'PB', 'LB', 'NSE', 'BS', 'NSM', 'VTHOG', 'BS', 'KO', 'SVS', 'PDOENP', 'UPW', 'UPI', 'VTHOG', 'ZE']
+['LB', 'NSE', 'PB', 'BS', 'VVHOG', 'VVUOP', 'ZM', 'NM', 'PB', 'KO', 'LB', 'RV', 'RV', 'RV', 'RV', 'RV', 'KO', 'SVS', 'PDOENP', 'UPW', 'UPI', 'VTHOG', 'ZE']
+0.6521739130434783
+['Dit', 'is', 'egter', 'te', 'gou', 'om', 'seker', 'te', 'wees', 'oor', 'die', 'tempo', 'van', 'hierdie', 'herstelproses', '.']
+['PDOENP', 'VTHOK', 'BS', 'UPG', 'BS', 'SVS', 'ASP', 'UPI', 'VTHOK', 'SVS', 'LB', 'NSE', 'SVS', 'PA', 'NSE', 'ZE']
+['PDOENP', 'VTHOK', 'BS', 'UPI', 'VTHOO', 'SVS', 'BS', 'UPI', 'VTHOK', 'SVS', 'LB', 'NSE', 'SVS', 'PA', 'NSE', 'ZE']
+0.8125
+['Die', 'Regering', 'sal', 'dus', 'nog', 'nie', 'sy', 'ondersteuningsmaatreÃ«ls', 'opskort', 'nie', '.']
+['LB', 'NSE', 'VTUOM', 'BS', 'BS', 'BS', 'PDHEB', 'NSM', 'VTHSG', 'UPO', 'ZE']
+['LB', 'NSE', 'VTUOM', 'BS', 'BS', 'BS', 'PDHEB', 'ASA', 'NSE', 'UPO', 'ZE']
+0.8181818181818182
+['Dit', 'is', 'nou', 'die', 'tyd', 'om', 'die', 'basis', 'te', 'lÃª', 'vir', 'sterker', 'groei', 'in', 'die', 'toekoms', 'en', 'vir', 'groei', 'wat', 'tot', 'meer', 'werksgeleenthede', 'lei', '.']
+['PDOENP', 'VTHOK', 'BS', 'LB', 'NM', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'SVS', 'AVA', 'NA', 'SVS', 'LB', 'NA', 'KN', 'SVS', 'NA', 'PB', 'SVS', 'THAO', 'NSM', 'VTHOO', 'ZE']
+['PDOENP', 'VTHOK', 'BS', 'LB', 'NM', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'SVS', 'PDMB', 'NA', 'SVS', 'LB', 'NA', 'KN', 'SVS', 'NA', 'PB', 'SVS', 'THAO', 'NSM', 'VTHOG', 'ZE']
+0.92
+['Ons', 'langtermyn-infrastruktuurprogram', 'sal', 'ons', 'help', 'om', 'vinniger', 'te', 'groei', '.']
+['PEMB', 'NSE', 'VTUOM', 'PEMP', 'VTHOG', 'SVS', 'BV', 'UPI', 'VTHOO', 'ZE']
+['PEMP', 'VTHOG', 'VTUOM', 'PEMP', 'VTUOA', 'SVS', 'BV', 'UPI', 'VTHOO', 'ZE']
+0.7
+['Ons', 'onderwys-', 'en', 'vaardigheidsprogramme', 'sal', 'ons', 'produktiwiteit', 'en', 'mededingendheid', 'verhoog', '.']
+['PEMB', 'RWD', 'KN', 'NSM', 'VTUOM', 'PEMP', 'NA', 'KN', 'NA', 'VTHOG', 'ZE']
+['PEMP', 'RWD', 'KN', 'NSM', 'VTUOM', 'PEMB', 'NSE', 'KN', 'NA', 'VTHOG', 'ZE']
+0.7272727272727273
+['Ons', 'Nywerheidsbeleids-aksieplan', 'en', 'ons', 'nuwe', 'fokus', 'op', 'groen', 'werksgeleenthede', 'sal', 'sterker', 'en', 'meer', 'arbeids-absorberende', 'nywerhede', 'bou', '.']
+['PEMB', 'NSE', 'KN', 'PEMB', 'ASA', 'NSE', 'SVS', 'ASA', 'NSM', 'VTUOM', 'BV', 'KN', 'THBO', 'ASA', 'NSM', 'VTHOG', 'ZE']
+['PEMP', 'VTHOG', 'KN', 'PEMB', 'ASA', 'NSE', 'SVS', 'ASA', 'NSM', 'VTUOM', 'VTUOP', 'KN', 'THAO', 'NSM', 'UPI', 'VTHOG', 'ZE']
+0.6470588235294118
+['Ons', 'landelike', 'ontwikkelingsprogram', 'sal', 'landelike', 'produktiwiteit', 'verhoog', 'en', 'die', 'lewens', 'van', 'die', 'mense', 'in', 'landelike', 'gebiede', 'verbeter', '.']
+['PEMB', 'ASA', 'NSE', 'VTUOM', 'ASA', 'NA', 'VTHOG', 'KN', 'LB', 'NSM', 'SVS', 'LB', 'NSM', 'SVS', 'ASA', 'NSM', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'PTENP', 'VTUOM', 'PTENP', 'NA', 'VTHOG', 'KN', 'LB', 'NSM', 'SVS', 'LB', 'NSM', 'SVS', 'ASA', 'NSM', 'VTHOG', 'ZE']
+0.7777777777777778
+['Ons', 'kapitaalinvesteringsprogram', 'lÃª', 'ten', 'grondslag', 'aan', 'ons', 'strategie', 'vir', 'ekonomiese', 'herstel', 'en', 'groei', '.']
+['PEMB', 'NSE', 'VTHOG', 'SVS', 'NSE', 'SVS', 'PEMB', 'NSE', 'SVS', 'ASA', 'NA', 'KN', 'NA', 'ZE']
+['PEMP', 'RV', 'RV', 'RV', 'RV', 'SVS', 'PEMB', 'NSE', 'SVS', 'ASA', 'NSE', 'KN', 'NA', 'ZE']
+0.5714285714285714
+['Oor', 'die', 'volgende', 'drie', 'jaar', 'sal', 'die', 'regering', 'R846', 'biljoen', 'aan', 'openbare', 'infrastruktuur', 'spandeer', '.']
+['SVS', 'LB', 'ASA', 'THAB', 'NSE', 'VTUOM', 'LB', 'NSE', 'RS', 'THPB', 'SVS', 'ASA', 'NM', 'VTHOG', 'ZE']
+['KO', 'LB', 'ASA', 'THAB', 'NSE', 'VTUOM', 'LB', 'NSE', 'RS', 'THPB', 'SVS', 'ASA', 'NM', 'VTHOG', 'ZE']
+0.9333333333333333
+['Op', 'die', 'terrein', 'van', 'vervoer', ',', 'sal', 'ons', 'ons', 'padnetwerk', 'in', 'stand', 'hou', 'en', 'uitbrei', '.']
+['SVS', 'LB', 'NSE', 'SVS', 'NA', 'ZM', 'VTUOM', 'PEMP', 'PEMB', 'NSE', 'SVS', 'NA', 'VTHOG', 'KN', 'VTHSG', 'ZE']
+['SVS', 'LB', 'NSE', 'SVS', 'RS', 'ZM', 'VTUOM', 'PEMP', 'PEMB', 'NSE', 'SVS', 'NA', 'VTHOG', 'KN', 'VTHSG', 'ZE']
+0.9375
+['Ons', 'sal', 'verseker', 'dat', 'ons', 'spoornetwerk', 'betroubaar', 'en', 'mededingend', 'is', 'en', 'beter', 'met', 'ons', 'seehawens', 'geÃ¯ntegreer', 'is', '.']
+['PEMP', 'VTUOM', 'VTHOG', 'KO', 'PEMB', 'NSE', 'ASP', 'KN', 'ASP', 'VTHOK', 'KN', 'BV', 'SVS', 'PEMB', 'NSM', 'VVHOG', 'VVUOP', 'ZE']
+['PEMP', 'VTUOM', 'VTHOG', 'KO', 'PEMB', 'ASA', 'NSE', 'KN', 'ASP', 'VTHOK', 'KN', 'NA', 'SVS', 'PEMB', 'NSE', 'VVHOG', 'VVUOP', 'ZE']
+0.7777777777777778
+['Om', 'betroubare', 'kragtoevoer', 'te', 'verseker', ',', 'het', 'ons', "'n", 'Inter-MinisteriÃ«le', 'Komitee', 'oor', 'Energie', 'ingestel', ',', 'om', "'n", '20-jaar-', 'geÃ¯ntegreerde', 'hulpbronplan', 'te', 'ontwikkel', '.']
+['SVS', 'ASA', 'NM', 'UPI', 'VTHOG', 'ZM', 'VUOT', 'PEMP', 'LO', 'ASA', 'NSE', 'SVS', 'NM', 'VVHOG', 'ZM', 'SVS', 'LO', 'RWD', 'ASA', 'NSE', 'UPI', 'VTHOG', 'ZE']
+['SVS', 'PA', 'NSE', 'UPI', 'VTHOG', 'ZM', 'VUOT', 'PEMP', 'LO', 'ASA', 'NSE', 'SVS', 'RS', 'RS', 'ZM', 'SVS', 'LO', 'ASA', 'ASA', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.782608695652174
+['Hierdie', 'komitee', 'sal', ',', 'onder', 'andere', ',', 'kyk', 'na', 'die', 'deelname', 'van', 'onafhanklike', 'kragprodusente', ',', 'en', 'arm', 'mense', 'teen', 'stygende', 'elektrisiteitspryse', 'beskerm', '.']
+['PA', 'NSE', 'VTUOM', 'ZM', 'SVS', 'NSM', 'ZM', 'VTHOO', 'SVS', 'LB', 'NA', 'SVS', 'ASA', 'NSM', 'ZM', 'KN', 'ASA', 'NSM', 'SVS', 'ASA', 'NSM', 'VTHOG', 'ZE']
+['PA', 'NSM', 'VTUOM', 'ZM', 'SVS', 'NSM', 'ZM', 'NA', 'SVS', 'LB', 'NA', 'SVS', 'PDMB', 'NSM', 'ZM', 'KN', 'ASA', 'NSM', 'SVS', 'ASA', 'NSE', 'VTHOG', 'ZE']
+0.8260869565217391
+['Ons', 'sal', "'n", 'onafhanklike', 'stelseloperateur', 'instel', ',', 'wat', 'afsonderlik', 'van', 'Eskom', 'Beherend', 'sal', 'funksioneer', '.']
+['PEMP', 'VTUOM', 'LO', 'ASA', 'NSE', 'VTHSG', 'ZM', 'PB', 'BS', 'SVS', 'RK', 'NSE', 'VTUOM', 'VTHOO', 'ZE']
+['PEMP', 'VTUOM', 'LO', 'ASA', 'NSE', 'VTHSG', 'ZM', 'PB', 'BS', 'SVS', 'PA', 'NSE', 'VTUOM', 'VTUOP', 'ZE']
+0.8666666666666667
+['Eskom', 'sal', 'voortgaan', 'om', 'addisionele', 'opwekkingskapasiteit', 'te', 'bou', 'en', 'die', 'instandhouding', 'van', 'sy', 'kragstasies', 'te', 'verbeter', '.']
+['RK', 'VTUOM', 'VTHSO', 'SVS', 'ASA', 'NSE', 'UPI', 'VTHOG', 'KN', 'LB', 'NA', 'SVS', 'PDHEB', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'VTHSO', 'SVS', 'ASA', 'NSE', 'UPI', 'VTHOG', 'KN', 'LB', 'NSE', 'SVS', 'PDHEB', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.8235294117647058
+['Ten', 'einde', "'n", 'inklusiewe', 'ekonomie', 'te', 'verseker', 'wat', 'groei', 'en', 'ontwikkeling', 'bevorder', ',', 'het', 'ons', 'die', 'Adviesraad', 'oor', 'BreÃ«', 'Swart', 'Ekonomiese', 'Bemagtiging', 'in', 'die', 'lewe', 'geroep', ',', 'onder', 'voorsitterskap', 'van', 'die', 'President', '.']
+['SVS', 'NSE', 'LO', 'ASA', 'NSE', 'UPI', 'VTHOG', 'PB', 'NA', 'KN', 'NA', 'VTHOG', 'ZM', 'VUOT', 'PEMP', 'LB', 'NSE', 'SVS', 'ASA', 'ASA', 'ASA', 'NA', 'SVS', 'LB', 'NSE', 'VVHOG', 'ZM', 'SVS', 'NA', 'SVS', 'LB', 'NSE', 'ZE']
+['LB', 'NSE', 'LO', 'ASA', 'NSE', 'UPI', 'VTHOG', 'PB', 'NA', 'KN', 'NA', 'VTHOG', 'ZM', 'VUOT', 'PEMP', 'LB', 'NSE', 'SVS', 'NEE', 'NEE', 'NEE', 'NEE', 'SVS', 'LB', 'NSE', 'ZPR', 'ZM', 'SVS', 'NA', 'SVS', 'LB', 'NSE', 'ZE']
+0.8181818181818182
+['Beleidsverandering', 'moet', 'fokus', 'op', 'ingrypings', 'om', 'werksgeleenthede', 'vir', 'jongmense', 'te', 'skep', '.']
+['NSE', 'VTUOM', 'VTHOO', 'SVS', 'NSM', 'SVS', 'NSM', 'SVS', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['NSM', 'VTUOM', 'VTUOP', 'SVS', 'NSM', 'SVS', 'NSM', 'SVS', 'NSM', 'UPI', 'VTHOG', 'ZE']
+0.8333333333333334
+['Werkloosheidskoerse', 'vir', 'jongmense', 'is', 'aansienlik', 'hoÃ«r', 'as', 'die', 'gemiddeld', '.']
+['NSM', 'SVS', 'NSM', 'VTHOK', 'BS', 'AVP', 'KO', 'LB', 'NSE', 'ZE']
+['NSE', 'SVS', 'NSM', 'VTHOK', 'BS', 'AVP', 'KO', 'LB', 'NSE', 'ZE']
+0.9
+['Voorstelle', 'sal', 'ingedien', 'word', 'om', 'die', 'koste', 'van', 'die', 'indiensneming', 'van', 'jonger', 'werkers', 'te', 'subsidieer', 'ten', 'einde', 'ondernemings', 'aan', 'te', 'moedig', 'om', 'onervare', 'personeel', 'in', 'diens', 'te', 'neem', '.']
+['NSM', 'VTUOM', 'VVHOG', 'VTUOP', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NA', 'SVS', 'AVA', 'NSM', 'UPI', 'VTHOG', 'SVS', 'NSE', 'NSM', 'UPW', 'UPI', 'VTHOG', 'SVS', 'ASA', 'NM', 'SVS', 'NSE', 'UPI', 'VTHOG', 'ZE']
+['NSM', 'VTUOM', 'VVHOG', 'VTUOP', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NA', 'SVS', 'PDMB', 'NSM', 'UPI', 'VTHOG', 'SVS', 'NSE', 'ZPR', 'UPW', 'UPI', 'VTHOG', 'SVS', 'ASA', 'NM', 'SVS', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.9310344827586207
+["'n", 'Verdere', 'uitbreiding', 'van', 'openbare-werkskeppingsprogramme', 'is', 'ook', 'reeds', 'aan', 'die', 'gang', '.']
+['LO', 'ASA', 'NSE', 'SVS', 'NSM', 'VTHOK', 'BS', 'BS', 'SVS', 'LB', 'NA', 'ZE']
+['LO', 'ASA', 'NSE', 'SVS', 'RS', 'VTHOK', 'BS', 'BS', 'SVS', 'LB', 'NA', 'ZE']
+0.9166666666666666
+['Dit', 'sluit', 'in', 'plaaslike-infrastruktuur-', 'en', 'tersiÃªre', 'projekte', 'en', 'geletterdheidsprojekte', ',', 'tuisgebaseerde', 'versorging', ',', 'skoolinstandhouding', 'en', 'vroeÃ«kindontwikkelings-inisiatiewe', '.']
+['PDOENP', 'VTHOG', 'UPW', 'RWD', 'KN', 'ASA', 'NSM', 'KN', 'NSM', 'ZM', 'ASA', 'NA', 'ZM', 'NA', 'KN', 'NSM', 'ZE']
+['PDOENP', 'VTHOG', 'SVS', 'NSM', 'KN', 'ASA', 'NSM', 'KN', 'NSM', 'ZM', 'NEE', 'NEE', 'ZM', 'RWD', 'KN', 'NA', 'ZE']
+0.6470588235294118
+['Verlede', 'jaar', 'het', 'ons', 'die', 'Nasionale', 'Jeugontwikkelingsagentskap', 'in', 'die', 'lewe', 'geroep', '.']
+['ASA', 'NSE', 'VUOT', 'PEMP', 'LB', 'ASA', 'NSE', 'SVS', 'LB', 'NSE', 'VVHOG', 'ZE']
+['LB', 'NSE', 'VUOT', 'PEMP', 'LB', 'ASA', 'NSE', 'SVS', 'LB', 'NSE', 'ZPR', 'ZE']
+0.8333333333333334
+['Ons', 'het', 'die', 'Agentskap', 'aangesÃª', 'om', 'vinniger', 'te', 'werk', 'om', 'sy', 'strukture', 'regdeur', 'die', 'land', 'te', 'vestig', 'sodat', 'dit', 'ons', 'kan', 'help', 'om', 'jeugontwikkelingsprogramme', 'in', 'die', 'regering', 'as', 'hoofstroomprojekte', 'te', 'loods', '.']
+['PEMP', 'VUOT', 'LB', 'NSE', 'VVHOG', 'SVS', 'BV', 'UPI', 'VTHOO', 'SVS', 'PDHEB', 'NSM', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'KO', 'PDOENP', 'PEMP', 'VTUOM', 'VTHOG', 'SVS', 'NSM', 'SVS', 'LB', 'NSE', 'KO', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VUOT', 'LB', 'ASA', 'NSE', 'SVS', 'BV', 'UPI', 'VTHOO', 'SVS', 'PDHEB', 'AOA', 'UPD', 'LB', 'NSE', 'UPI', 'VTHOG', 'KO', 'PDOENP', 'PEMP', 'VTUOM', 'VTUOA', 'SVS', 'NA', 'SVS', 'LB', 'NSE', 'KO', 'NSM', 'UPI', 'VTHOG', 'ZE']
+0.8125
+['Agbare', 'lede', ',']
+['ASA', 'NSM', 'ZM']
+['ASA', 'NSM', 'ZM']
+1.0
+['Toe', 'hierdie', 'administrasie', 'verlede', 'jaar', 'aan', 'bewind', 'gekom', 'het', ',', 'het', 'ons', 'onsself', 'daartoe', 'verbind', 'om', 'harder', 'te', 'werk', 'om', "'n", 'sterk', 'ontwikkelingstaat', 'te', 'bou', '.']
+['PB', 'PA', 'NSE', 'ASA', 'NSE', 'SVS', 'NA', 'VVHOO', 'VUOT', 'ZM', 'VUOT', 'PEMP', 'PEMW', 'PB', 'VTHOG', 'SVS', 'BV', 'UPI', 'VTHOO', 'SVS', 'LO', 'ASA', 'NSE', 'UPI', 'VTHOG', 'ZE']
+['NSM', 'PA', 'UPS', 'ASA', 'NSE', 'SVS', 'RS', 'VVHOO', 'VUOT', 'ZM', 'VUOT', 'PEMP', 'PEMW', 'VVUOM', 'VTHOG', 'SVS', 'NA', 'UPI', 'VTHOO', 'SVS', 'LO', 'ASA', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.8076923076923077
+['Ons', 'het', 'gesÃª', 'dat', 'dit', "'n", 'staat', 'sou', 'wees', 'wat', 'op', 'die', 'mense', 'se', 'behoeftes', 'en', 'aspirasies', 'reageer', ',', 'en', 'wat', 'beter', 'en', 'vinniger', 'presteer', '.']
+['PEMP', 'VUOT', 'VVHOG', 'KO', 'PDOENP', 'LO', 'NSE', 'VVUOM', 'VTHOK', 'PB', 'SVS', 'LB', 'NSM', 'UPS', 'NSM', 'KN', 'NSM', 'VTHOO', 'ZM', 'KN', 'PB', 'BV', 'KN', 'BV', 'VTHOO', 'ZE']
+['PEMP', 'VUOT', 'THBO', 'KO', 'PDOENP', 'LO', 'NSE', 'VVUOM', 'VTHOK', 'PB', 'SVS', 'LB', 'NSM', 'UPS', 'RWD', 'KN', 'NSM', 'VTHOO', 'ZM', 'KN', 'PB', 'BV', 'KN', 'PDVENP', 'VTHOO', 'ZE']
+0.8846153846153846
+['Hierdie', 'jaar', ',', '2010', ',', 'sal', "'n", 'jaar', 'van', 'aksie', 'wees', '.']
+['PA', 'NSE', 'ZM', 'RS', 'ZM', 'VTUOM', 'LO', 'NSE', 'SVS', 'NSE', 'VTHOK', 'ZE']
+['PA', 'NSE', 'ZM', 'RS', 'ZM', 'VTUOM', 'LO', 'NSE', 'SVS', 'RS', 'VTHOK', 'ZE']
+0.9166666666666666
+['Die', 'onderskeidende', 'kenmerk', 'van', 'hierdie', 'administrasie', 'sal', 'wees', 'dat', 'dit', 'weet', 'waar', 'mense', 'bly', ',', 'hulle', 'behoeftes', 'verstaan', 'en', 'vinniger', 'daarop', 'reageer', '.']
+['LB', 'ASA', 'NSE', 'SVS', 'PA', 'NA', 'VTUOM', 'VTHOK', 'KO', 'PDOENP', 'VTHOG', 'PB', 'NSM', 'VTHOO', 'ZM', 'PDMB', 'NSM', 'VTHOG', 'KN', 'BV', 'PB', 'VTHOO', 'ZE']
+['LB', 'ASA', 'NSE', 'SVS', 'PA', 'NSE', 'VTUOM', 'VTHOK', 'KO', 'PDOENP', 'VTHOG', 'PB', 'NSM', 'VTHOK', 'ZM', 'PDMP', 'PDOEW', 'RWD', 'KN', 'PDVENP', 'PV', 'VTHOO', 'ZE']
+0.6956521739130435
+['Die', 'Regering', 'moet', 'vinniger', ',', 'harder', 'en', 'slimmer', 'werk', '.']
+['LB', 'NSE', 'VTUOM', 'BV', 'ZM', 'BV', 'KN', 'BV', 'VTHOO', 'ZE']
+['LB', 'NSE', 'VTUOM', 'VTUOP', 'ZM', 'RWD', 'KN', 'NSM', 'VTHOO', 'ZE']
+0.7
+['Ons', 'sal', 'van', 'die', 'Uitvoerende', 'Gesag', 'en', 'die', 'Staatsdiens', 'verwag', 'om', 'aan', 'hierdie', 'visie', 'te', 'voldoen', '.']
+['PEMP', 'VTUOM', 'SVS', 'LB', 'ASA', 'NA', 'KN', 'LB', 'NSE', 'VTHOG', 'SVS', 'SVS', 'PA', 'NSE', 'UPI', 'VTHOV', 'ZE']
+['PEMP', 'VTUOM', 'SVS', 'LB', 'ASA', 'NSE', 'KN', 'LB', 'NSE', 'VTHOG', 'SVS', 'SVS', 'PA', 'NSE', 'UPI', 'VTHOV', 'ZE']
+0.9411764705882353
+['Ons', 'bou', "'n", 'staat', 'wat', 'op', 'effektiewe', 'werkverrigting', 'fokus', '.']
+['PEMP', 'VTHOG', 'LO', 'NSE', 'PB', 'SVS', 'ASA', 'NA', 'VTHOO', 'ZE']
+['PEMP', 'VTHOG', 'LO', 'NSE', 'PB', 'SVS', 'PA', 'NSE', 'ZPR', 'ZE']
+0.7
+['Dit', 'sal', 'bereik', 'word', 'deur', 'beplanning', 'asook', 'prestasie-monitering', 'en', '-evaluering', 'te', 'verbeter', '.']
+['PDOENP', 'VTUOM', 'VTHOG', 'VTUOP', 'SVS', 'NA', 'KN', 'NA', 'KN', 'RWD', 'UPI', 'VTHOG', 'ZE']
+['PDOENP', 'VTUOM', 'VTHOG', 'VTUOP', 'SVS', 'RS', 'KN', 'NSM', 'KN', 'NSM', 'UPI', 'VTHOG', 'ZE']
+0.7692307692307693
+['Ons', 'moet', 'ook', 'geslagsgelykheidsmaatreÃ«ls', 'in', 'die', 'Regering', 'se', 'Aksieprogram', 'integreer', '.']
+['PEMP', 'VTUOM', 'BS', 'NSM', 'SVS', 'LB', 'NSE', 'UPS', 'NSE', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'BS', 'ASP', 'SVS', 'LB', 'NSE', 'UPS', 'NSE', 'VTHOG', 'ZE']
+0.9090909090909091
+['Hierdie', 'optrede', 'sal', 'verseker', 'dat', 'vroue', ',', 'kinders', 'en', 'persone', 'met', 'gestremdhede', 'toegang', 'tot', 'ontwikkelingsgeleenthede', 'kry', '.']
+['PA', 'NSE', 'VTUOM', 'VTHOG', 'KO', 'NSM', 'ZM', 'NSM', 'KN', 'NSM', 'SVS', 'NSM', 'NA', 'SVS', 'NSM', 'VTHOG', 'ZE']
+['PA', 'NSE', 'VTUOM', 'VTHOG', 'KO', 'NSM', 'ZM', 'NSM', 'KN', 'NSM', 'SVS', 'ASA', 'NA', 'SVS', 'NA', 'VTHOG', 'ZE']
+0.8823529411764706
+['Ons', 'kondig', 'graag', 'aan', 'dat', 'ons', 'in', 'die', 'Regering', 'dinge', 'op', "'n", 'nuwe', 'manier', 'gaan', 'doen', '.']
+['PEMP', 'VTHOV', 'BS', 'UPW', 'KO', 'PEMP', 'SVS', 'LB', 'NSE', 'NSM', 'SVS', 'LO', 'ASA', 'NSE', 'VTUOM', 'VTHOG', 'ZE']
+['PEMP', 'VTHOG', 'BS', 'SVS', 'KO', 'PEMP', 'SVS', 'LB', 'NSE', 'RS', 'SVS', 'LO', 'ASA', 'NSE', 'VTUOM', 'VTHOG', 'ZE']
+0.8235294117647058
+['Departemente', 'se', 'werk', 'sal', 'gemeet', 'word', 'deur', 'uitkomste', ',', 'wat', 'op', 'grond', 'van', 'ons', 'prestasie-monitering-en-evalueringstelsel', 'ontwikkel', 'word', '.']
+['NSM', 'UPS', 'NA', 'VTUOM', 'VVHOG', 'VTUOP', 'SVS', 'NSM', 'ZM', 'PB', 'SVS', 'NSE', 'SVS', 'PEMB', 'NSE', 'VTHOG', 'VTUOP', 'ZE']
+['NSM', 'UPS', 'NA', 'VTUOM', 'VVHOG', 'VTUOP', 'SVS', 'RS', 'ZM', 'PB', 'SVS', 'NM', 'SVS', 'PEMB', 'NSE', 'VTHOG', 'VTUOP', 'ZE']
+0.8888888888888888
+['Die', 'ministers', 'wat', 'vir', "'n", 'bepaalde', 'uitkoms', 'verantwoordelik', 'is', ',', 'sal', "'n", 'gedetailleerde', 'leweringsooreenkoms', 'met', 'die', 'president', 'onderteken', '.']
+['LB', 'NSM', 'PB', 'SVS', 'LO', 'ASA', 'NSE', 'ASP', 'VTHOK', 'ZM', 'VTUOM', 'LO', 'ASA', 'NSE', 'SVS', 'LB', 'NSE', 'VTHOG', 'ZE']
+['LB', 'NSM', 'PB', 'SVS', 'LO', 'ASA', 'NSE', 'ASP', 'VTHOK', 'ZM', 'VTUOM', 'LO', 'ASA', 'NSE', 'SVS', 'LB', 'NSE', 'VTHOG', 'ZE']
+1.0
+['Hierdie', 'ooreenkomste', 'sal', 'duidelik', 'uiteensit', 'wat', 'gedoen', 'moet', 'word', ',', 'hoe', ',', 'deur', 'wie', ',', 'binne', 'watter', 'tydperk', 'en', 'met', 'behulp', 'van', 'watter', 'maatreÃ«ls', 'en', 'hulpbronne', '.']
+['PA', 'NSM', 'VTUOM', 'BS', 'VTHSG', 'PB', 'VVHOG', 'VTUOM', 'VTUOP', 'ZM', 'PB', 'ZM', 'SVS', 'PB', 'ZM', 'SVS', 'PB', 'NSE', 'KN', 'SVS', 'NA', 'SVS', 'PB', 'NSM', 'KN', 'NSM', 'ZE']
+['PA', 'NSM', 'VTUOM', 'BS', 'VTHSG', 'PB', 'VVHOG', 'VTUOM', 'VTUOP', 'ZM', 'NEE', 'ZM', 'SVS', 'RS', 'ZM', 'SVS', 'PA', 'NSE', 'KN', 'SVS', 'NA', 'SVS', 'PDMB', 'NSM', 'KN', 'NSM', 'ZE']
+0.8518518518518519
+['Soos', 'u', 'weet', ',', 'is', 'ons', 'verbind', 'tot', 'vyf', 'prioriteite', ':']
+['UPV', 'PTENP', 'VTHOO', 'ZM', 'VVUOP', 'PEMP', 'VTHOG', 'SVS', 'THAB', 'NSM', 'ZM']
+['KO', 'PTENP', 'VTHOO', 'ZM', 'VTHOK', 'PEMP', 'VTHOG', 'SVS', 'THAB', 'NSM', 'ZM']
+0.8181818181818182
+['onderwys', ',', 'gesondheid', ',', 'landelike', 'ontwikkeling', 'en', 'grondhervorming', ',', 'skepping', 'van', 'ordentlike', 'werksgeleenthede', 'en', 'die', 'bestryding', 'van', 'misdaad', '.']
+['NA', 'ZM', 'NA', 'ZM', 'ASA', 'NA', 'KN', 'NA', 'ZM', 'NA', 'SVS', 'ASA', 'NSM', 'KN', 'LB', 'NA', 'SVS', 'NSE', 'ZE']
+['NA', 'ZM', 'NA', 'ZM', 'ASA', 'NA', 'KN', 'NSM', 'ZM', 'NA', 'SVS', 'ASA', 'NSM', 'KN', 'LB', 'NSE', 'SVS', 'RS', 'ZE']
+0.8421052631578947
+['Daarbenewens', 'sal', 'ons', 'werk', 'om', 'die', 'effektiwiteit', 'van', 'plaaslike', 'regering', ',', 'infrastruktuurontwikkeling', 'en', 'menslike', 'nedersettings', 'te', 'verbeter', '.']
+['PB', 'VTUOM', 'PEMP', 'VTHOO', 'SVS', 'LB', 'NA', 'SVS', 'ASA', 'NSE', 'ZM', 'NA', 'KN', 'ASA', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['NSM', 'VTUOM', 'PEMP', 'VTHOO', 'SVS', 'LB', 'NSE', 'SVS', 'ASA', 'NSE', 'ZM', 'RWD', 'KN', 'ASA', 'NSM', 'UPI', 'VTHOG', 'ZE']
+0.8333333333333334
+['Ons', 'sal', "'n", 'aantal', 'sleutelaktiwiteite', 'onderneem', 'ter', 'bereiking', 'van', 'hierdie', 'uitkomste', '.']
+['PEMP', 'VTUOM', 'LO', 'NSE', 'NSM', 'VTHOG', 'SVS', 'NA', 'SVS', 'PA', 'NSM', 'ZE']
+['PEMP', 'VTUOM', 'LO', 'RV', 'RV', 'RV', 'RV', 'RV', 'SVS', 'PA', 'NSM', 'ZE']
+0.5833333333333334
+['Ons', 'het', 'onderwys', 'en', 'vaardigheidsontwikkeling', 'as', 'die', 'middelpunt', 'van', 'hierdie', 'regering', 'se', 'beleide', 'gestel', '.']
+['PEMP', 'VUOT', 'NA', 'KN', 'NA', 'KO', 'LB', 'NSE', 'SVS', 'PA', 'NSE', 'UPS', 'NSM', 'VVHOG', 'ZE']
+['PEMP', 'VUOT', 'NA', 'KN', 'ASP', 'KO', 'LB', 'NSE', 'SVS', 'PA', 'NSE', 'UPS', 'PTEDP', 'VVHOG', 'ZE']
+0.8666666666666667
+['In', 'ons', '2010-program', 'wil', 'ons', 'die', 'vermoÃ«', 'van', 'kinders', 'om', 'in', 'die', 'grondslagjare', 'te', 'lees', ',', 'skryf', 'en', 'tel', ',', 'verbeter', '.']
+['SVS', 'PEMB', 'NSE', 'VTUOM', 'PEMP', 'LB', 'NSE', 'SVS', 'NSM', 'SVS', 'SVS', 'LB', 'NSM', 'UPI', 'VTHOO', 'ZM', 'VTHOO', 'KN', 'VTHOO', 'ZM', 'VTHOG', 'ZE']
+['SVS', 'PEMB', 'NSE', 'VTUOM', 'PEMP', 'LB', 'NSE', 'SVS', 'NSM', 'SVS', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'ZM', 'RWD', 'KN', 'NEE', 'ZM', 'VTHOG', 'ZE']
+0.8181818181818182
+['As', 'ons', 'dit', 'niÃ©', 'doen', 'nie', ',', 'sal', 'ons', 'nie', 'die', 'gehalte', 'van', 'die', 'onderwys', 'kan', 'verbeter', 'nie', '.']
+['KO', 'PEMP', 'PDOENP', 'BS', 'VTHOG', 'UPO', 'ZM', 'VTUOM', 'PEMP', 'BS', 'LB', 'NA', 'SVS', 'LB', 'NA', 'VTUOM', 'VTHOG', 'UPO', 'ZE']
+['KO', 'PEMP', 'PDOENP', 'BS', 'VTHOG', 'UPO', 'ZM', 'VTUOM', 'PEMP', 'BS', 'LB', 'NA', 'SVS', 'LB', 'NA', 'VTUOM', 'VTHOG', 'UPO', 'ZE']
+1.0
+['Ons', 'onderwysteikens', 'is', 'eenvoudig', ',', 'maar', 'van', 'kritiese', 'belang', '.']
+['PEMB', 'NSM', 'VTHOK', 'ASP', 'ZM', 'KN', 'SVS', 'ASA', 'NSE', 'ZE']
+['PEMP', 'VTHOG', 'VVUOP', 'NSM', 'ZM', 'KN', 'SVS', 'ASA', 'NSE', 'ZE']
+0.6
+['Ons', 'wil', 'hÃª', 'dat', 'leerders', 'en', 'onderwysers', 'betyds', 'in', 'die', 'skool', ',', 'in', 'die', 'klas', 'moet', 'wees', ',', 'besig', 'om', 'sewe', 'uur', 'per', 'dag', 'te', 'leer', 'en', 'te', 'onderrig', '.']
+['PEMP', 'VTUOM', 'VTHOG', 'KO', 'NSM', 'KN', 'NSM', 'BS', 'SVS', 'LB', 'NSE', 'ZM', 'SVS', 'LB', 'NSE', 'VTUOM', 'VTHOK', 'ZM', 'ASP', 'SVS', 'THAB', 'NSE', 'SVS', 'NSE', 'UPI', 'VTHOO', 'KN', 'UPI', 'VTHOO', 'ZE']
+['PEMP', 'VTUOM', 'VTHOG', 'KO', 'NSM', 'KN', 'NSM', 'PB', 'SVS', 'LB', 'NSE', 'ZM', 'SVS', 'LB', 'NSE', 'VTUOM', 'VTHOK', 'ZM', 'ASP', 'SVS', 'RV', 'RV', 'RV', 'RV', 'UPI', 'VTHOG', 'KN', 'UPI', 'VTHOO', 'ZE']
+0.8
+['Ons', 'sal', 'onderwysers', 'help', 'deur', 'gedetailleerde', 'daaglikse', 'lesplanne', 'te', 'voorsien', '.']
+['PEMP', 'VTUOM', 'NSM', 'VTUOA', 'SVS', 'ASA', 'ASA', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'UPI', 'VTHOG', 'ZE']
+0.45454545454545453
+['Ons', 'sal', 'werkboeke', 'wat', 'maklik', 'is', 'om', 'te', 'gebruik', 'in', 'al', '11', 'tale', 'aan', 'studente', 'voorsien', '.']
+['PEMP', 'VTUOM', 'NSM', 'PB', 'ASP', 'VTHOK', 'SVS', 'UPI', 'VTHOO', 'SVS', 'THBO', 'RS', 'NSM', 'SVS', 'NSM', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'VTHOG', 'PB', 'ASP', 'VTHOK', 'SVS', 'UPI', 'VTHOG', 'SVS', 'THAO', 'ASA', 'NSM', 'SVS', 'NA', 'VTHOG', 'ZE']
+0.7058823529411765
+['Van', 'vanjaar', 'af', 'sal', 'alle', 'leerders', 'in', 'graad', '3', ',', '6', 'en', '9', 'geletterdheids-', 'en', 'gesyferdheidstoetse', 'skryf', ',', 'wat', 'onafhanklik', 'gemodereer', 'word', '.']
+['SVS', 'BS', 'SVS', 'VTUOM', 'THAO', 'NSM', 'SVS', 'NSE', 'RS', 'ZM', 'RS', 'KN', 'RS', 'RWD', 'KN', 'NSM', 'VTHOG', 'ZM', 'PB', 'BS', 'VVHOG', 'VTUOP', 'ZE']
+['PEMP', 'VTUOM', 'PTENP', 'VTUOM', 'THAO', 'NSM', 'SVS', 'NSE', 'RS', 'ZM', 'RWD', 'KN', 'ASA', 'NSE', 'KN', 'ASA', 'NA', 'ZM', 'PB', 'BS', 'VVHOG', 'VTUOP', 'ZE']
+0.6521739130434783
+['Ons', 'mikpunt', 'is', 'om', 'die', 'slaagsyfer', 'vir', 'hierdie', 'toetse', 'van', 'die', 'huidige', 'gemiddeld', 'van', 'tussen', '35', 'en', '40%', 'tot', 'minstens', '60%', 'teen', '2014', 'te', 'verhoog', '.']
+['PEMB', 'NSE', 'VTHOK', 'SVS', 'LB', 'NSE', 'SVS', 'PA', 'NSM', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'SVS', 'RS', 'KN', 'RS', 'SVS', 'TRBO', 'RS', 'SVS', 'RS', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTHOG', 'VVUOP', 'SVS', 'LB', 'NSE', 'SVS', 'PA', 'NSM', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'PA', 'NSE', 'KN', 'NA', 'SVS', 'PA', 'NSE', 'SVS', 'RS', 'UPI', 'VTHOG', 'ZE']
+0.6923076923076923
+['Die', 'uitslae', 'sal', 'aan', 'die', 'ouers', 'gestuur', 'word', 'om', 'vordering', 'te', 'monitor', '.']
+['LB', 'NSM', 'VTUOM', 'SVS', 'LB', 'NSM', 'VVHOG', 'VTUOP', 'SVS', 'NA', 'UPI', 'VTHOG', 'ZE']
+['LB', 'NSE', 'VTUOM', 'SVS', 'LB', 'NSM', 'VVHOG', 'VTUOP', 'SVS', 'NA', 'UPI', 'VTHOG', 'ZE']
+0.9230769230769231
+['Daarbenewens', 'sal', 'elk', 'van', 'ons', '27', '000', 'skole', 'deur', 'amptenare', 'van', 'die', 'Departement', 'van', 'Basiese', 'Onderwys', 'geassesseer', 'word', '.']
+['PB', 'VTUOM', 'PO', 'SVS', 'PEMB', 'RS', 'RS', 'NSM', 'SVS', 'NSM', 'SVS', 'LB', 'NSE', 'SVS', 'ASA', 'NA', 'VVHOG', 'VTUOP', 'ZE']
+['NSM', 'VTUOM', 'VTUOP', 'SVS', 'PEMB', 'BO', 'RS', 'NSM', 'SVS', 'NA', 'SVS', 'LB', 'NSE', 'SVS', 'PDMB', 'NA', 'VVHOG', 'VTUOP', 'ZE']
+0.7368421052631579
+['Dit', 'sal', 'in', "'n", 'ouditeerbare', 'skriftelike', 'verslag', 'opgeteken', 'word', '.']
+['PDOENP', 'VTUOM', 'SVS', 'LO', 'ASA', 'ASA', 'NSE', 'VVHOG', 'VTUOP', 'ZE']
+['PDOENP', 'VTUOM', 'SVS', 'LO', 'ASA', 'ASA', 'NSE', 'VVHOG', 'VTUOP', 'ZE']
+1.0
+['Ons', 'beoog', 'om', 'die', 'aantal', 'matriekstudente', 'met', 'universiteitstoelating', 'teen', '2014', 'tot', '175', '000', 'per', 'jaar', 'te', 'verhoog', '.']
+['PEMP', 'VTHOG', 'SVS', 'LB', 'NSE', 'NSM', 'SVS', 'NA', 'SVS', 'RS', 'SVS', 'RS', 'RS', 'SVS', 'NSE', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTHOO', 'SVS', 'LB', 'NSE', 'RS', 'SVS', 'NA', 'SVS', 'RS', 'SVS', 'RS', 'RS', 'SVS', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.8888888888888888
+['Ons', 'spoor', 'ouers', 'aan', 'om', 'met', 'ons', 'saam', 'te', 'werk', 'om', "'n", 'sukses', 'hiervan', 'te', 'maak', '.']
+['PEMP', 'VTHOG', 'NSM', 'UPW', 'SVS', 'SVS', 'PEMP', 'UPW', 'UPI', 'VTHOO', 'SVS', 'LO', 'NSE', 'PB', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'VTUOP', 'SVS', 'SVS', 'SVS', 'PEMP', 'BS', 'UPI', 'VTHOO', 'SVS', 'LO', 'NSE', 'UPW', 'UPI', 'VTHOG', 'ZE']
+0.7058823529411765
+['Ons', 'verwelkom', 'verlede', 'maand', 'se', 'verklaring', 'deur', 'die', 'drie', 'onderwysersvakbonde', ',', 'NAPTOSA', ',', 'SADTU', 'en', 'SAOU', ',', 'waarin', 'hulle', 'hulle', 'vanaf', 'die', 'begin', 'van', '2010', 'herverbind', 'het', 'tot', 'die', 'Kwaliteit', 'Leer-', 'en', 'Onderrigveldtog', '.']
+['PEMP', 'VTHOG', 'ASA', 'NSE', 'UPS', 'NSE', 'SVS', 'LB', 'THAB', 'NSM', 'ZM', 'RK', 'ZM', 'RK', 'KN', 'RK', 'ZM', 'PB', 'PDMP', 'PDMW', 'SVS', 'LB', 'NA', 'SVS', 'RS', 'VTHOG', 'VUOT', 'SVS', 'LB', 'NA', 'RWD', 'KN', 'NSE', 'ZE']
+['PEMP', 'VTHOG', 'ASA', 'NSE', 'UPS', 'NSE', 'SVS', 'LB', 'THAB', 'NSM', 'ZM', 'NEE', 'ZM', 'RWD', 'KN', 'NSM', 'ZM', 'PB', 'PDMP', 'PDMB', 'UPD', 'LB', 'NA', 'SVS', 'RS', 'NSM', 'VUOT', 'SVS', 'LB', 'ASA', 'NSE', 'KN', 'NA', 'ZE']
+0.7352941176470589
+['Agbare', 'lede', ',']
+['ASA', 'NSM', 'ZM']
+['ASA', 'NSM', 'ZM']
+1.0
+['Ons', 'moet', 'in', 'ons', 'jeug', 'belÃª', 'ten', 'einde', "'n", 'vaardige', 'en', 'bekwame', 'werksmag', 'te', 'verseker', 'wat', 'groei', 'en', 'werkskepping', 'ondersteun', '.']
+['PEMP', 'VTUOM', 'SVS', 'PEMB', 'NM', 'VTHOO', 'SVS', 'NSE', 'LO', 'ASA', 'KN', 'ASA', 'NSE', 'UPI', 'VTHOG', 'PB', 'NA', 'KN', 'NA', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'SVS', 'PEMB', 'RV', 'RV', 'RV', 'RV', 'LO', 'NSE', 'KN', 'ASA', 'NSE', 'UPI', 'VTHOG', 'PB', 'NA', 'KN', 'NA', 'VTHOG', 'ZE']
+0.7619047619047619
+['Ons', 'beplan', 'dus', 'om', 'die', 'opleiding', 'van', '16', 'tot', '25-jarige', 'persone', 'te', 'verbeter', 'in', 'verdere', 'onderwys-en-opleidingsfasiliteite', '.']
+['PEMP', 'VTHOG', 'BS', 'SVS', 'LB', 'NA', 'SVS', 'RS', 'SVS', 'ASA', 'NSM', 'UPI', 'VTHOG', 'SVS', 'ASA', 'NSM', 'ZE']
+['PEMP', 'VTUOM', 'BS', 'SVS', 'LB', 'NA', 'SVS', 'RS', 'SVS', 'ASA', 'NSM', 'UPI', 'VTHOG', 'SVS', 'ASA', 'NSE', 'ZE']
+0.8823529411764706
+['Dit', 'sal', 'ons', 'in', 'staat', 'stel', 'om', 'aan', 'diegene', 'wat', 'nie', 'vir', 'universiteit', 'kwalifiseer', 'nie', ',', 'nog', "'n", 'kans', 'op', 'geleerdheid', 'te', 'bied', '.']
+['PDOENP', 'VTUOM', 'PEMP', 'SVS', 'NSE', 'VTHOG', 'SVS', 'SVS', 'PO', 'PB', 'BS', 'SVS', 'NSE', 'VTHOO', 'UPO', 'ZM', 'BS', 'LO', 'NSE', 'SVS', 'NA', 'UPI', 'VTHOG', 'ZE']
+['PDOENP', 'VTUOM', 'PEMP', 'SVS', 'NSE', 'VTHOG', 'SVS', 'SVS', 'PO', 'PB', 'BS', 'SVS', 'ASA', 'NSE', 'UPO', 'ZM', 'BS', 'LO', 'NSE', 'SVS', 'NA', 'UPI', 'VTHOG', 'ZE']
+0.9166666666666666
+['Ons', 'werk', 'saam', 'met', 'hoÃ«ronderwysinstellings', 'om', 'te', 'verseker', 'dat', 'studente', 'wat', 'daarvoor', 'kwalifiseer', ',', 'deur', 'die', 'Nasionale', 'FinansiÃ«le', 'Hulpskema', 'vir', 'Studente', 'finansiÃ«le', 'bystand', 'ontvang', '.']
+['PEMP', 'VTHOO', 'UPW', 'SVS', 'NSM', 'SVS', 'UPI', 'VTHOG', 'KO', 'NSM', 'PB', 'PB', 'VTHOO', 'ZM', 'SVS', 'LB', 'ASA', 'ASA', 'NSE', 'SVS', 'NSM', 'ASA', 'NA', 'VTHOG', 'ZE']
+['PEMP', 'VTHOO', 'BS', 'SVS', 'NA', 'SVS', 'UPI', 'VTHOG', 'KO', 'NSM', 'PB', 'THAO', 'NSM', 'ZM', 'SVS', 'LB', 'ASA', 'ASA', 'NSE', 'SVS', 'RS', 'ASA', 'NA', 'VTHOG', 'ZE']
+0.8
+['Ons', 'het', 'ook', 'ambisieuse', 'doelwitte', 'gestel', 'vir', 'vaardigheidsontwikkeling', 'om', 'addisionele', 'ingenieurs', 'en', 'tegnici', 'te', 'kweek', 'en', 'om', 'die', 'aantal', 'gekwalifiseerde', 'Wiskunde-', 'en', 'Wetenskaponderwysers', 'te', 'vermeerder', '.']
+['PEMP', 'VUOT', 'BS', 'ASA', 'NSM', 'VVHOG', 'SVS', 'NA', 'SVS', 'ASA', 'NSM', 'KN', 'NSM', 'UPI', 'VTHOG', 'KN', 'SVS', 'LB', 'NSE', 'ASA', 'RWD', 'KN', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VUOT', 'BS', 'ASA', 'NSM', 'VVHOG', 'SVS', 'NA', 'SVS', 'ASA', 'NSE', 'KN', 'NSM', 'UPI', 'VTHOG', 'KN', 'SVS', 'LB', 'NSE', 'RS', 'NSM', 'KN', 'NSM', 'UPI', 'VTHOO', 'ZE']
+0.8461538461538461
+['Ons', 'moet', 'verseker', 'dat', 'meer', 'jongmense', 'leerderskappe', 'in', 'die', 'privaat-', 'en', 'openbare', 'sektor', 'betree', '.']
+['PEMP', 'VTUOM', 'VTHOG', 'KO', 'THAO', 'NSM', 'NSM', 'SVS', 'LB', 'RWD', 'KN', 'ASA', 'NSE', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'VTHOG', 'KO', 'THBO', 'THAO', 'NSM', 'SVS', 'LB', 'NSE', 'KN', 'ASA', 'NSE', 'VTHOG', 'ZE']
+0.8
+['Nog', "'n", 'sleuteluitkoms', 'is', 'om', "'n", 'lang', 'en', 'gesonde', 'lewe', 'vir', 'alle', 'Suid-Afrikaners', 'te', 'verseker', '.']
+['BS', 'LO', 'NSE', 'VTHOK', 'SVS', 'LO', 'ASA', 'KN', 'ASA', 'NSE', 'SVS', 'THAO', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['KO', 'LO', 'NSE', 'VTHOK', 'SVS', 'LO', 'ASA', 'KN', 'ASA', 'NSE', 'SVS', 'THAO', 'NSM', 'UPI', 'VTHOG', 'ZE']
+0.9375
+['Ons', 'sal', 'voortgaan', 'om', 'ons', 'gesondheidsorgstelsel', 'te', 'verbeter', '.']
+['PEMP', 'VTUOM', 'VTHSO', 'SVS', 'PEMB', 'NSE', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'VTHSO', 'SVS', 'PEMB', 'NSE', 'UPI', 'VTHOG', 'ZE']
+1.0
+['Dit', 'sluit', 'in', 'die', 'bou', 'en', 'opgradering', 'van', 'hospitale', 'en', 'klinieke', 'en', 'die', 'verdere', 'verbetering', 'van', 'die', 'werksomstandighede', 'van', 'gesondheidswerkers', '.']
+['PDOENP', 'VTHOG', 'UPW', 'LB', 'NA', 'KN', 'NA', 'SVS', 'NSM', 'KN', 'NSM', 'KN', 'LB', 'ASA', 'NSE', 'SVS', 'LB', 'NSM', 'SVS', 'NSM', 'ZE']
+['PDOENP', 'VTHOG', 'SVS', 'LB', 'NA', 'KN', 'NA', 'SVS', 'NSM', 'KN', 'NSM', 'KN', 'LB', 'ASA', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'RS', 'ZE']
+0.8571428571428571
+['Ons', 'het', "'n", 'vennootskap', 'met', 'die', 'Ontwikkelingsbank', 'van', 'Suider-Afrika', '(', 'DBSA', ')', 'gesluit', 'om', 'die', 'funksionaliteit', 'van', 'openbare', 'hospitale', 'en', 'hul', 'distrikskantore', 'te', 'verbeter', '.']
+['PEMP', 'VUOT', 'LO', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'NEE', 'ZPL', 'RL', 'ZPR', 'VVHOG', 'SVS', 'LB', 'NA', 'SVS', 'ASA', 'NSM', 'KN', 'PDMB', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VUOT', 'LO', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'RS', 'ZPL', 'RL', 'ZPR', 'VVHOG', 'SVS', 'LB', 'NSE', 'SVS', 'ASA', 'NSE', 'KN', 'PDMB', 'NSM', 'UPI', 'VTHOG', 'ZE']
+0.88
+['Ons', 'werk', 'ook', 'saam', 'met', 'die', 'DBSA', 'en', 'die', 'Nywerheidsontwikkelingskorporasie', 'in', "'n", 'publiek-private', 'vennootskapsprogramme', 'om', 'hospitale', 'te', 'verbeter', 'en', 'finansiering', 'vir', 'projekte', 'te', 'verskaf', '.']
+['PEMP', 'VTHOO', 'BS', 'UPW', 'SVS', 'LB', 'RL', 'KN', 'LB', 'NSE', 'SVS', 'LO', 'ASA', 'NSM', 'SVS', 'NSM', 'UPI', 'VTHOG', 'KN', 'NA', 'SVS', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTHOO', 'BS', 'BS', 'SVS', 'LB', 'NSE', 'KN', 'LB', 'NSE', 'SVS', 'LO', 'ASA', 'NSE', 'SVS', 'NA', 'UPI', 'VTHOG', 'KN', 'NA', 'SVS', 'NSM', 'UPI', 'VTHOG', 'ZE']
+0.84
+['Agbare', 'lede', ',']
+['ASA', 'NSM', 'ZM']
+['ASA', 'NSM', 'ZM']
+1.0
+['Ons', 'moet', 'die', 'feit', 'in', 'die', 'gesig', 'staar', 'dat', 'lewensverwagting', 'by', 'geboorte', 'van', '60', 'jaar', 'in', '1994', ',', 'tot', 'net', 'onder', '50', 'jaar', 'vandag', ',', 'gedaal', 'het', '.']
+['PEMP', 'VTUOM', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'VTHOG', 'KO', 'NSE', 'SVS', 'NSE', 'SVS', 'RS', 'NSE', 'SVS', 'RS', 'ZM', 'SVS', 'BS', 'SVS', 'RS', 'NSE', 'BS', 'ZM', 'VVHOO', 'VUOT', 'ZE']
+['PEMP', 'VTUOM', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'VTHOG', 'KO', 'NSM', 'SVS', 'RS', 'SVS', 'RS', 'NSE', 'SVS', 'RS', 'ZM', 'SVS', 'BS', 'SVS', 'RS', 'NSE', 'BS', 'ZM', 'NSM', 'VUOT', 'ZE']
+0.8928571428571429
+['Ons', 'doen', 'dus', 'stappe', 'om', 'sterftesyfers', 'onder', 'moeders', 'te', 'verlaag', ',', 'om', 'nuwe', 'MIV-infeksies', 'te', 'verminder', 'en', 'om', 'MIV', 'en', 'tuberkulose', 'effektief', 'te', 'behandel', '.']
+['PEMP', 'VTHOG', 'BS', 'NSM', 'SVS', 'NSM', 'SVS', 'NSM', 'UPI', 'VTHOG', 'ZM', 'SVS', 'ASA', 'NSM', 'UPI', 'VTHOG', 'KN', 'SVS', 'RL', 'KN', 'NA', 'BS', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTHOG', 'BS', 'ASP', 'SVS', 'NA', 'SVS', 'NA', 'UPI', 'VTHOG', 'ZM', 'SVS', 'ASA', 'NSE', 'UPI', 'VTHOG', 'KN', 'SVS', 'RL', 'KN', 'ASA', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.76
+['Ons', 'sal', 'ook', 'babasterftesyfers', 'deur', "'n", 'massiewe', 'immuniseringsprogram', 'verlaag', '.']
+['PEMP', 'VTUOM', 'BS', 'NSM', 'SVS', 'LO', 'ASA', 'NSE', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'BS', 'ASP', 'SVS', 'LO', 'ASA', 'NSE', 'VTHOG', 'ZE']
+0.9
+['Ons', 'sal', 'gesondheidsprogramme', 'in', 'skole', 'herinstel', '.']
+['PEMP', 'VTUOM', 'NSM', 'SVS', 'NSM', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'BS', 'UPW', 'UPI', 'VTHOG', 'ZE']
+0.5714285714285714
+['Ons', 'sal', 'al', 'die', 'ondernemings', 'wat', 'op', 'WÃªreldvigsdag', 'met', 'betrekking', 'tot', 'die', 'voorkoming', 'van', 'nuwe', 'MIV-infeksies', 'en', 'die', 'behandeling', 'daarvan', 'gemaak', 'is', ',', 'implementeer', '.']
+['PEMP', 'VTUOM', 'THAO', 'LB', 'NSM', 'PB', 'SVS', 'NSE', 'SVS', 'NA', 'SVS', 'LB', 'NA', 'SVS', 'ASA', 'NSM', 'KN', 'LB', 'NA', 'PB', 'VVHOG', 'VVUOP', 'ZM', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'THAO', 'LB', 'NSM', 'PB', 'SVS', 'NA', 'SVS', 'NA', 'SVS', 'LB', 'NA', 'SVS', 'ASA', 'NSE', 'KN', 'LB', 'NA', 'PB', 'VVHOG', 'VVUOP', 'ZM', 'VTHOG', 'ZE']
+0.92
+['Intensiewe', 'stappe', 'word', 'geneem', 'om', 'te', 'verseker', 'dat', 'hierdie', 'werk', 'op', 'skedule', 'bly', '.']
+['ASA', 'NSM', 'VTUOP', 'VVHOG', 'SVS', 'UPI', 'VTHOG', 'KO', 'PA', 'NA', 'SVS', 'NSE', 'VTHOO', 'ZE']
+['NSM', 'VTUOM', 'VTUOP', 'VVHOG', 'SVS', 'UPI', 'VTHOG', 'KO', 'PA', 'NA', 'SVS', 'RS', 'VTHOK', 'ZE']
+0.7142857142857143
+['Ons', 'sal', 'ook', 'voortgaan', 'met', 'ons', 'voorbereidings', 'vir', 'die', 'instelling', 'van', "'n", 'nasionale', 'gesondheidsorgversekeringstelsel', '.']
+['PEMP', 'VTUOM', 'BS', 'VTHSO', 'SVS', 'PEMB', 'NSM', 'SVS', 'LB', 'NA', 'SVS', 'LO', 'ASA', 'NSE', 'ZE']
+['PEMP', 'VTUOM', 'BS', 'VTHSO', 'SVS', 'PEMB', 'NSM', 'SVS', 'LB', 'NA', 'SVS', 'LO', 'ASA', 'NSE', 'ZE']
+1.0
+['Mede-Suid-Afrikaners', ',']
+['NSM', 'ZM']
+['NSM', 'ZM']
+1.0
+['Ons', 'werk', 'hard', 'om', 'te', 'verseker', 'dat', 'almal', 'in', 'Suid-Afrika', 'veilig', 'voel', 'en', 'veilig', 'is', '.']
+['PEMP', 'VTHOO', 'BS', 'SVS', 'UPI', 'VTHOG', 'KO', 'PO', 'SVS', 'NEE', 'ASP', 'VTHOK', 'KN', 'ASP', 'VTHOK', 'ZE']
+['PEMP', 'VTHOO', 'BS', 'SVS', 'UPI', 'VTHOG', 'KO', 'PO', 'SVS', 'NEE', 'NEE', 'NEE', 'KN', 'ASP', 'VTHOK', 'ZE']
+0.875
+['Ons', 'sal', 'ons', 'werk', 'uitbrei', 'om', 'ernstige', 'en', 'geweldsmisdade', 'te', 'verminder', 'en', 'te', 'verseker', 'dat', 'die', 'regstelsel', 'doeltreffend', 'funksioneer', '.']
+['PEMP', 'VTUOM', 'PEMB', 'NA', 'VTHSG', 'SVS', 'ASA', 'KN', 'NSM', 'UPI', 'VTHOG', 'KN', 'UPI', 'VTHOG', 'KO', 'LB', 'NSE', 'BS', 'VTHOO', 'ZE']
+['PEMP', 'VTUOM', 'PEMP', 'VTUOM', 'VTHSG', 'SVS', 'RS', 'KN', 'NSM', 'UPI', 'VTHOG', 'KN', 'UPI', 'VTHOG', 'KO', 'LB', 'NSE', 'BS', 'VTHOO', 'ZE']
+0.85
+['Ons', 'implementeer', 'planne', 'om', 'die', 'aantal', 'polisiemanne', 'en', '-vroue', 'oor', 'die', 'volgende', '10', 'jaar', 'met', '10%', 'te', 'vermeerder', '.']
+['PEMP', 'VTHOG', 'NSM', 'SVS', 'LB', 'NSE', 'NSM', 'KN', 'RWD', 'SVS', 'LB', 'ASA', 'RS', 'NSE', 'SVS', 'RS', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTHOG', 'NSM', 'SVS', 'LB', 'NSE', 'RS', 'KN', 'NA', 'SVS', 'LB', 'ASA', 'TRAB', 'NSE', 'SVS', 'RS', 'UPI', 'VTHOO', 'ZE']
+0.7894736842105263
+['Ons', 'het', 'die', 'stryd', 'teen', 'kapings', ',', 'besigheids-', 'en', 'huisrooftogte', 'asook', 'kontakmisdade', 'soos', 'moord', ',', 'verkragting', 'en', 'aanranding', ',', 'as', 'ons', 'topprioriteite', 'geÃ¯dentifiseer', '.']
+['PEMP', 'VUOT', 'LB', 'NA', 'SVS', 'NSM', 'ZM', 'RWD', 'KN', 'NSM', 'KN', 'NSM', 'UPV', 'NA', 'ZM', 'NA', 'KN', 'NA', 'ZM', 'KO', 'PEMB', 'NSM', 'VVHOG', 'ZE']
+['PEMP', 'VUOT', 'LB', 'NA', 'SVS', 'RS', 'ZM', 'RWD', 'KN', 'NSM', 'KN', 'NSM', 'UPV', 'TRBB', 'ZM', 'RWD', 'KN', 'NA', 'ZM', 'KO', 'PEMP', 'VVHOG', 'VTUOP', 'ZE']
+0.75
+['Ons', 'het', 'almal', "'n", 'rol', 'om', 'te', 'speel', '.']
+['PEMP', 'VTHOG', 'PO', 'LO', 'NSE', 'SVS', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VUOT', 'PO', 'LO', 'NSE', 'SVS', 'UPI', 'VTHOG', 'ZE']
+0.8888888888888888
+['Laat', 'ons', 'aan', 'gemeenskapsveiligheidsforums', 'deelneem', '.']
+['VTUOA', 'PEMP', 'SVS', 'NSM', 'VTHSO', 'ZE']
+['VTUOA', 'PEMP', 'SVS', 'RS', 'VTHSO', 'ZE']
+0.8333333333333334
+['Kom', 'ons', 'hou', 'op', 'om', 'gesteelde', 'goedere', 'te', 'koop', '.']
+['VTUOA', 'PEMP', 'VTHOG', 'UPW', 'SVS', 'ASA', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['NSM', 'PEMP', 'VTHOG', 'SVS', 'SVS', 'PDMB', 'NSM', 'UPI', 'VTHOG', 'ZE']
+0.7
+['Laat', 'ons', 'altyd', 'gereed', 'wees', 'om', 'die', 'polisie', 'van', 'inligting', 'oor', 'misdaadaktiwiteite', 'te', 'voorsien', '.']
+['VTUOA', 'PEMP', 'BS', 'ASP', 'VTHOK', 'SVS', 'LB', 'NM', 'SVS', 'NM', 'SVS', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['VTUOA', 'PEMP', 'BS', 'ASP', 'VTHOK', 'SVS', 'LB', 'NA', 'SVS', 'NM', 'SVS', 'NA', 'UPI', 'VTHOG', 'ZE']
+0.8666666666666667
+['Deur', 'saam', 'te', 'werk', 'sal', 'ons', 'misdaad', 'verslaan', '.']
+['SVS', 'UPW', 'UPI', 'VTHOO', 'VTUOM', 'PEMP', 'NSE', 'VTHOG', 'ZE']
+['SVS', 'UPW', 'UPI', 'VTHOG', 'VTUOM', 'PEMP', 'VTUOM', 'VTHOG', 'ZE']
+0.7777777777777778
+['Landsgenote', 'en', 'agbare', 'gaste', ',']
+['NSM', 'KN', 'ASA', 'NSM', 'ZM']
+['NSM', 'KN', 'ASA', 'NSM', 'ZM']
+1.0
+['Die', 'plaaslike', 'regering', 'moet', 'werk', '.']
+['LB', 'ASA', 'NSE', 'VTUOM', 'VTHOO', 'ZE']
+['LB', 'ASA', 'NSE', 'VTUOM', 'VTUOP', 'ZE']
+0.8333333333333334
+['Munisipaliteite', 'moet', 'die', 'voorsiening', 'van', 'behuising', ',', 'water', ',', 'sanitasie', ',', 'elektrisiteit', ',', 'afvalbestuur', 'en', 'paaie', 'verbeter', '.']
+['NSM', 'VTUOM', 'LB', 'NA', 'SVS', 'NA', 'ZM', 'NM', 'ZM', 'NA', 'ZM', 'NM', 'ZM', 'NA', 'KN', 'NSM', 'VTHOG', 'ZE']
+['NSM', 'VTUOM', 'LB', 'NA', 'SVS', 'NA', 'ZM', 'NM', 'ZM', 'NA', 'ZM', 'NM', 'ZM', 'RWD', 'KN', 'NA', 'VTHOG', 'ZE']
+0.8888888888888888
+['Ons', 'het', 'verlede', 'jaar', 'met', 'burgemeesters', 'en', 'munisipale', 'bestuurders', 'vergader', '.']
+['PEMP', 'VUOT', 'ASA', 'NSE', 'SVS', 'NSM', 'KN', 'ASA', 'NSM', 'VTHOO', 'ZE']
+['PEMP', 'VUOT', 'ASA', 'NSE', 'SVS', 'RS', 'KN', 'ASA', 'NSM', 'VTHOG', 'ZE']
+0.8181818181818182
+['Dit', 'het', 'waardevolle', 'insig', 'in', 'die', 'uitdagings', 'op', 'die', 'terrein', 'van', 'plaaslike', 'regering', 'gebied', '.']
+['PDOENP', 'VUOT', 'ASA', 'NSE', 'SVS', 'LB', 'NSM', 'SVS', 'LB', 'NSE', 'SVS', 'ASA', 'NSE', 'VVHOG', 'ZE']
+['PDOENP', 'VUOT', 'ASA', 'NSE', 'SVS', 'LB', 'NSM', 'SVS', 'LB', 'NSE', 'SVS', 'ASA', 'NSE', 'ZPR', 'ZE']
+0.9333333333333333
+['Ons', 'het', 'ook', 'verskeie', 'gemeenskappe', 'en', 'munisipaliteite', 'besoek', ',', 'insluitende', 'Balfour', 'in', 'Mpumalanga', 'en', 'Thembisa', 'in', 'Gauteng', '.']
+['PEMP', 'VUOT', 'BS', 'ASA', 'NSM', 'KN', 'NSM', 'VTHOG', 'ZM', 'SVS', 'NEE', 'SVS', 'NEE', 'KN', 'NEE', 'SVS', 'NEE', 'ZE']
+['PEMP', 'VUOT', 'BS', 'ASA', 'NSM', 'KN', 'NSM', 'VTHOG', 'ZM', 'ASA', 'NSE', 'SVS', 'RS', 'KN', 'NA', 'SVS', 'RS', 'ZE']
+0.7222222222222222
+['Na', 'afloop', 'van', 'die', 'Balfour-besoek', 'het', 'ons', "'n", 'ministeriÃ«le', 'span', ',', 'bestaande', 'uit', 'nege', 'lede', ',', 'gestuur', 'om', 'die', 'gebied', 'te', 'besoek', 'en', 'aandag', 'te', 'skenk', 'aan', 'die', 'kwessies', 'wat', 'deur', 'die', 'gemeenskap', 'geopper', 'is', '.']
+['SVS', 'NA', 'SVS', 'LB', 'NSE', 'VUOT', 'PEMP', 'LO', 'ASA', 'NSE', 'ZM', 'ASP', 'SVS', 'THAB', 'NSM', 'ZM', 'VVHOG', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'KN', 'NA', 'UPI', 'VTHOG', 'SVS', 'LB', 'NSM', 'PB', 'SVS', 'LB', 'NSE', 'VVHOG', 'VVUOP', 'ZE']
+['PDOENP', 'VTHOK', 'SVS', 'LB', 'NSE', 'VUOT', 'PEMP', 'LO', 'ASA', 'NSE', 'ZM', 'NEE', 'UPW', 'ASA', 'NSM', 'ZM', 'NA', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'KN', 'NA', 'UPI', 'VTHOG', 'SVS', 'LB', 'NSM', 'PB', 'SVS', 'LB', 'NSE', 'ASP', 'VTHOK', 'ZE']
+0.7777777777777778
+["'n", 'Hele', 'aantal', 'sake', 'het', 'reeds', 'aandag', 'geniet', '.']
+['LO', 'ASA', 'NSE', 'NSM', 'VUOT', 'BS', 'NA', 'VTHOG', 'ZE']
+['LO', 'ASA', 'NSE', 'VVHOK', 'VUOT', 'BS', 'UPI', 'VTHOG', 'ZE']
+0.7777777777777778
+['Ek', 'het', 'die', 'ministers', 'beveel', 'om', 'die', 'uitstaande', 'aangeleenthede', 'ook', 'op', 'te', 'los', '.']
+['PEENP', 'VUOT', 'LB', 'NSM', 'VTHOG', 'SVS', 'LB', 'ASA', 'NSM', 'BS', 'UPW', 'UPI', 'VTHOG', 'ZE']
+['PEENP', 'VUOT', 'LB', 'RL', 'ZPR', 'SVS', 'LB', 'ASA', 'NSM', 'BS', 'UPW', 'UPI', 'VTHOG', 'ZE']
+0.8571428571428571
+['Ons', 'wil', 'herbeklemtoon', 'dat', 'geen', 'griewe', 'ooit', 'geweld', 'en', 'die', 'vernietiging', 'van', 'eiendom', 'kan', 'regverdig', 'nie', '.']
+['PEMP', 'VTUOM', 'VTHOG', 'KO', 'THAB', 'NSM', 'BS', 'NA', 'KN', 'LB', 'NA', 'SVS', 'NSE', 'VTUOM', 'VTHOG', 'UPO', 'ZE']
+['PEMP', 'VTUOM', 'BS', 'KO', 'THAB', 'NSM', 'KN', 'NA', 'KN', 'LB', 'NA', 'SVS', 'PEMP', 'VTUOM', 'VTUOP', 'UPO', 'ZE']
+0.7647058823529411
+['Ons', 'het', 'wetstoepassingsagentskappe', 'beveel', 'om', 'strenger', 'op', 'te', 'tree', 'teen', 'wetteloosheid', 'in', 'Balfour', 'en', 'ander', 'gebiede', '.']
+['PEMP', 'VUOT', 'NSM', 'VTHOG', 'SVS', 'BV', 'UPW', 'UPI', 'VTHOO', 'SVS', 'NA', 'SVS', 'NEE', 'KN', 'ASA', 'NSM', 'ZE']
+['PEMP', 'VUOT', 'VVHOO', 'VUOT', 'SVS', 'RS', 'UPW', 'UPI', 'VTHOO', 'SVS', 'NA', 'SVS', 'NSM', 'KN', 'ASA', 'NSM', 'ZE']
+0.7647058823529411
+['In', 'Desember', '2009', 'het', 'die', 'Kabinet', "'n", 'omkeerstrategie', 'vir', 'die', 'plaaslike', 'regering', 'goedgekeur', '.']
+['SVS', 'NEE', 'RS', 'VUOT', 'LB', 'NSE', 'LO', 'NSE', 'SVS', 'LB', 'ASA', 'NSE', 'VVHOG', 'ZE']
+['SVS', 'NSE', 'RS', 'VUOT', 'LB', 'NSE', 'LO', 'NSE', 'SVS', 'LB', 'ASA', 'NSE', 'VVHOG', 'ZE']
+0.9285714285714286
+['Dit', 'sal', 'verseker', 'dat', 'die', 'plaaslike', 'regering', 'oor', 'die', 'korrekte', 'bestuurs-', ',', 'administratiewe', 'en', 'tegniese', 'vaardighede', 'beskik', '.']
+['PDOENP', 'VTUOM', 'VTHOG', 'KO', 'LB', 'ASA', 'NSE', 'SVS', 'LB', 'ASA', 'RWD', 'ZM', 'ASA', 'KN', 'ASA', 'NSM', 'VTHOO', 'ZE']
+['PDOENP', 'VTUOM', 'VTHOG', 'KO', 'LB', 'ASA', 'NSE', 'SVS', 'LB', 'ASA', 'NSM', 'ZM', 'RWD', 'KN', 'ASA', 'NSM', 'VTHOO', 'ZE']
+0.8888888888888888
+['Laat', 'ons', 'gedurende', 'hierdie', 'jaar', 'van', 'aksie', 'saamwerk', 'om', 'plaaslike', 'regering', 'almal', 'se', 'besigheid', 'te', 'maak', '.']
+['VTUOA', 'PEMP', 'SVS', 'PA', 'NSE', 'SVS', 'NSE', 'VTHSO', 'SVS', 'ASA', 'NSE', 'PO', 'UPS', 'NSE', 'UPI', 'VTHOG', 'ZE']
+['VTUOA', 'PEMP', 'SVS', 'PA', 'NSE', 'SVS', 'PEMW', 'VTHSO', 'SVS', 'ASA', 'NSE', 'PO', 'UPS', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.9411764705882353
+['Ons', 'werk', 'daaraan', 'om', 'goed', 'geleÃ«', 'informele', 'nedersettings', 'op', 'te', 'gradeer', 'en', 'om', 'teen', '2014', 'aan', 'minstens', '500', '000', 'huishoudings', 'behoorlike', 'dienste', 'en', 'grondbesit', 'te', 'verskaf', '.']
+['PEMP', 'NA', 'PB', 'SVS', 'BS', 'ASP', 'ASA', 'NSM', 'UPW', 'UPI', 'VTHOG', 'KN', 'SVS', 'SVS', 'RS', 'SVS', 'BS', 'RS', 'RS', 'NSM', 'ASA', 'NSM', 'KN', 'NA', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTHOO', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'UPW', 'UPI', 'VTHOG', 'KN', 'SVS', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'RV', 'NSM', 'KN', 'NSM', 'UPI', 'VTHOG', 'ZE']
+0.4074074074074074
+['Ons', 'beplan', 'om', 'meer', 'as', '6', '000', 'hektaar', 'goed', 'geleÃ«', 'openbare', 'grond', 'vir', 'lae-inkomste', 'en', 'bekostigbare', 'behuising', 'opsy', 'te', 'sit', '.']
+['PEMP', 'VTHOG', 'SVS', 'THBO', 'KO', 'RS', 'RS', 'NSE', 'BS', 'ASP', 'ASA', 'NM', 'SVS', 'ASA', 'KN', 'ASA', 'NA', 'SVS', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTHOO', 'SVS', 'THBO', 'KO', 'RS', 'RS', 'RV', 'RV', 'RV', 'RV', 'NM', 'SVS', 'NSM', 'KN', 'NSM', 'KN', 'NSM', 'UPI', 'VTHOG', 'ZE']
+0.5714285714285714
+["'n", 'Nuwe', 'sleutelinisiatief', 'sal', 'wees', 'om', 'mense', 'te', 'akkommodeer', 'wie', 'se', 'salarisse', 'te', 'hoog', 'is', 'om', 'regeringsubsisies', 'te', 'ontvang', ',', 'maar', 'wat', 'te', 'min', 'verdien', 'om', 'vir', "'n", 'normale', 'bankverbandlening', 'te', 'kwalifiseer', '.']
+['LO', 'ASA', 'NSE', 'VTUOM', 'VTHOK', 'SVS', 'NSM', 'UPI', 'VTHOG', 'PB', 'UPS', 'NSM', 'UPI', 'ASP', 'VTHOK', 'SVS', 'NSM', 'UPI', 'VTHOG', 'ZM', 'KN', 'PB', 'UPG', 'THBO', 'VTHOG', 'SVS', 'SVS', 'LO', 'ASA', 'NSE', 'UPI', 'VTHOO', 'ZE']
+['LO', 'ASA', 'NSE', 'VTUOM', 'VTHOK', 'SVS', 'NSM', 'UPI', 'VTHOG', 'PB', 'UPS', 'UPW', 'UPI', 'ASP', 'VTHOK', 'SVS', 'NA', 'UPI', 'VTHOG', 'ZM', 'KN', 'PB', 'UPI', 'VTHOG', 'VVUOP', 'SVS', 'SVS', 'LO', 'ASA', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.8181818181818182
+['Ons', 'sal', "'n", 'waarborgfonds', 'van', 'R1', 'biljoen', 'opsy', 'sit', 'as', 'aansporingsmaatreÃ«l', 'om', 'die', 'private', 'bank', 'en', 'behuisingsektor', 'aan', 'te', 'moedig', 'om', 'nuwe', 'produkte', 'te', 'ontwikkel', 'om', 'in', 'hierdie', 'vraag', 'na', 'behuising', 'te', 'voorsien', '.']
+['PEMP', 'VTUOM', 'LO', 'NSE', 'SVS', 'RS', 'THPB', 'SVS', 'VTHOG', 'KO', 'NSE', 'SVS', 'LB', 'ASA', 'NSE', 'KN', 'NSE', 'UPW', 'UPI', 'VTHOG', 'SVS', 'ASA', 'NSM', 'UPI', 'VTHOG', 'SVS', 'SVS', 'PA', 'NA', 'SVS', 'NA', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'LO', 'NSE', 'SVS', 'RS', 'RV', 'RV', 'RV', 'KO', 'NSM', 'SVS', 'LB', 'ASA', 'NSE', 'KN', 'NSM', 'UPW', 'UPI', 'VTHOG', 'SVS', 'ASA', 'NSM', 'UPI', 'VTHOG', 'SVS', 'SVS', 'PA', 'NSE', 'SVS', 'NA', 'UPI', 'VTHOG', 'ZE']
+0.8235294117647058
+['Landsgenote', ',']
+['NSM', 'ZM']
+['NSM', 'ZM']
+1.0
+['Verlede', 'jaar', 'het', 'ons', 'gesÃª', 'dat', 'mense', 'op', 'die', 'platteland', 'ook', 'die', 'reg', 'het', 'om', 'elektrisiteit', ',', 'water', ',', 'spoeltoilette', 'en', 'paaie', 'te', 'hÃª', '.']
+['ASA', 'NSE', 'VUOT', 'PEMP', 'VVHOG', 'KO', 'NSM', 'SVS', 'LB', 'NSE', 'BS', 'LB', 'NSE', 'VTHOG', 'SVS', 'NM', 'ZM', 'NM', 'ZM', 'NSM', 'KN', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['LB', 'NSE', 'VUOT', 'PEMP', 'THBO', 'KO', 'NSM', 'SVS', 'LB', 'NSE', 'BS', 'LB', 'NSE', 'VUOT', 'SVS', 'NM', 'ZM', 'NM', 'ZM', 'RWD', 'KN', 'NSM', 'UPI', 'VTHOG', 'ZE']
+0.84
+['Ons', 'het', 'gesÃª', 'hulle', 'moet', 'sportsentrums', 'en', 'beter', 'inkopiesentrums', 'hÃª', 'soos', 'diÃ©', 'in', 'die', 'stede', '.']
+['PEMP', 'VUOT', 'VVHOG', 'PDMP', 'VTUOM', 'NSM', 'KN', 'AVA', 'NSM', 'VTHOG', 'UPV', 'PA', 'SVS', 'LB', 'NSM', 'ZE']
+['PEMP', 'VUOT', 'VVHOO', 'PDMP', 'VTUOM', 'NSM', 'KN', 'AVA', 'NSE', 'VTHOG', 'UPV', 'NA', 'SVS', 'LB', 'NSE', 'ZE']
+0.75
+['In', 'hierdie', 'verband', 'het', 'ons', 'in', 'Augustus', 'verlede', 'jaar', 'die', 'eerste', 'loodsterrein', 'van', 'die', 'Omvattende', 'Landelike-ontwikkelingsprogram', 'in', 'Giyani', ',', 'Limpopo', ',', 'geloods', '.']
+['SVS', 'PA', 'NSE', 'VUOT', 'PEMP', 'SVS', 'NEE', 'ASA', 'NSE', 'LB', 'TRAB', 'NSE', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'NEE', 'ZM', 'NEE', 'ZM', 'VVHOG', 'ZE']
+['SVS', 'PA', 'NSE', 'VUOT', 'PEMP', 'SVS', 'RS', 'ASA', 'NSE', 'LB', 'TRAB', 'NSE', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'RS', 'ZM', 'NEE', 'ZM', 'NEE', 'ZE']
+0.8695652173913043
+['Sedertdien', 'is', '231', 'huise', 'gebou', '.']
+['BS', 'VVUOP', 'ASA', 'NSM', 'VVHOG', 'ZE']
+['NSM', 'VTHOK', 'ASP', 'VTHOK', 'UPO', 'ZE']
+0.16666666666666666
+['Vordering', 'is', 'ook', 'gemaak', 'met', 'die', 'voorsiening', 'van', 'infrastruktuur', 'om', 'landbou-ontwikkeling', 'en', 'opleiding', 'vir', 'gemeenskapsleiers', 'te', 'ondersteun', '.']
+['NA', 'VVUOP', 'BS', 'VVHOG', 'SVS', 'LB', 'NA', 'SVS', 'NM', 'SVS', 'NA', 'KN', 'NA', 'SVS', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['NSM', 'VTHOK', 'BS', 'VVHOG', 'SVS', 'LB', 'NA', 'SVS', 'NM', 'SVS', 'NSM', 'KN', 'NA', 'SVS', 'NA', 'UPI', 'VTHOG', 'ZE']
+0.7777777777777778
+['Toegang', 'tot', 'gesondheids-', 'en', 'onderwysgeriewe', 'het', 'verbeter', '.']
+['NA', 'SVS', 'RWD', 'KN', 'NSM', 'VUOT', 'VTHOO', 'ZE']
+['NA', 'SVS', 'NSM', 'KN', 'NSM', 'VUOT', 'VTHOG', 'ZE']
+0.75
+['Ons', 'implementeer', 'tans', 'soortgelyke', 'programme', 'in', 'sewe', 'terreine', 'regoor', 'die', 'land', ',', 'tot', 'voordeel', 'van', '21', 'wyke', '.']
+['PEMP', 'VTHOG', 'BS', 'ASA', 'NSM', 'SVS', 'THAB', 'NSM', 'SVS', 'LB', 'NSE', 'ZM', 'SVS', 'NSE', 'SVS', 'RS', 'NSM', 'ZE']
+['PEMP', 'VTUOM', 'BS', 'ASA', 'NSM', 'SVS', 'PA', 'NSE', 'SVS', 'LB', 'NSE', 'ZM', 'SVS', 'RS', 'SVS', 'RS', 'RS', 'ZE']
+0.7222222222222222
+['Ons', 'beoog', 'om', 'teen', '2014', 'terreine', 'in', '160', 'wyke', 'te', 'hÃª', '.']
+['PEMP', 'VTHOG', 'SVS', 'SVS', 'RS', 'NSM', 'SVS', 'RS', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTHOO', 'SVS', 'SVS', 'RS', 'NSM', 'SVS', 'ASA', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.75
+['Ons', 'mikpunt', 'is', 'dat', '60%', 'van', 'huishoudings', 'in', 'hierdie', 'terreine', 'teen', '2014', 'uit', 'eie', 'produksie', 'in', 'hul', 'voedselbehoeftes', 'sal', 'voorsien', '.']
+['PEMB', 'NSE', 'VTHOK', 'KO', 'RS', 'SVS', 'NSM', 'SVS', 'PA', 'NSM', 'SVS', 'RS', 'SVS', 'ASA', 'NM', 'SVS', 'PDMB', 'NSM', 'VTUOM', 'VTHOO', 'ZE']
+['PEMP', 'VTHOG', 'VVUOP', 'KO', 'NSM', 'SVS', 'NSM', 'SVS', 'PA', 'NSE', 'SVS', 'RS', 'UPW', 'UPI', 'VTHOO', 'SVS', 'PDMB', 'NSM', 'VTUOM', 'VTHOG', 'ZE']
+0.5714285714285714
+['Tree', 'vir', 'tree', 'sal', 'ons', 'dit', 'maak', ',', 'soos', 'die', 'spreekwoord', 'lui', ',', 'landsgenote', ',', 'groot', 'dinge', 'begin', 'met', 'klein', 'treetjies', '.']
+['NSE', 'SVS', 'VTHOO', 'VTUOM', 'PEMP', 'PDOENP', 'VTHOG', 'ZM', 'UPV', 'LB', 'NSE', 'VTHOO', 'ZM', 'NSM', 'ZM', 'ASA', 'NSM', 'VTHOO', 'SVS', 'ASA', 'NSMD', 'ZE']
+['VTHOO', 'SVS', 'PEMP', 'VTUOM', 'PEMP', 'PDOENP', 'VTHOG', 'ZM', 'UPV', 'LB', 'ASA', 'NSM', 'ZM', 'NEE', 'ZM', 'ASA', 'NSM', 'VTHOO', 'SVS', 'ASA', 'NSE', 'ZE']
+0.7272727272727273
+['Ons', 'wil', 'ook', 'grondhervornming', 'en', 'landbou-ondersteuningsprogramme', 'beter', 'integreer', '.']
+['PEMP', 'VTUOM', 'BS', 'NA', 'KN', 'NSM', 'BV', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'BS', 'ASP', 'KN', 'NSM', 'BV', 'VTHOG', 'ZE']
+0.8888888888888888
+['Ons', 'sukses', 'op', 'hierdie', 'terrein', 'sal', 'gemeet', 'word', 'deur', 'die', 'toename', 'in', 'die', 'aantal', 'kleinskaalse', 'boere', 'wat', 'ekonomies', 'lewensvatbaar', 'word', '.']
+['PEMB', 'NA', 'SVS', 'PA', 'NSE', 'VTUOM', 'VVHOG', 'VTUOP', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'ASA', 'NSM', 'PB', 'BS', 'ASP', 'VTHOK', 'ZE']
+['PEMP', 'VTHOK', 'SVS', 'PA', 'NSE', 'VTUOM', 'VVHOG', 'VTUOP', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'RS', 'NSM', 'PB', 'BS', 'VVHOG', 'VTUOP', 'ZE']
+0.7619047619047619
+['Agbare', 'Speaker', 'en', 'Voorsitter', 'van', 'die', 'NROP', ',']
+['ASA', 'NSE', 'KN', 'NSE', 'SVS', 'LB', 'RL', 'ZM']
+['LB', 'NSE', 'KN', 'NSE', 'SVS', 'LB', 'NSE', 'ZM']
+0.75
+['Ons', 'is', 'nie', "'n", 'waterryke', 'land', 'nie', '.']
+['PEMP', 'VTHOK', 'BS', 'LO', 'ASA', 'NSE', 'UPO', 'ZE']
+['PEMP', 'VTHOK', 'BS', 'LO', 'ASA', 'NSE', 'UPO', 'ZE']
+1.0
+['Maar', 'steeds', 'verloor', 'ons', 'baie', 'water', 'deur', 'lekkende', 'pype', 'en', 'onvoldoende', 'infrastruktuur', '.']
+['KN', 'BS', 'VTHOG', 'PEMP', 'THAO', 'NM', 'SVS', 'ASA', 'NSM', 'KN', 'ASA', 'NM', 'ZE']
+['KN', 'BS', 'VTUOA', 'PEMP', 'THAO', 'NM', 'SVS', 'ASA', 'NSE', 'KN', 'ASP', 'VTHOK', 'ZE']
+0.6923076923076923
+['Ons', 'sal', 'maatreÃ«ls', 'instel', 'om', 'ons', 'waterverlies', 'teen', '2014', 'met', 'die', 'helfte', 'te', 'verminder', '.']
+['PEMP', 'VTUOM', 'NSM', 'VTHSG', 'SVS', 'PEMB', 'NSE', 'SVS', 'RS', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'PTENP', 'VVHOO', 'SVS', 'PEMB', 'NSE', 'SVS', 'RS', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.8666666666666667
+['Agbare', 'lede', ',']
+['ASA', 'NSM', 'ZM']
+['ASA', 'NSM', 'ZM']
+1.0
+['As', 'deel', 'van', 'ons', 'pogings', 'om', 'groter', 'ekonomiese', 'groei', 'aan', 'te', 'moedig', ',', 'doen', 'ons', 'stappe', 'om', 'die', 'koste', 'verbonde', 'aan', 'kommunikasie', 'te', 'besnoei', '.']
+['KO', 'NSE', 'SVS', 'PEMB', 'NSM', 'SVS', 'BV', 'ASA', 'NA', 'UPW', 'UPI', 'VTHOG', 'ZM', 'VTHOG', 'PEMP', 'NSM', 'SVS', 'LB', 'NSE', 'ASP', 'SVS', 'NA', 'UPI', 'VTHOG', 'ZE']
+['KO', 'NSE', 'SVS', 'PEMB', 'NSM', 'SVS', 'PDMB', 'ASA', 'NA', 'SVS', 'UPI', 'VTHOG', 'ZM', 'VTHOG', 'PEMB', 'NSM', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'UPW', 'UPI', 'VTHOG', 'ZE']
+0.76
+['Die', 'Suid-Afrikaanse', 'publiek', 'kan', 'uitsien', 'na', "'n", 'selfs', 'verdere', 'verlaging', 'in', 'breÃ«band-', ',', 'selfoon-', ',', 'landlyn-', 'en', 'openbaretelefoon-tariewe', '.']
+['LB', 'ASA', 'NM', 'VTUOM', 'VTHSO', 'SVS', 'LO', 'BS', 'ASA', 'NSE', 'SVS', 'RWD', 'ZM', 'RWD', 'ZM', 'RWD', 'KN', 'NSM', 'ZE']
+['LB', 'ASA', 'NM', 'VTUOM', 'BS', 'SVS', 'LO', 'BS', 'ASA', 'NSE', 'SVS', 'RS', 'ZM', 'NEE', 'ZM', 'RWD', 'KN', 'NA', 'ZE']
+0.7894736842105263
+['Ons', 'sal', 'stappe', 'doen', 'om', 'breÃ«bandspoed', 'te', 'verhoog', 'en', "'n", 'hoÃ«', 'standaard', 'van', 'internet-dienste', 'te', 'verseker', 'wat', 'in', 'ooreenstemming', 'met', 'internasionale', 'norme', 'is', '.']
+['PEMP', 'VTUOM', 'NSM', 'VTHOG', 'SVS', 'NM', 'UPI', 'VTHOG', 'KN', 'LO', 'ASA', 'NSE', 'SVS', 'NSM', 'UPI', 'VTHOG', 'PB', 'SVS', 'NA', 'SVS', 'ASA', 'NSM', 'VTHOK', 'ZE']
+['PEMP', 'VTUOM', 'PTENP', 'VTHOG', 'SVS', 'NA', 'UPI', 'VTHOG', 'KN', 'LO', 'ASA', 'NSE', 'SVS', 'NA', 'UPI', 'VTHOG', 'PB', 'SVS', 'NA', 'SVS', 'ASA', 'NSE', 'VTHOK', 'ZE']
+0.8333333333333334
+['Mede-Suid-Afrikaners']
+['NSM']
+['NSM']
+1.0
+['Hierdie', 'regering', 'sal', 'verseker', 'dat', 'ons', 'omgewingsbates', 'en', 'natuurlike', 'hulpbronne', 'goed', 'beskerm', 'en', 'deurentyd', 'verbeter', 'word', '.']
+['PA', 'NSE', 'VTUOM', 'VTHOG', 'KO', 'PEMB', 'NSM', 'KN', 'ASA', 'NSM', 'BS', 'VTHOG', 'KN', 'BS', 'VTHOG', 'VTUOP', 'ZE']
+['PA', 'NSE', 'VTUOM', 'VTHOG', 'KO', 'PEMB', 'NSE', 'KN', 'ASA', 'NSM', 'UPI', 'VTHOG', 'KN', 'NA', 'VTHOG', 'VTUOP', 'ZE']
+0.8235294117647058
+['Saam', 'met', 'BrasiliÃ«', ',', 'IndiÃ«', 'en', 'China', ',', 'en', 'in', 'samewerking', 'met', 'die', 'Verenigde', 'State', ',', 'wat', 'die', 'ontwikkelde', 'wÃªreld', 'verteenwoordig', ',', 'het', 'ons', "'n", 'wesenlike', 'bydrae', 'gelewer', 'tot', 'die', 'ooreenkoms', 'wat', 'in', 'Desember', 'verlede', 'jaar', 'by', 'die', 'Klimaatberaad', 'in', 'Kopenhagen', 'aanvaar', 'is', '.']
+['BS', 'SVS', 'NEE', 'ZM', 'NEE', 'KN', 'NEE', 'ZM', 'KN', 'SVS', 'NA', 'SVS', 'LB', 'ASA', 'NSM', 'ZM', 'PB', 'LB', 'ASA', 'NSE', 'VTHOG', 'ZM', 'VUOT', 'PEMP', 'LO', 'ASA', 'NSE', 'VVHOG', 'SVS', 'LB', 'NSE', 'PB', 'SVS', 'NEE', 'ASA', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'NEE', 'VTHOG', 'VVUOP', 'ZE']
+['NA', 'SVS', 'RS', 'ZM', 'RWD', 'KN', 'NEE', 'ZM', 'KN', 'SVS', 'NA', 'SVS', 'LB', 'ASA', 'NSM', 'ZM', 'PB', 'LB', 'ASA', 'NSE', 'VTHOG', 'ZM', 'VUOT', 'PEMP', 'LO', 'ASA', 'NSE', 'VVHOG', 'SVS', 'LB', 'NSE', 'PB', 'SVS', 'RS', 'ASA', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'NA', 'VTHOG', 'VVUOP', 'ZE']
+0.8863636363636364
+['Alhoewel', 'dit', 'nie', 'ver', 'genoeg', 'gaan', 'nie', ',', 'is', 'dit', 'tog', "'n", 'belangrike', 'stap', 'in', 'die', 'regte', 'rigting', ',', 'aangesien', 'dit', 'alle', 'lande', 'daartoe', 'verbind', 'om', 'op', 'klimaatsverandering', 'te', 'reageer', '.']
+['KO', 'PDOENP', 'BS', 'BS', 'BS', 'VTHOO', 'UPO', 'ZM', 'VTHOK', 'PDOENP', 'BS', 'LO', 'ASA', 'NSE', 'SVS', 'LB', 'ASA', 'NSE', 'ZM', 'KO', 'PDOENP', 'THAO', 'NSM', 'PB', 'VTHOG', 'SVS', 'SVS', 'NA', 'UPI', 'VTHOO', 'ZE']
+['KO', 'PDOENP', 'BS', 'BS', 'BS', 'VTHOO', 'UPO', 'ZM', 'VTHOK', 'PDOENP', 'VVHOK', 'LO', 'ASA', 'NSE', 'SVS', 'LB', 'ASA', 'NSM', 'ZM', 'KO', 'PDOENP', 'THAO', 'NSM', 'PB', 'VTHSO', 'SVS', 'SVS', 'UPW', 'UPI', 'VTHOO', 'ZE']
+0.8709677419354839
+['Ons', 'sal', 'harder', 'met', 'ons', 'internasionale', 'eweknieÃ«', 'moet', 'saamwerk', 'om', "'n", 'wettig', 'bindende', 'verdrag', 'te', 'beding', '.']
+['PEMP', 'VTUOM', 'BV', 'SVS', 'PEMB', 'ASA', 'NSM', 'VTUOM', 'VTHSO', 'SVS', 'LO', 'BS', 'ASA', 'NSE', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'BS', 'SVS', 'PEMB', 'ASA', 'NSE', 'VTUOM', 'VTHSO', 'SVS', 'LO', 'ASA', 'NSE', 'ASP', 'UPI', 'VTHOG', 'ZE']
+0.7058823529411765
+['As', 'Suid-Afrika', ',', 'het', 'ons', 'ons', 'vrywillig', 'verbind', 'tot', 'spesifieke', 'uitlaatgas-verlagingsteikens', ',', 'en', 'ons', 'sal', 'aanhou', 'werk', 'aan', 'ons', 'langtermynstrategie', 'om', 'klimaatsverandering', 'teen', 'te', 'werk', '.']
+['KO', 'NEE', 'ZM', 'VUOT', 'PEMP', 'PEMW', 'BS', 'VTHOG', 'SVS', 'ASA', 'NSM', 'ZM', 'KN', 'PEMP', 'VTUOM', 'VTHSO', 'VTHOO', 'SVS', 'PEMB', 'NSE', 'SVS', 'NA', 'UPW', 'UPI', 'VTHOG', 'ZE']
+['KO', 'NEE', 'ZM', 'VUOT', 'PEMP', 'PEMB', 'NSE', 'VTHOG', 'SVS', 'ASA', 'NSM', 'ZM', 'KN', 'PEMP', 'VTUOM', 'PTENP', 'NA', 'SVS', 'PEMB', 'NSE', 'SVS', 'NA', 'SVS', 'UPI', 'VTHOO', 'ZE']
+0.7692307692307693
+['Agbare', 'lede', ',']
+['ASA', 'NSM', 'ZM']
+['ASA', 'NSM', 'ZM']
+1.0
+['Ons', 'sal', 'harder', 'werk', 'om', 'Suid-Afrika', 'se', 'belange', 'wÃªreldwyd', 'te', 'bevorder', '.']
+['PEMP', 'VTUOM', 'BV', 'VTHOO', 'SVS', 'NEE', 'UPS', 'NSM', 'BS', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'BS', 'VTHOO', 'SVS', 'NEE', 'UPS', 'TRAB', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.75
+['Ons', 'sal', 'pogings', 'ondersteun', 'om', 'die', 'politieke', 'en', 'ekonomiese', 'integrasie', 'van', 'die', 'Suider-Afrikaanse', 'Ontwikkelingsgemeenskap-', '(', 'SAOG', ')', 'streek', 'te', 'bespoedig', 'en', 'intra-streekhandel', 'en', 'beleggings', 'te', 'bevorder', '.']
+['PEMP', 'VTUOM', 'NSM', 'VTHOG', 'SVS', 'LB', 'ASA', 'KN', 'ASA', 'NA', 'SVS', 'LB', 'ASA', 'RWD', 'ZPL', 'RL', 'ZPR', 'NSE', 'UPI', 'VTHOG', 'KN', 'NA', 'KN', 'NSM', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'PTENP', 'VTHOG', 'SVS', 'LB', 'ASA', 'KN', 'ASA', 'NA', 'SVS', 'LB', 'ASA', 'NSE', 'ZPL', 'RL', 'ZPR', 'UPW', 'UPI', 'VTHOG', 'KN', 'NSM', 'KN', 'NSM', 'UPI', 'VTHOG', 'ZE']
+0.8518518518518519
+['Suid-Afrika', 'gaan', 'voort', 'om', "'n", 'toonaangewende', 'rol', 'te', 'speel', 'in', 'kontinentale', 'pogings', 'om', 'die', 'Afrika', 'Unie', 'en', 'sy', 'organe', 'te', 'versterk', 'en', 'na', 'eenheid', 'te', 'streef', '.']
+['NEE', 'VTHOO', 'UPW', 'SVS', 'LO', 'ASA', 'NSE', 'UPI', 'VTHOG', 'SVS', 'ASA', 'NSM', 'SVS', 'LB', 'NEE', 'NSE', 'KN', 'PDHEB', 'NSE', 'UPI', 'VTHOG', 'KN', 'SVS', 'NA', 'UPI', 'VTHOO', 'ZE']
+['PEMP', 'VTUOM', 'VTUOP', 'SVS', 'LO', 'ASA', 'NSE', 'UPI', 'VTHOG', 'SVS', 'ASA', 'NSM', 'SVS', 'LB', 'NEE', 'NEE', 'KN', 'PDVENP', 'NA', 'UPI', 'VTHOG', 'KN', 'SVS', 'NA', 'UPI', 'VTHOG', 'ZE']
+0.7407407407407407
+['Ons', 'sal', 'ons', 'energie', 'daarop', 'toespits', 'om', 'die', 'Nuwe', 'Vennootskap', 'vir', 'Afrika', 'se', 'Ontwikkeling', '(', 'Nepad', ')', 'te', 'laat', 'herleef', ',', 'as', "'n", 'strategie', 'vir', 'ekonomiese', 'ontwikkeling', 'op', 'die', 'vasteland', '.']
+['PEMP', 'VTUOM', 'PEMB', 'NM', 'PB', 'VTHSG', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'NEE', 'UPS', 'NA', 'ZPL', 'RK', 'ZPR', 'UPI', 'VTUOA', 'VTHOG', 'ZM', 'KO', 'LO', 'NSE', 'SVS', 'ASA', 'NA', 'SVS', 'LB', 'NSE', 'ZE']
+['PEMP', 'VTUOM', 'PEMP', 'VTUOM', 'PTENP', 'NA', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'NEE', 'UPS', 'NA', 'ZPL', 'RL', 'ZPR', 'UPI', 'VTUOA', 'VTHOG', 'ZM', 'KO', 'LO', 'NSE', 'SVS', 'ASA', 'NA', 'SVS', 'LB', 'NSE', 'ZE']
+0.8387096774193549
+['Mede-Suid-Afrikaners', ',']
+['NSM', 'ZM']
+['NSM', 'ZM']
+1.0
+['Die', 'Staatsdiens', 'moet', 'reageer', 'op', 'die', 'beroep', 'om', 'hierdie', 'termyn', 'deur', 'vinniger', 'optrede', 'en', 'beter', 'prestasie', 'deur', 'die', 'staat', 'te', 'laat', 'kenmerk', '.']
+['LB', 'NSE', 'VTUOM', 'VTHOO', 'SVS', 'LB', 'NSE', 'SVS', 'PA', 'NSE', 'SVS', 'AVA', 'NSE', 'KN', 'AVA', 'NSE', 'SVS', 'LB', 'NSE', 'UPI', 'VTUOA', 'VTHOG', 'ZE']
+['LB', 'NSE', 'VTUOM', 'VTUOP', 'SVS', 'LB', 'NSE', 'SVS', 'PA', 'NSE', 'SVS', 'PA', 'NSE', 'KN', 'AVA', 'NSE', 'SVS', 'LB', 'NSE', 'UPI', 'VTUOA', 'VTHOG', 'ZE']
+0.9130434782608695
+['Ons', 'vereis', 'uitnemendheid', 'en', 'harde', 'werk', '.']
+['PEMP', 'VTHOG', 'NA', 'KN', 'ASA', 'NA', 'ZE']
+['PEMP', 'VTHOG', 'NSM', 'KN', 'PDVENP', 'VTHOO', 'ZE']
+0.5714285714285714
+['Ons', 'benodig', 'staatsamptenare', 'wat', 'toegewyd', 'en', 'bekwaam', 'is', 'en', 'wat', 'na', 'landsburgers', 'se', 'behoeftes', 'omsien', '.']
+['PEMP', 'VTHOG', 'NSM', 'PB', 'ASP', 'KN', 'ASP', 'VTHOK', 'KN', 'PB', 'SVS', 'NSM', 'UPS', 'NSM', 'VTHSO', 'ZE']
+['PEMP', 'VTHOG', 'NSM', 'PB', 'NSE', 'KN', 'ASP', 'VTHOK', 'KN', 'PB', 'SVS', 'PA', 'UPS', 'RV', 'RV', 'ZE']
+0.75
+['Die', 'Regering', 'werk', 'reeds', 'aan', 'die', 'ontwikkeling', 'en', 'implementering', 'van', "'n", 'staatsdiens-ontwikkelingsprogram', ',', 'wat', 'die', 'norme', 'en', 'standaarde', 'vir', 'staatsamptenare', 'in', 'alle', 'sfere', 'sal', 'bepaal', '.']
+['LB', 'NSE', 'VTHOO', 'BS', 'SVS', 'LB', 'NA', 'KN', 'NA', 'SVS', 'LO', 'NSE', 'ZM', 'PB', 'LB', 'NSM', 'KN', 'NSM', 'SVS', 'NSM', 'SVS', 'THAO', 'NSM', 'VTUOM', 'VTHOG', 'ZE']
+['LB', 'NSE', 'VTHOO', 'BS', 'SVS', 'LB', 'NA', 'KN', 'NA', 'SVS', 'LO', 'NSE', 'ZM', 'PB', 'LB', 'NSE', 'KN', 'NSM', 'SVS', 'NSM', 'SVS', 'THAO', 'NSM', 'VTUOM', 'VTHOG', 'ZE']
+0.9615384615384616
+['Agbare', 'Lede', ',']
+['ASA', 'NSM', 'ZM']
+['ASA', 'NSM', 'ZM']
+1.0
+['Ons', 'sit', 'ons', 'pogings', 'voort', 'om', 'korrupsie', 'en', 'bedrog', 'in', 'verkrygings-', 'en', 'tenderprosesse', 'uit', 'te', 'wis', ',', 'asook', 'in', 'aansoeke', 'om', 'bestuurderslisensies', ',', 'maatskaplike', 'toelaes', 'en', 'identiteitsdokumente', ',', 'om', 'net', "'n", 'paar', 'te', 'noem', '.']
+['PEMP', 'VTHOG', 'PEMB', 'NSM', 'UPW', 'SVS', 'NA', 'KN', 'NA', 'SVS', 'RWD', 'KN', 'NSM', 'UPW', 'UPI', 'VTHOG', 'ZM', 'KN', 'SVS', 'NSM', 'SVS', 'NSM', 'ZM', 'ASA', 'NSM', 'KN', 'NSM', 'ZM', 'SVS', 'BS', 'LO', 'RO', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'PEMP', 'VTUOM', 'VTUOP', 'SVS', 'RS', 'KN', 'NA', 'SVS', 'NSM', 'KN', 'NSM', 'UPW', 'UPI', 'VTHOG', 'ZM', 'KN', 'SVS', 'NSM', 'SVS', 'RS', 'ZM', 'ASA', 'NSM', 'KN', 'NSM', 'ZM', 'SVS', 'BS', 'LO', 'THAO', 'UPI', 'VTHOG', 'ZE']
+0.7714285714285715
+['Ons', 'is', 'tevrede', 'met', 'die', 'vordering', 'van', 'die', 'regering', 'op', 'sommige', 'terreine', '.']
+['PEMP', 'VTHOK', 'ASP', 'SVS', 'LB', 'NA', 'SVS', 'LB', 'NSE', 'SVS', 'THAO', 'NSM', 'ZE']
+['PEMP', 'VTHOK', 'ASP', 'SVS', 'LB', 'NA', 'SVS', 'LB', 'NSE', 'SVS', 'THAO', 'NSM', 'ZE']
+1.0
+['Hierdie', 'week', 'het', 'ons', '32', '687', 'onregmatige', 'maatskapliketoelaagbetalings', 'opgeskort', ',', 'ter', 'waarde', 'van', 'R180', 'miljoen', '.']
+['PA', 'NSE', 'VUOT', 'PEMP', 'RS', 'RS', 'ASA', 'NSM', 'VVHOG', 'ZM', 'SVS', 'NSE', 'SVS', 'RS', 'THPB', 'ZE']
+['PA', 'NSE', 'VUOT', 'PEMP', 'NEE', 'NEE', 'NEE', 'NEE', 'NEE', 'ZM', 'ASA', 'NSE', 'SVS', 'RS', 'THPB', 'ZE']
+0.625
+['Ons', 'Inter-MinisteriÃ«le', 'Komitee', 'op', 'Korrupsie', 'ondersoek', 'maniere', 'om', 'korrupsie', 'doelgerig', 'die', 'nek', 'in', 'te', 'slaan', '.']
+['PEMB', 'ASA', 'NSE', 'SVS', 'NA', 'VTHOG', 'NSM', 'SVS', 'NA', 'BS', 'LB', 'NSE', 'UPW', 'UPI', 'VTHOG', 'ZE']
+['PEMP', 'VTHOG', 'NSM', 'SVS', 'NSM', 'KN', 'NSM', 'SVS', 'PA', 'NSE', 'LB', 'NSE', 'UPW', 'UPI', 'VTHOG', 'ZE']
+0.5625
+['Deur', 'saam', 'te', 'werk', 'kan', 'ons', 'meer', 'doen', '.']
+['SVS', 'UPW', 'UPI', 'VTHOO', 'VTUOM', 'PEMP', 'THBO', 'VTHOG', 'ZE']
+['SVS', 'UPW', 'UPI', 'VTHOG', 'VTUOM', 'PEMP', 'THBO', 'VTHOG', 'ZE']
+0.8888888888888888
+['Landsgenote', ',']
+['NSM', 'ZM']
+['NSM', 'ZM']
+1.0
+['Soos', 'u', 'weet', ',', 'het', 'ons', 'die', 'PresidensiÃ«le', 'Klagtelyn', 'ingestel', 'om', 'die', 'regering', 'en', 'die', 'Presidensie', 'meer', 'toeganklik', 'vir', 'die', 'publiek', 'te', 'maak', 'en', 'om', 'te', 'help', 'om', 'blokkasies', 'in', 'dienslewering', 'uit', 'die', 'weg', 'te', 'ruim', '.']
+['UPV', 'PTENP', 'VTHOO', 'ZM', 'VUOT', 'PEMP', 'LB', 'ASA', 'NSE', 'VVHOG', 'SVS', 'LB', 'NSE', 'KN', 'LB', 'NSE', 'THBO', 'BS', 'SVS', 'LB', 'NM', 'UPI', 'VTHOG', 'KN', 'SVS', 'UPI', 'VTUOA', 'SVS', 'NSM', 'SVS', 'NA', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOO', 'ZE']
+['KO', 'PTENP', 'VTHOO', 'ZM', 'VUOT', 'PEMP', 'LB', 'NSE', 'ASP', 'VTHOK', 'SVS', 'LB', 'NSE', 'KN', 'LB', 'NSE', 'THBO', 'ASP', 'SVS', 'LB', 'NM', 'UPI', 'VTHOG', 'KN', 'SVS', 'UPI', 'VTUOA', 'SVS', 'NA', 'SVS', 'NA', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOO', 'ZE']
+0.8378378378378378
+['Die', 'klagtelyn', 'verteenwoordig', 'ons', 'vasberadenheid', 'om', 'dinge', 'anders', 'in', 'die', 'regering', 'te', 'doen', '.']
+['LB', 'NSE', 'VTHOG', 'PEMB', 'NA', 'SVS', 'NSM', 'BS', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'ZE']
+['LB', 'NSE', 'VTHOG', 'PEMB', 'NSE', 'SVS', 'RS', 'ASP', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.7857142857142857
+['Dit', 'het', "'n", 'verskil', 'aan', 'baie', 'Suid-Afrikaners', 'se', 'lewens', 'gemaak', '.']
+['PDOENP', 'VUOT', 'LO', 'NSE', 'SVS', 'THAO', 'NSM', 'UPS', 'NSM', 'VVHOG', 'ZE']
+['PDOENP', 'VUOT', 'LO', 'NSE', 'SVS', 'THAO', 'NSM', 'UPS', 'PTEDP', 'VVHOG', 'ZE']
+0.9090909090909091
+['Ons', 'kan', 'mev', 'Buziwe', 'Ngaleka', 'van', 'Mount', 'Frere', 'hier', 'noem', ',', 'wie', 'se', 'oproep', 'oor', 'haar', 'oorlede', 'man', 'se', 'pensioen', 'die', 'eerste', 'oproep', 'was', 'wat', 'ons', 'op', 'die', 'eerste', 'dag', 'van', 'die', 'klagtelyn', 'geneem', 'het', '.']
+['PEMP', 'VTUOM', 'RA', 'NEE', 'NEE', 'SVS', 'NEE', 'NEE', 'BS', 'VTHOG', 'ZM', 'PB', 'UPS', 'NSE', 'SVS', 'PDVEB', 'ASA', 'NSE', 'UPS', 'NSE', 'LB', 'TRAB', 'NSE', 'VVHOK', 'PB', 'PEMP', 'SVS', 'LB', 'TRAB', 'NSE', 'SVS', 'LB', 'NSE', 'VVHOG', 'VUOT', 'ZE']
+['PEMP', 'VTUOM', 'BS', 'ASA', 'NSE', 'SVS', 'ASA', 'NSE', 'BS', 'VTHOG', 'ZM', 'PB', 'UPS', 'NSE', 'SVS', 'PDVEB', 'RV', 'RV', 'UPS', 'NSE', 'LB', 'TRAB', 'NSE', 'VVHOK', 'PB', 'PEMP', 'SVS', 'LB', 'TRAB', 'NSE', 'SVS', 'LB', 'NSE', 'VVHOG', 'VUOT', 'ZE']
+0.8055555555555556
+['Sy', 'is', 'vanaand', 'hier', 'saam', 'met', 'ons', '.']
+['PDVENP', 'VTHOK', 'BS', 'BS', 'BS', 'SVS', 'PEMP', 'ZE']
+['PDOENP', 'VTHOK', 'BS', 'BS', 'BS', 'SVS', 'PEMB', 'ZE']
+0.75
+['Ons', 'het', 'ook', 'mnr', 'Nkululeko', 'Cele', 'hier', 'by', 'ons', ',', 'wat', 'bygestaan', 'is', 'om', 'sy', 'identieitsdokument', 'te', 'kry', 'sodat', 'hy', 'by', 'die', 'Tshwane', 'Universiteit', 'van', 'Tegnologie', 'kon', 'inskryf', '.']
+['PEMP', 'VTHOG', 'BS', 'RA', 'NEE', 'NEE', 'BS', 'SVS', 'PEMP', 'ZM', 'PB', 'VVHOG', 'VVUOP', 'SVS', 'PDHEB', 'NSE', 'UPI', 'VTHOG', 'KO', 'PDHENP', 'SVS', 'LB', 'NEE', 'NSE', 'SVS', 'NA', 'VVUOM', 'VTHSO', 'ZE']
+['PEMP', 'VUOT', 'BS', 'BS', 'ASA', 'NSE', 'BS', 'SVS', 'PEMP', 'ZM', 'PB', 'ASP', 'VTHOK', 'SVS', 'PDHEB', 'NSE', 'UPI', 'VTHOG', 'KO', 'PDHENP', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'RS', 'VVUOM', 'VTHSG', 'ZE']
+0.6896551724137931
+['Dit', 'is', 'net', 'twee', 'van', 'die', 'talle', 'suksesstories', '.']
+['PDOENP', 'VTHOK', 'BS', 'THNB', 'UPD', 'LB', 'THAO', 'NSM', 'ZE']
+['PDOENP', 'VTHOK', 'BS', 'THAB', 'UPD', 'LB', 'THAO', 'NSM', 'ZE']
+0.8888888888888888
+['Uit', 'hierdie', 'en', 'ander', 'voorbeelde', 'het', 'ons', 'swakhede', 'geÃ¯dentifiseer', 'wat', 'deur', 'die', 'onderskeie', 'regeringsfere', 'reggestel', 'moet', 'word', '.']
+['SVS', 'PA', 'KN', 'ASA', 'NSM', 'VUOT', 'PEMP', 'NSM', 'VVHOG', 'PB', 'SVS', 'LB', 'ASA', 'NSM', 'VVHOG', 'VTUOM', 'VTUOP', 'ZE']
+['NSM', 'PA', 'KN', 'ASA', 'NSM', 'VUOT', 'PEMP', 'RV', 'RV', 'PB', 'SVS', 'LB', 'ASA', 'KN', 'NSM', 'VTUOM', 'VTUOP', 'ZE']
+0.7222222222222222
+['Deur', 'die', 'Speaker', 'het', 'ons', "'n", 'veelparty-afvaardiging', 'van', 'die', 'Parlement', 'uitgenooi', 'om', 'die', 'oproepsentrum', 'te', 'besoek', ',', 'sodat', "LP's", 'eerstehandse', 'ervaring', 'kan', 'kry', 'van', 'die', 'werk', 'wat', 'gedoen', 'word', '.']
+['SVS', 'LB', 'NSE', 'VUOT', 'PEMP', 'LO', 'NSE', 'SVS', 'LB', 'NSE', 'VVHOG', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'ZM', 'KO', 'NSM', 'ASA', 'NA', 'VTUOM', 'VTHOG', 'SVS', 'LB', 'NA', 'PB', 'VVHOG', 'VTUOP', 'ZE']
+['SVS', 'LB', 'NSE', 'VUOT', 'PEMP', 'LO', 'NSE', 'SVS', 'LB', 'NSE', 'RS', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'ZM', 'RV', 'RV', 'RV', 'RV', 'VTUOM', 'VTHOG', 'SVS', 'LB', 'NA', 'PB', 'VVHOG', 'VTUOP', 'ZE']
+0.8333333333333334
+['Landsgenote', 'en', 'vriende', ',']
+['NSM', 'KN', 'NSM', 'ZM']
+['NSM', 'KN', 'NSM', 'ZM']
+1.0
+['Ek', 'het', "'n", 'uiteensetting', 'gegee', 'van', 'die', 'hoofelemente', 'van', 'ons', 'planne', 'vir', '2010', ',', 'ons', 'kollektiewe', 'verbintenis', 'as', 'regering', 'teenoor', 'die', 'mense', 'van', 'Suid-Afrika', '.']
+['PEENP', 'VUOT', 'LO', 'NSE', 'VVHOG', 'SVS', 'LB', 'NSM', 'SVS', 'PEMB', 'NSM', 'SVS', 'RS', 'ZM', 'PEMB', 'ASA', 'NSE', 'KO', 'NSE', 'SVS', 'LB', 'NSM', 'SVS', 'NEE', 'ZE']
+['PEENP', 'VUOT', 'LO', 'NSE', 'VVHOG', 'SVS', 'LB', 'NSE', 'SVS', 'PEMB', 'NSM', 'SVS', 'RS', 'ZM', 'PEMB', 'NSE', 'ASP', 'KO', 'NSE', 'SVS', 'LB', 'NSM', 'SVS', 'NEE', 'ZE']
+0.88
+['Die', 'Staatsrede', 'bied', "'n", 'breÃ«', 'oorsig', 'oor', 'ons', 'aksieplan', '.']
+['LB', 'NSE', 'VTHOG', 'LO', 'ASA', 'NSE', 'SVS', 'PEMB', 'NSE', 'ZE']
+['LB', 'NSE', 'VTHOG', 'LO', 'ASA', 'NSE', 'SVS', 'PEMB', 'NSE', 'ZE']
+1.0
+['Ministers', 'sal', 'die', 'details', 'in', 'hul', 'onderskeie', 'begrotingsredes', 'verskaf', '.']
+['NSM', 'VTUOM', 'LB', 'NSM', 'SVS', 'PDMB', 'ASA', 'NSM', 'VTHOG', 'ZE']
+['NSM', 'VTUOM', 'LB', 'NSE', 'SVS', 'PDMB', 'ASA', 'NSE', 'VTHOG', 'ZE']
+0.8
+['Agbare', 'lede', ',', 'mede-Suid-Afrikaners', ',']
+['ASA', 'NSM', 'ZM', 'NSM', 'ZM']
+['ASA', 'NSM', 'ZM', 'NEE', 'ZM']
+0.8
+['In', 'November', 'vanjaar', 'vier', 'ons', 'die', '150ste', 'herdenking', 'van', 'die', 'aankoms', 'van', 'die', 'IndiÃ«rs', 'in', 'Suid-Afrika', '.']
+['SVS', 'NEE', 'BS', 'VTHOG', 'PEMP', 'LB', 'RS', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NSM', 'SVS', 'NEE', 'ZE']
+['SVS', 'RV', 'RV', 'RV', 'PEMP', 'LB', 'ASA', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'NEE', 'ZE']
+0.7058823529411765
+['Dit', 'bied', "'n", 'geleentheid', 'om', 'erkenning', 'te', 'gee', 'aan', 'die', 'belangrike', 'bydrae', 'van', 'die', 'Indiese', 'gemeenskap', 'op', 'die', 'gebied', 'van', 'arbeid', ',', 'die', 'sakesektor', ',', 'wetenskap', ',', 'sport', ',', 'godsdiens', ',', 'kuns', 'en', 'die', 'bereiking', 'en', 'konsolidasie', 'van', 'ons', 'demokrasie', '.']
+['PDOENP', 'VTHOG', 'LO', 'NSE', 'SVS', 'NA', 'UPI', 'VTHOG', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'NA', 'ZM', 'LB', 'NSE', 'ZM', 'NA', 'ZM', 'NM', 'ZM', 'NSE', 'ZM', 'NA', 'KN', 'LB', 'NA', 'KN', 'NA', 'SVS', 'PEMB', 'NSE', 'ZE']
+['PDOENP', 'VTHOG', 'LO', 'NSE', 'SVS', 'NA', 'UPI', 'VTHOG', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'LB', 'NSE', 'SVS', 'RS', 'ZM', 'LB', 'NSE', 'ZM', 'NEE', 'ZM', 'NEE', 'ZM', 'NEE', 'ZM', 'RWD', 'KN', 'LB', 'NA', 'KN', 'NA', 'SVS', 'PEMB', 'NSE', 'ZE']
+0.8780487804878049
+['Landsgenote', 'en', 'vriende', ',']
+['NSM', 'KN', 'NSM', 'ZM']
+['NSM', 'KN', 'NSM', 'ZM']
+1.0
+['Ek', 'wil', 'weer', 'van', 'hierdie', 'geleentheid', 'gebruik', 'maak', 'om', 'ons', 'almal', 'se', 'diepe', 'meegevoel', 'te', 'betuig', 'teenoor', 'die', 'Regering', 'en', 'die', 'mense', 'van', 'Haiti', 'met', 'die', 'enorme', 'tragedie', 'wat', 'hulle', 'getref', 'het', '.']
+['PEENP', 'VTUOM', 'BS', 'SVS', 'PA', 'NSE', 'NA', 'VTHOG', 'SVS', 'PEMP', 'PO', 'UPS', 'ASA', 'NA', 'UPI', 'VTHOG', 'SVS', 'LB', 'NSE', 'KN', 'LB', 'NSM', 'SVS', 'NEE', 'SVS', 'LB', 'ASA', 'NSE', 'PB', 'PDMP', 'VVHOG', 'VUOT', 'ZE']
+['PEENP', 'VTUOM', 'BS', 'SVS', 'PA', 'NSE', 'VTHOG', 'VTHOG', 'SVS', 'PEMP', 'PO', 'UPS', 'ASA', 'NSE', 'UPI', 'VTHOG', 'SVS', 'LB', 'NSE', 'KN', 'LB', 'NSM', 'SVS', 'NA', 'SVS', 'LB', 'ASA', 'NSM', 'PB', 'PDMP', 'VVHOG', 'VUOT', 'ZE']
+0.8787878787878788
+['Ons', 'is', 'bly', 'dat', 'ons', 'reddingspanne', 'hulle', 'kon', 'gaan', 'bystaan', '.']
+['PEMP', 'VTHOK', 'ASP', 'KO', 'PEMB', 'NSM', 'PDMP', 'VVUOM', 'VTUOM', 'VTHSG', 'ZE']
+['PEMP', 'VTHOK', 'ASP', 'KO', 'PEMB', 'NSE', 'PDMP', 'VVUOM', 'VTUOM', 'VTUOP', 'ZE']
+0.8181818181818182
+['Ek', 'wil', 'graag', 'besondere', 'erkenning', 'verleen', 'aan', 'een', 'Suid-Afrikaner', 'wat', 'nooit', 'huiwer', 'om', 'in', 'tye', 'van', 'nood', 'en', 'rampe', 'te', 'help', 'nie', ',', 'en', 'ons', 'help', 'om', 'die', 'visie', 'van', "'n", 'sorgsame', 'gemeenskap', 'te', 'bevorder', '.']
+['PEENP', 'VTUOM', 'BS', 'ASA', 'NA', 'VTHOG', 'SVS', 'THAB', 'NSE', 'PB', 'BS', 'VTHOO', 'SVS', 'SVS', 'NSM', 'SVS', 'NA', 'KN', 'NSM', 'UPI', 'VTHOO', 'UPO', 'ZM', 'KN', 'PEMP', 'VTHOG', 'SVS', 'LB', 'NSE', 'SVS', 'LO', 'ASA', 'NSE', 'UPI', 'VTHOG', 'ZE']
+['PEENP', 'VTUOM', 'BS', 'ASA', 'NA', 'VTHOG', 'SVS', 'THAB', 'NSM', 'PB', 'AVA', 'NSE', 'SVS', 'SVS', 'NSM', 'SVS', 'NSM', 'KN', 'NSM', 'UPI', 'VTHOO', 'UPO', 'ZM', 'KN', 'PEMP', 'VTUOA', 'SVS', 'LB', 'NSE', 'SVS', 'LO', 'ASA', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.8611111111111112
+['Ons', 'verwelkom', 'vandag', 'dr', 'Imtiaz', 'Sooliman', 'van', 'Gift', 'of', 'the', 'Givers', 'in', 'hierdie', 'huis', '.']
+['PEMP', 'VTHOG', 'BS', 'RA', 'NEE', 'NEE', 'SVS', 'NEE', 'NEE', 'NEE', 'NEE', 'SVS', 'PA', 'NSE', 'ZE']
+['PEMP', 'VTUOM', 'BS', 'BS', 'ASA', 'NSE', 'SVS', 'NSM', 'KN', 'ASA', 'NSE', 'SVS', 'PA', 'NSE', 'ZE']
+0.4666666666666667
+['Mede-Suid-Afrikaners', ',']
+['NSM', 'ZM']
+['NSM', 'ZM']
+1.0
+['Om', 'as', 'gasheerland', 'vir', 'die', 'FIFA', 'WÃªreldbeker', 'op', 'te', 'tree', ',', 'maak', 'van', '2010', 'voorwaar', "'n", 'jaar', 'van', 'aksie', '.']
+['SVS', 'KO', 'NSE', 'SVS', 'LB', 'RK', 'NSE', 'UPW', 'UPI', 'VTHOO', 'ZM', 'VTHOO', 'SVS', 'RS', 'BS', 'LO', 'NSE', 'SVS', 'NSE', 'ZE']
+['SVS', 'KO', 'NSM', 'SVS', 'LB', 'ASA', 'NSE', 'SVS', 'UPI', 'VTHOO', 'ZM', 'VTHOG', 'SVS', 'RS', 'NSE', 'LO', 'NSE', 'SVS', 'RS', 'ZE']
+0.7
+['Ons', 'beplan', 'reeds', 'jare', 'lank', 'aan', 'hierdie', 'WÃªreldbeker', '.']
+['PEMP', 'VTHOO', 'BS', 'NSM', 'BS', 'SVS', 'PA', 'NSE', 'ZE']
+['PEMP', 'VTUOM', 'BS', 'ASP', 'VTHOK', 'SVS', 'PA', 'NSE', 'ZE']
+0.6666666666666666
+['Daar', 'is', 'nog', 'net', 'drie', 'maande', 'oor', 'voor', 'hierdie', 'geskiedkundige', 'gebeurtenis', 'plaasvind', '.']
+['UXD', 'VTHOK', 'BS', 'BS', 'THAB', 'NSM', 'SVS', 'SVS', 'PA', 'ASA', 'NSE', 'VTHSO', 'ZE']
+['UXD', 'VTHOK', 'BS', 'BS', 'THAB', 'NSM', 'SVS', 'SVS', 'PA', 'NSE', 'ZPR', 'VTHSO', 'ZE']
+0.8461538461538461
+['En', 'ons', 'is', 'vasberade', 'om', "'n", 'sukses', 'daarvan', 'te', 'maak', '.']
+['KN', 'PEMP', 'VTHOK', 'ASP', 'SVS', 'LO', 'NSE', 'PB', 'UPI', 'VTHOG', 'ZE']
+['KN', 'PEMP', 'VTHOK', 'BS', 'SVS', 'LO', 'NSE', 'PB', 'UPI', 'VTHOG', 'ZE']
+0.9090909090909091
+['Die', 'nodige', 'infrastruktuur', ',', 'sekuriteit', 'en', 'logistieke', 'reÃ«lings', 'is', 'alles', 'gereed', 'om', "'n", 'suksesvolle', 'toernooi', 'te', 'verseker', '.']
+['LB', 'ASA', 'NM', 'ZM', 'NA', 'KN', 'ASA', 'NSM', 'VTHOK', 'PO', 'ASP', 'SVS', 'LO', 'ASA', 'NSE', 'UPI', 'VTHOG', 'ZE']
+['LB', 'ASA', 'NM', 'ZM', 'NA', 'KN', 'ASA', 'NSE', 'VTHOK', 'BS', 'ASP', 'SVS', 'LO', 'ASA', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.8888888888888888
+['As', "'n", 'nasie', 'is', 'ons', 'groot', 'dankbaarheid', 'verskuldig', 'teenoor', 'die', '2010', 'Plaaslike', 'ReÃ«lingskomitee', 'vir', 'hul', 'uitstekende', 'poging', '.']
+['KO', 'LO', 'NSE', 'VTHOK', 'PEMP', 'ASA', 'NA', 'ASP', 'SVS', 'LB', 'RS', 'ASA', 'NSE', 'SVS', 'PDMB', 'ASA', 'NSE', 'ZE']
+['KO', 'LO', 'NSE', 'VTHOK', 'PEMB', 'ASA', 'ASA', 'NSE', 'SVS', 'LB', 'TRAB', 'ASA', 'NSE', 'SVS', 'PDMB', 'ASA', 'NSE', 'ZE']
+0.7777777777777778
+['Ons', 'wens', 'die', 'voorsitter', 'van', 'die', 'komitee', ',', 'Irvin', 'Khoza', ',', 'die', 'Hoof', 'Uitvoerende', 'Beampte', ',', 'Danny', 'Jordaan', ',', 'en', 'die', 'afrigter', 'van', 'Bafana', 'Bafana', ',', 'Carlos', 'Alberto', 'Parreira', ',', 'alles', 'van', 'die', 'beste', 'toe', 'vir', 'die', 'volgende', 'paar', 'maande', '.']
+['PEMP', 'VTHOG', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'ZM', 'NEE', 'NEE', 'ZM', 'LB', 'RWD', 'ASA', 'NSE', 'ZM', 'NEE', 'NEE', 'ZM', 'KN', 'LB', 'NSE', 'SVS', 'NEE', 'NEE', 'ZM', 'NEE', 'NEE', 'NEE', 'ZM', 'PO', 'SVS', 'LB', 'AOA', 'UPW', 'SVS', 'LB', 'ASA', 'THAO', 'NSM', 'ZE']
+['PEMP', 'VTHOG', 'LB', 'NSE', 'SVS', 'LB', 'NSE', 'ZM', 'NEE', 'NEE', 'ZM', 'LB', 'NSE', 'ASP', 'VTHOK', 'ZM', 'NEE', 'NEE', 'ZM', 'KN', 'LB', 'NSE', 'SVS', 'NEE', 'NEE', 'ZM', 'NEE', 'NEE', 'NEE', 'ZM', 'NA', 'SVS', 'LB', 'AOA', 'UPW', 'SVS', 'LB', 'ASA', 'THAO', 'NSM', 'ZE']
+0.9024390243902439
+['President', 'Mandela', 'het', "'n", 'sentrale', 'rol', 'gespeel', 'om', 'die', 'land', 'te', 'help', 'om', 'die', 'gasheerregte', 'vir', 'hierdie', 'groot', 'geleentheid', 'te', 'wen', '.']
+['NSE', 'NEE', 'VUOT', 'LO', 'ASA', 'NSE', 'VVHOG', 'SVS', 'LB', 'NSE', 'UPI', 'VTHOG', 'SVS', 'LB', 'NSM', 'SVS', 'PA', 'ASA', 'NSE', 'UPI', 'VTHOG', 'ZE']
+['PEENP', 'VVHOO', 'VUOT', 'LO', 'ASA', 'NSE', 'VVHOG', 'SVS', 'LB', 'NSE', 'UPI', 'VTUOA', 'SVS', 'LB', 'NSE', 'SVS', 'PA', 'ASA', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.8181818181818182
+['Ons', 'moet', 'dus', 'tot', 'sy', 'eer', "'n", 'sukses', 'van', 'die', 'WÃªreldbeker', 'maak', '.']
+['PEMP', 'VTUOM', 'BS', 'SVS', 'PDHEB', 'NA', 'LO', 'NSE', 'SVS', 'LB', 'NSE', 'VTHOG', 'ZE']
+['PEMP', 'VTUOM', 'BS', 'SVS', 'PDHEB', 'NSE', 'LO', 'NSE', 'SVS', 'LB', 'NSE', 'VTHOG', 'ZE']
+0.9230769230769231
+['Landsgenote', ',', 'kom', 'ons', 'skaar', 'ons', 'ook', 'agter', 'ons', 'nasionale', 'span', ',', 'die', 'Bafana', 'Bafana', '.']
+['NSM', 'ZM', 'VTUOA', 'PEMP', 'VTHOG', 'PEMW', 'BS', 'SVS', 'PEMB', 'ASA', 'NSE', 'ZM', 'LB', 'NEE', 'NEE', 'ZE']
+['NSM', 'ZM', 'VTUOA', 'PEMP', 'VTHOG', 'PEMP', 'BS', 'ASP', 'PEMB', 'ASA', 'NSE', 'ZM', 'LB', 'NEE', 'NEE', 'ZE']
+0.875
+['Die', 'belangrikste', 'is', ',', 'wees', 'in', 'besit', 'van', 'julle', 'kaartjies', ',', 'landsgenote', '!']
+['LB', 'NA', 'VTHOK', 'ZM', 'VTHOK', 'SVS', 'NA', 'SVS', 'PTMB', 'NSM', 'ZM', 'NSM', 'ZE']
+['LB', 'AOA', 'VVUOP', 'ZM', 'VTHOK', 'SVS', 'NA', 'SVS', 'PDMB', 'NSM', 'ZM', 'NEE', 'ZE']
+0.6923076923076923
+['Kom', 'ons', 'koop', 'almal', 'betyds', 'kaartjies', 'sodat', 'ons', 'die', 'wedstryde', 'kan', 'bywoon', '.']
+['VTUOA', 'PEMP', 'VTHOG', 'PO', 'BS', 'NSM', 'KO', 'PEMP', 'LB', 'NSM', 'VTUOM', 'VTHSG', 'ZE']
+['NSM', 'PEMB', 'RV', 'RV', 'RV', 'RV', 'KO', 'PEMP', 'LB', 'NSE', 'VTUOM', 'VTHOG', 'ZE']
+0.38461538461538464
+['Mede-Suid-Afrikaners', ',']
+['NSM', 'ZM']
+['NSM', 'ZM']
+1.0
+['Wanneer', 'ons', 'vandag', 'Madiba', 'se', 'vrylating', 'gedenk', ',', 'herverbind', 'ons', 'onsself', 'tot', 'versoening', ',', 'nasionale', 'eenheid', ',', 'nie-rassigheid', 'en', 'om', "'n", 'beter', 'toekoms', 'vir', 'ons', 'as', 'Suid-Afrikaners', ',', 'swart', 'en', 'wit', ',', 'te', 'bou', '.']
+['PB', 'PEMP', 'BS', 'NEE', 'UPS', 'NA', 'VTHOG', 'ZM', 'VTHOG', 'PEMP', 'PEMW', 'SVS', 'NA', 'ZM', 'ASA', 'NA', 'ZM', 'NA', 'KN', 'SVS', 'LO', 'AVA', 'NA', 'SVS', 'PEMP', 'KO', 'NSM', 'ZM', 'ASA', 'KN', 'ASA', 'ZM', 'UPI', 'VTHOG', 'ZE']
+['PB', 'PEMP', 'BS', 'ASP', 'UPS', 'ASA', 'NSM', 'ZM', 'NEE', 'PEMP', 'PEMW', 'SVS', 'RS', 'ZM', 'ASA', 'NA', 'ZM', 'RWD', 'KN', 'SVS', 'LO', 'AVA', 'NA', 'SVS', 'PEMP', 'KO', 'NSM', 'ZM', 'ASA', 'KN', 'NSM', 'ZM', 'UPI', 'VTHOG', 'ZE']
+0.8
+['Ons', 'word', 'gelei', 'deur', 'dÃ\xadt', 'wat', 'Madiba', 'in', 'die', 'beskuldigdebank', 'gesÃª', 'het', ',', 'en', 'ek', 'haal', 'aan', ':']
+['PEMP', 'VTUOP', 'VVHOG', 'SVS', 'PA', 'PB', 'NEE', 'SVS', 'LB', 'NSE', 'VVHOG', 'VUOT', 'ZM', 'KN', 'PEENP', 'VTHOG', 'UPW', 'ZM']
+['PEMP', 'VTUOP', 'VVHOG', 'SVS', 'NSM', 'PB', 'NA', 'SVS', 'LB', 'NSE', 'VVHOG', 'VUOT', 'ZM', 'KN', 'PEENP', 'VTHOG', 'UPW', 'ZM']
+0.8888888888888888
+['Gedurende', 'my', 'lewe', 'het', 'ek', 'myself', 'toegewy', 'aan', 'hierdie', 'vryheidstryd', 'van', 'die', 'mense', 'van', 'Afrika', '.']
+['SVS', 'PEEB', 'NSE', 'VUOT', 'PEENP', 'PEEW', 'VVHOG', 'SVS', 'PA', 'NA', 'SVS', 'LB', 'NSM', 'SVS', 'NEE', 'ZE']
+['PEENP', 'PEEDP', 'VVHOO', 'VUOT', 'PEENP', 'ASP', 'VTHOK', 'SVS', 'PA', 'NSE', 'SVS', 'LB', 'NSM', 'SVS', 'NEE', 'ZE']
+0.625
+['Ek', 'het', 'gestry', 'teen', 'blanke', 'oorheersing', 'en', 'ek', 'het', 'gestry', 'teen', 'swart', 'oorheersing', '.']
+['PEENP', 'VUOT', 'VVHOO', 'SVS', 'ASA', 'NA', 'KN', 'PEENP', 'VUOT', 'VVHOO', 'SVS', 'ASA', 'NA', 'ZE']
+['PEENP', 'VUOT', 'NA', 'SVS', 'ASA', 'NSE', 'KN', 'PEENP', 'VUOT', 'NA', 'SVS', 'ASA', 'NSE', 'ZE']
+0.7142857142857143
+['Ek', 'het', 'die', 'ideaal', 'gekoester', 'van', "'n", 'demokratiese', 'en', 'vrye', 'samelewing', ',', 'waarin', 'almal', 'in', 'harmonie', 'saamleef', 'met', 'gelyke', 'geleenthede', '.']
+['PEENP', 'VUOT', 'LB', 'NSE', 'VVHOG', 'SVS', 'LO', 'ASA', 'KN', 'ASA', 'NSE', 'ZM', 'PB', 'PO', 'SVS', 'NA', 'VTHSO', 'SVS', 'ASA', 'NSM', 'ZE']
+['PEENP', 'VUOT', 'LB', 'ASA', 'NSE', 'SVS', 'LO', 'ASA', 'KN', 'ASA', 'NSE', 'ZM', 'PB', 'PO', 'SVS', 'ASA', 'NSE', 'SVS', 'ASA', 'NSM', 'ZE']
+0.8095238095238095
+['Dit', 'is', "'n", 'ideaal', 'waarvoor', 'ek', 'hoop', 'om', 'te', 'lewe', 'en', 'te', 'bereik', '.']
+['PDOENP', 'VTHOK', 'LO', 'NSE', 'PB', 'PEENP', 'VTHOG', 'SVS', 'UPI', 'VTHOO', 'KN', 'UPI', 'VTHOO', 'ZE']
+['PDOENP', 'VTHOK', 'LO', 'NSE', 'PB', 'PEENP', 'NA', 'SVS', 'UPI', 'VTHOG', 'KN', 'UPI', 'VTHOG', 'ZE']
+0.7857142857142857
+['Maar', ',', 'as', 'dit', 'nodig', 'sou', 'wees', ',', 'is', 'dit', "'n", 'ideaal', 'waarvoor', 'ek', 'bereid', 'is', 'om', 'te', 'sterf', '.']
+['KN', 'ZM', 'KO', 'PDOENP', 'ASP', 'VVUOM', 'VTHOK', 'ZM', 'VTHOK', 'PDOENP', 'LO', 'NSE', 'PB', 'PEENP', 'ASP', 'VTHOK', 'SVS', 'UPI', 'VTHOO', 'ZE']
+['TRBB', 'ZM', 'KO', 'PDOENP', 'ASP', 'VVUOM', 'VTHOK', 'ZM', 'VTHOK', 'PDOENP', 'LO', 'NSE', 'PB', 'PEENP', 'ASP', 'VTHOK', 'SVS', 'UPI', 'VTHOG', 'ZE']
+0.9
+['Besiel', 'deur', 'ons', 'ikoon', 'Madiba', ',', 'is', 'dit', 'nou', 'vir', 'my', "'n", 'eer', 'om', 'hierdie', '2010-Staatsrede', 'aan', 'al', 'ons', 'helde', 'en', 'heldinne', ',', 'besonge', 'en', 'onbesonge', ',', 'bekend', 'en', 'onbekend', ',', 'op', 'te', 'dra', '.']
+['VTHOG', 'SVS', 'PEMB', 'NSE', 'NEE', 'ZM', 'VTHOK', 'PDOENP', 'BS', 'SVS', 'PEEDP', 'LO', 'NA', 'SVS', 'PA', 'NSE', 'SVS', 'THAO', 'PEMB', 'NSM', 'KN', 'NSM', 'ZM', 'ASP', 'KN', 'ASP', 'ZM', 'ASP', 'KN', 'ASP', 'ZM', 'UPW', 'UPI', 'VTHOG', 'ZE']
+['NSE', 'SVS', 'PEMB', 'ASA', 'NSM', 'ZM', 'VTHOK', 'PDOENP', 'BS', 'SVS', 'PEEDP', 'LO', 'NSE', 'SVS', 'PA', 'NSE', 'SVS', 'THAO', 'PEMB', 'NSE', 'KN', 'NSM', 'ZM', 'RWD', 'KN', 'NSM', 'ZM', 'RWD', 'KN', 'NSM', 'ZM', 'UPW', 'UPI', 'VTHOG', 'ZE']
+0.7428571428571429
+['Kom', 'ons', 'werk', 'saam', 'om', 'hierdie', 'jaar', 'van', 'aksie', "'n", 'suksesvolle', 'jaar', 'vir', 'ons', 'land', 'te', 'maak', '.']
+['VTUOA', 'PEMP', 'VTHOO', 'UPW', 'SVS', 'PA', 'NSE', 'SVS', 'NSE', 'LO', 'ASA', 'NSE', 'SVS', 'PEMB', 'NSE', 'UPI', 'VTHOG', 'ZE']
+['NSM', 'PEMP', 'VTHOO', 'BS', 'SVS', 'PA', 'NSE', 'SVS', 'UPB', 'LO', 'ASA', 'NSE', 'SVS', 'PEMB', 'NSE', 'UPI', 'VTHOG', 'ZE']
+0.8333333333333334
+Average accuracy: 0.8176663811544984
