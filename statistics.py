@@ -7,7 +7,8 @@
 import dataset
 import csv
 
-q_dist_filename = "data/processed/q_dist.csv"
+q_dist_bigram_filename = "data/processed/q_dist.bigram.csv"
+q_dist_trigram_filename = "data/processed/q_dist.trigram.csv"
 e_dist_filename = "data/processed/e_dist.csv"
 
 def get_words(dataset):
@@ -101,7 +102,7 @@ def get_trigram_counts(dataset):
       tag_0 = tag_1
   return trigram_tags_counts
 
-def get_transition_distribution(dataset, smoothing = "none", lambdas=[0.5,0.5]):
+def get_transition_distribution(dataset, smoothing = "none", lambdas=[0.15,0.85]):
   """Return the transition (q) distribution for the provided dataset."""
   # check parameters
   if sum(lambdas) != 1.0:
@@ -170,18 +171,31 @@ def get_trigram_distribution(dataset):
 def main():
   """Calculate and output transition and emission distributions for the selected dataset."""
   # get training set
-  train_set = dataset.subset(dataset.load("train"), 0.0, 1.0)
-  # calculate and output transition distribution
-  q_dist = get_transition_distribution(train_set, smoothing="laplace")
-  output_file = open(q_dist_filename, mode="w")
+  train_set = dataset.subset(dataset.load("train"), 0.0, 1.0)  
+  # calculate and output bigram transition distribution
+  q_dist_bigram = get_transition_distribution(train_set, smoothing="interpolation")
+  output_file = open(q_dist_bigram_filename, mode="w")
   output_writer = csv.writer(output_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
   output_writer.writerow(["tag_0", "tag_1", "p"])
-  for outer_set in q_dist.items():
+  for outer_set in q_dist_bigram.items():
     tag_0 = outer_set[0]
     for inner_set in outer_set[1].items():
       tag_1 = inner_set[0]
       p = inner_set[1]
       output_writer.writerow([tag_0, tag_1, p])
+  # calculate and output trigram transition distribution
+  q_dist_trigram = get_trigram_distribution(train_set)
+  output_file = open(q_dist_trigram_filename, mode="w")
+  output_writer = csv.writer(output_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+  output_writer.writerow(["tag_0", "tag_1", "tag_2", "p"])
+  for outer_outer_set in q_dist_trigram.items():
+    tag_0 = outer_outer_set[0]
+    for outer_set in outer_outer_set[1].items():
+      tag_1 = outer_set[0]
+      for inner_set in outer_set[1].items():
+        tag_2 = inner_set[0]
+        p = inner_set[1]
+        output_writer.writerow([tag_0, tag_1, tag_2, p])
   # calculate and output emission distribution
   e_dist = get_emission_distribution(train_set, smoothing="laplace")
   output_file = open(e_dist_filename, mode="w")
@@ -193,6 +207,7 @@ def main():
       tag = inner_set[0]
       p = inner_set[1]
       output_writer.writerow([word, tag, p])
+  
 
 if __name__ == "__main__":
   main()
