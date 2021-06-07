@@ -1,4 +1,3 @@
-C:\Users\steveW\Documents\University of Cape Town\NLP\Assignment1\Part_of_speech tagging with HMM\Part_of_speech-tagging-with-HMM>python3 tagger_2.py
 ['Laai', 'die', 'elektroniese', 'aansoekvorm', 'af', 'of', 'kry', 'dit', 'by', 'jou', 'naaste', 'SAID-kantoor', '.']
 ['VTHOG', 'LB', 'ASA', 'NSE', 'UPW', 'KN', 'VTHOG', 'PDOENP', 'SVS', 'PTEB', 'AOA', 'NSE', 'ZE']
 ['VTHOG', 'LB', 'ASA', 'NSE', 'UPW', 'KN', 'VTHOG', 'PDOENP', 'SVS', 'PTEB', 'AOA', 'UPO', 'ZE']
