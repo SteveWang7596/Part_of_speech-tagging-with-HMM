@@ -82,6 +82,7 @@ def get_trigram_counts(dataset):
   """Return trigram tag counts, and word-tag pair counts in the provided dataset."""
   #initialise trigram_tag_count to 0
   tags = get_tags(dataset)
+  tags.append("UNKNOWN")
   trigram_tags_counts = {}
   for tri_tag_0 in tags:
     trigram_tags_counts[tri_tag_0] = {}
@@ -148,6 +149,7 @@ def get_emission_distribution(dataset, smoothing = "none"):
 def get_trigram_distribution(dataset):
   """"Return the transition (q) distibiton for the provided dataset."""
   tags = get_tags(dataset)
+  tags.append("UNKNOWN")
   counts = get_counts(dataset)
   tri_counts = get_trigram_counts(dataset)
   tri_q_dist = {}
