@@ -38,7 +38,7 @@ else:
 test_set = dataset.load(test_name)
 test_set = dataset.subset(test_set, test_start, test_end)
 
-q_dist = statistics.get_transition_distribution(train_set, smoothing="Interpolation", lambdas=[lambda_0, 1-lambda_0])
+q_dist = statistics.get_transition_distribution(train_set, smoothing="interpolation", lambdas=[lambda_0, 1-lambda_0])
 e_dist = statistics.get_emission_distribution(train_set, smoothing="laplace")
 trained_POS_tags = statistics.get_tags(train_set)
 trained_words = statistics.get_words(train_set)
