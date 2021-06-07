@@ -38,8 +38,14 @@ def load(name = "train"):
       line_count += 1
     return dataset
 
+def subset(dataset, start_proportion = 0.0, end_proportion = 1.0):
+  """Return a proportionate subset of the provided dataset."""
+  start_idx = math.floor(len(dataset) * start_proportion)
+  end_idx = math.floor(len(dataset) * end_proportion)
+  return dataset[start_idx:end_idx]
+
 def prepare(dataset):
-  """Return the dataset with low-frequency words converted to <UNK>"""
+  """Return the dataset with low-frequency words converted to <UNK>."""
   word_counts = {}
   for sentence in dataset:
     for word in sentence["words"]:
@@ -52,9 +58,3 @@ def prepare(dataset):
       if word_counts[dataset[i]["words"][j]] <= unknown_threshold:
         dataset[i]["words"][j] = "<UNK>"
   return dataset
-
-def subset(dataset, start_proportion = 0.0, end_proportion = 1.0):
-  """Return a proportionate subset of the provided dataset."""
-  start_idx = math.floor(len(dataset) * start_proportion)
-  end_idx = math.floor(len(dataset) * end_proportion)
-  return dataset[start_idx:end_idx]

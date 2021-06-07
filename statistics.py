@@ -33,9 +33,7 @@ def get_tags(dataset):
 def get_counts(dataset):
   """Return unigram and bigram tag counts, and word-tag pair counts in the provided dataset."""
   words = get_words(dataset)
-  words.append("UNKNOWN_WORD")
   tags = get_tags(dataset)
-  tags.append("UNKNOWN")
   # initialise unigram_tag_counts to 0
   unigram_tag_counts = {}
   for tag in tags:
@@ -72,10 +70,6 @@ def get_counts(dataset):
       bigram_tag_counts[tag_0][tag_1] += 1
       token_count += 1
       tag_0 = tag_1
-  unigram_tag_counts["UNKNOWN"] = 0
-  for tag in tags:
-    bigram_tag_counts["UNKNOWN"][tag] = 0
-    bigram_tag_counts[tag]["UNKNOWN"] = 0
   return {
     "unigram_tag_counts": unigram_tag_counts,
     "bigram_tag_counts": bigram_tag_counts,
@@ -87,7 +81,6 @@ def get_trigram_counts(dataset):
   """Return trigram tag counts, and word-tag pair counts in the provided dataset."""
   #initialise trigram_tag_count to 0
   tags = get_tags(dataset)
-  tags.append("UNKNOWN")
   trigram_tags_counts = {}
   for tri_tag_0 in tags:
     trigram_tags_counts[tri_tag_0] = {}
@@ -115,7 +108,6 @@ def get_transition_distribution(dataset, smoothing = "none", lambdas=[0.5,0.5]):
     raise ValueError("The provided lambda values for linear interpolation smoothing do not sum to 1.0.")
   # get dataset counts
   tags = get_tags(dataset)
-  tags.append("UNKNOWN")
   counts = get_counts(dataset)
   token_count = counts["token_count"]
   q_dist = {}
@@ -140,9 +132,7 @@ def get_transition_distribution(dataset, smoothing = "none", lambdas=[0.5,0.5]):
 def get_emission_distribution(dataset, smoothing = "none"):
   """Return the emission (e) distribution for the provided dataset."""
   words = get_words(dataset)
-  words.append("UNKNOWN_WORD")
   tags = get_tags(dataset)
-  tags.append("UNKNOWN")
   counts = get_counts(dataset)
   e_dist = {}
   for word in words:
@@ -162,7 +152,6 @@ def get_emission_distribution(dataset, smoothing = "none"):
 def get_trigram_distribution(dataset):
   """"Return the transition (q) distibiton for the provided dataset."""
   tags = get_tags(dataset)
-  tags.append("UNKNOWN")
   counts = get_counts(dataset)
   tri_counts = get_trigram_counts(dataset)
   tri_q_dist = {}
