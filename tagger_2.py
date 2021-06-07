@@ -1,4 +1,4 @@
-# Second_order_HHM_tagger.py
+# tagger_2.py
 # Steve Wang
 # 28 May 2021
 

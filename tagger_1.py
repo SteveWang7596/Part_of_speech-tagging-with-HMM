@@ -1,4 +1,4 @@
-# HHM_tagger.py
+# tagger_1.py
 # Steve Wang
 # 28 May 2021
 
