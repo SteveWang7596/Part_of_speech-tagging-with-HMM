@@ -12,28 +12,29 @@ import statistics
 # PRE-PROCESSING                                          #
 ###########################################################
 
-if len(sys.argv) == 9:
-    train_name = sys.argv[1]
-    train_start = float(sys.argv[2])
-    train_end = float(sys.argv[3])
-    test_name = sys.argv[4]
-    test_start = float(sys.argv[5])
-    test_end = float(sys.argv[6])
-    lambda_0 = float(sys.argv[7])
-    verbose = bool(int(sys.argv[8]))
+if len(sys.argv) == 4:
+    train_name = "train"
+    test_name = "train"
+    test_start = float(sys.argv[1])
+    test_end = float(sys.argv[2])
+    lambda_0 = float(sys.argv[3])
+    verbose = False
+    split_set = True
 else:
     train_name = "train"
-    train_start = 0.0
-    train_end = 1.0
     test_name = "test"
     test_start = 0.0
     test_end = 1.0
     lambda_0 = 0.5
     verbose = True
+    split_set = False
 
-train_set = dataset.load(train_name)
-train_set = dataset.subset(train_set, train_start, train_end)
-train_set = dataset.prepare(train_set)
+train_corpus = dataset.load(train_name)
+if split_set:
+    train_set = dataset.subset(train_corpus, 0.0, test_start) + dataset.subset(train_corpus, test_end, 1.0)
+    train_set = dataset.prepare(train_set)
+else:
+    train_set = dataset.prepare(train_corpus)
 test_set = dataset.load(test_name)
 test_set = dataset.subset(test_set, test_start, test_end)
 
