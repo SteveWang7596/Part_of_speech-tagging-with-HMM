@@ -52,11 +52,14 @@ def get_counts(dataset):
     word_tag_pair_counts[word] = {}
     for tag in tags:
       word_tag_pair_counts[word][tag] = 0
+  # initialise token_count to 0
+  token_count = 0
   # count occurrences in dataset
   for sentence in dataset:
     sentence_words = sentence["words"]
     sentence_tags = sentence["tags"]
     tag_0 = "START"
+    token_count += 1
     for i in range(len(sentence_tags) + 1):
       if i < len(sentence_tags):
         tag_1 = sentence_tags[i]
@@ -67,6 +70,7 @@ def get_counts(dataset):
       unigram_tag_counts[tag_0] += 1
       unigram_tag_counts[tag_1] += 1
       bigram_tag_counts[tag_0][tag_1] += 1
+      token_count += 1
       tag_0 = tag_1
   unigram_tag_counts["UNKNOWN"] = 0
   for tag in tags:
@@ -75,7 +79,8 @@ def get_counts(dataset):
   return {
     "unigram_tag_counts": unigram_tag_counts,
     "bigram_tag_counts": bigram_tag_counts,
-    "word_tag_pair_counts": word_tag_pair_counts
+    "word_tag_pair_counts": word_tag_pair_counts,
+    "token_count": token_count
   }
 
 def get_trigram_counts(dataset):
@@ -92,7 +97,6 @@ def get_trigram_counts(dataset):
         trigram_tags_counts[tri_tag_0][tri_tag_1][tri_tag_2] = 0
   for sentence in dataset:
     sentence_tags = sentence["tags"]
-    sentence_words = sentence["words"]
     tag_0 = "START"
     for i in range(len(sentence_tags)):
       tag_1 = sentence_tags[i]
@@ -104,23 +108,32 @@ def get_trigram_counts(dataset):
       tag_0 = tag_1
   return trigram_tags_counts
 
-def get_transition_distribution(dataset, smoothing = "none"):
+def get_transition_distribution(dataset, smoothing = "none", lambdas=[0.5,0.5]):
   """Return the transition (q) distribution for the provided dataset."""
+  # check parameters
+  if sum(lambdas) != 1.0:
+    raise ValueError("The provided lambda values for linear interpolation smoothing do not sum to 1.0.")
+  # get dataset counts
   tags = get_tags(dataset)
   tags.append("UNKNOWN")
   counts = get_counts(dataset)
+  token_count = counts["token_count"]
   q_dist = {}
   for tag_0 in tags:
     q_dist[tag_0] = {}
-    unigram_tag_count = counts["unigram_tag_counts"][tag_0] # c(tag_0)
+    unigram_tag_0_count = counts["unigram_tag_counts"][tag_0] # c(tag_0)
     for tag_1 in tags:
+      unigram_tag_1_count = counts["unigram_tag_counts"][tag_1] # c(tag_1)
       bigram_tag_count = counts["bigram_tag_counts"][tag_0][tag_1] # c(tag_0, tag_1)
       # Laplace smoothing
       if smoothing == "laplace":
-        p = (bigram_tag_count + 1) / (unigram_tag_count + len(tags))
+        p = (bigram_tag_count + 1) / (unigram_tag_0_count + len(tags))
+      # Linear interpolation smoothing
+      elif smoothing == "interpolation":
+        p = lambdas[0] * (bigram_tag_count / unigram_tag_0_count) + lambdas[1] * (unigram_tag_1_count / token_count)
       # No smoothing
       else:
-        p = bigram_tag_count / unigram_tag_count
+        p = bigram_tag_count / unigram_tag_0_count
       q_dist[tag_0][tag_1] = p
   return q_dist
 
@@ -135,7 +148,7 @@ def get_emission_distribution(dataset, smoothing = "none"):
   for word in words:
     e_dist[word] = {}
     for tag in tags:
-      unigram_tag_count = counts["unigram_tag_counts"][tag] # c(tag_0)
+      unigram_tag_count = counts["unigram_tag_counts"][tag] # c(tag)
       word_tag_pair_count = counts["word_tag_pair_counts"][word][tag] # c(word, tag)
       # Laplace smoothing
       if smoothing == "laplace":
@@ -169,7 +182,6 @@ def main():
   """Calculate and output transition and emission distributions for the selected dataset."""
   # get training set
   train_set = dataset.subset(dataset.load("train"), 0.0, 1.0)
-
   # calculate and output transition distribution
   q_dist = get_transition_distribution(train_set, smoothing="laplace")
   output_file = open(q_dist_filename, mode="w")
@@ -181,7 +193,6 @@ def main():
       tag_1 = inner_set[0]
       p = inner_set[1]
       output_writer.writerow([tag_0, tag_1, p])
-
   # calculate and output emission distribution
   e_dist = get_emission_distribution(train_set, smoothing="laplace")
   output_file = open(e_dist_filename, mode="w")
