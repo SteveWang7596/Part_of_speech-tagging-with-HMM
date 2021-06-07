@@ -10,6 +10,7 @@ import math
 
 train_filename = "data/raw/GOV-ZA.50000TrainingSet.af.pos.full.csv"
 test_filename = "data/raw/GOV-ZA.5000TestSet.af.pos.full.csv"
+unknown_threshold = 1 # all words that only occur once will be transformed to <UNK>
 
 def load(name = "train"):
   """Return the requested dataset as a list of word-tag paired sentences."""
@@ -36,6 +37,21 @@ def load(name = "train"):
         sentence_tags.append(tag)
       line_count += 1
     return dataset
+
+def prepare(dataset):
+  """Return the dataset with low-frequency words converted to <UNK>"""
+  word_counts = {}
+  for sentence in dataset:
+    for word in sentence["words"]:
+      if word not in word_counts:
+        word_counts[word] = 1
+      else:
+        word_counts[word] += 1
+  for i in range(len(dataset)):
+    for j in range(len(dataset[i]["words"])):
+      if word_counts[dataset[i]["words"][j]] <= unknown_threshold:
+        dataset[i]["words"][j] = "<UNK>"
+  return dataset
 
 def subset(dataset, start_proportion = 0.0, end_proportion = 1.0):
   """Return a proportionate subset of the provided dataset."""
